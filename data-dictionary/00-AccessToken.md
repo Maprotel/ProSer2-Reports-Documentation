@@ -1,16 +1,16 @@
 # AccessToken
  
 ## id - id
-* Número secuencial generado automáticamente por el sistema para cada token. 
+* Número secuencial generado automáticamente por el sistema por cada registro. 
 
 ## ttl - ttl
-* xxx
+* Tiempo de vida del token.
 
 ## scopes - alcances
-* xxx
+* Alcance del token.
 
 ## created - creado
-* Fecha y hora en la cual esta registrado el token en formato YYYY-MM-DD  HH:MM:SS. 
+* Fecha y hora en la cual está registrado el token en formato YYYY-MM-DD  HH:MM:SS. 
 
 ## userld - userld
-* xxx
+* Id del usuario al que pertenece el token.

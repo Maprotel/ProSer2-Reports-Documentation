@@ -1,22 +1,22 @@
 # ACL
 
 ## id - id
-* Número secuencial generado automáticamente por el sistema por cada ACL.  
+* Número secuencial generado automáticamente por el sistema por cada registro.  
 
 ## model - modelo
-* xxx  
+* Nombre del modelo.
 
 ## property - propiedad
-* xxx
+* Nombre de la propiedad, método, alcance o relación.
 
 ## accessType - accessType
-* xxx
+* Tipo de acceso otorgado: READ, WRITE o EXECUTION.
 
 ## permission - permiso
-* xxx 
+* Tipo de permiso otorgado: ALARM, ALLOW, AUDIT o DENY.
 
 ## principalType - principalType
-* xxx
+* Tipo de principal: APPLICATION, USER o ROLE
 
 ## principalld - principalld
-* xxx
+* Id del principal. Tales como: appId, userId o roleId.

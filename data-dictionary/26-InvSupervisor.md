@@ -1,35 +1,35 @@
 # InvSupervisor
 
 ## inv_supervisor_id
-* Número secuencial generado automáticamente por el sistema por cada inventario de supervisor.
+* Es un campo auxiliar. Su propósito es señalar si el registro tiene transacciones.
 
 ## inv_supervisor_status
-* Estado de cada inventario de supervisor en A(activo), I(inactivo).
+* Estado del registro: A(activo), I(inactivo).
 
 ## inv_supervisor_chk
-* xxx
+* Es un campo auxiliar. Su propósito es señalar si el registro tiene transacciones.
 
 ## inv_supervisor_name
-* Nombre de cada inventario de supervisor.
+* Nombre del supervisor.
 
 ## inv_supervisor_shortname
-* Nombre corto de cada inventario de supervisor.
+* Nombre corto del supervisor.
 
 ## inv_supervisor_legal_id
-* Número secuencial generado automáticamente por el sistema por cada inventario de supervisor legal.
+* Número de identificación legal del supervisor: Cédula, DNI, Pasaporte, etc.
 
 ## inv_supervisor_internal_id
-* Número secuencial generado automáticamente por el sistema por cada inventario de supervisor interno.
+* Número de identificación laboral del supervisor.
 
 __JSON__
 
 
 ## inv_supervisor_people_json
-* Registro de cada inventario de supervisores por personas en formato json.
+* Campo relacional que asocia el registro con valores de personas de otras tablas.
 
 ## inv_supervisor_operation_json
-* Operaciones de cada inventario de supervisor en formato json.
+* Campo relacional que asocia el registro con valores de operaciones de otras tablas.
 
 ## inv_supervisor_time_json
-* Tiempo de cada inventario de supervisor en formato json.
+* Campo relacional que asocia el registro con valores de tiempo, fecha y día de otras tablas.
 

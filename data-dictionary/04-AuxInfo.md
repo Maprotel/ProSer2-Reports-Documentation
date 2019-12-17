@@ -1,10 +1,10 @@
 # AuxInfo
 
 ## aux_info_id - aux_info_id
-* Número secuencial generado automáticamente por el sistema.
+* Número secuencial generado automáticamente por el sistema por cada registro.
 
 ## aux_info_name - aux_info_nombre
-* Nombre de la información registrada.
+* Nombre del registro.
 
 ## aux_info_status - aux_info_estado
-* Estado de la información incluido al aux: A(activo), I(inactivo).
+* Estado del registro: A(activo), I(inactivo).

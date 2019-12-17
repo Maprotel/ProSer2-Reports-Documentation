@@ -1,22 +1,22 @@
 # MainAudit
 
 ## audit_id	- auditoria_id
-* Número secuencial generado automáticamente por el sistema por cada auditoría.
+* Campo relacional que asocia el registro con valores de tiempo, fecha y día de otras tablas.
 
 ## audit_agent_id - auditoria_agente_id
-* Número secuencial generado automáticamente por el sistema por cada auditoría de agente.
+* Número de identificación del agente asociado al registro.
 
 ## audit_break_id - auditoria_rotura_id
-* Número secuencial generado automáticamente por el sistema por cada auditoría de rotura.
+* Número de identificación del break asociado al registro.
 
 ## audit_datetime_init - auditoria_fecha_hora_inicio
-* Fecha y hora de inicio de cada auditoria.
+* Fecha y hora de inicio del registro.
 
 ## audit_datetime_end - auditoria_fecha_hora_final
-* Fecha y hora de final de cada auditoria.
+* Fecha y hora de final del registro.
 
 ## audit_duration - auditoria_duracion
-* Duración de cada auditoria.
+* Duración del registro.
 
 ## audit_ext_parked	- auditoria_ext_estacionado
 * xxx
@@ -24,29 +24,25 @@
 __TIME__	
 
 ## audit_duration_sec - auditoria_duracion_sec
-* Duración en segundos de cada auditoria.
+* Duración en segundos del registro.
 
 ## audit_status - auditoria_estado
-* Estado de cada auditoria en A(activo), I(inactivo).
+* Estado del registro: A(activo), I(inactivo).
 
 ## audit_date - auditoria_fecha
-* Fecha de cada auditoria.
+* Fecha del registro.
 
-__HCA__	
-
-## audit_hca_agent_serial_id - auditoria_hca_agente_serial_id
-* Número secuencial generado automáticamente por el sistema por cada auditoría de agente serial. 
 
 __JSON__	
 
 ## audit_people_json - auditoria_personas_json
-* Registro de cada persona en auditoria en formato json.
+* Campo relacional que asocia el registro con valores de personas de otras tablas.
 
 ## audit_operation_json - auditoria_operacion_json	
-* Operaciones de auditoria en formato json.
+* Campo relacional que asocia el registro con valores de operaciones de otras tablas.
 
 ## audit_time_json - auditoria_tiempo_json
-* Tiempo de auditoria en formato json.
+* Campo relacional que asocia el registro con valores de tiempo, fecha y día de otras tablas.
 
 __INDEX__	
 
