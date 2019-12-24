@@ -1,7 +1,7 @@
 
 # Reportes 
 
-Esta sección presenta la información en forma de tablas que pueden ser invocadas porel usuario.  
+Esta sección presenta la información en forma de tablas que pueden ser invocadas por el usuario.  
 
 Las tablas fundamentalmente muestran la información de tres fuentes, el **Audit** (Información de los agentes), el **CDR** (Información de las llamadas)y el **CallEntry** (Información de las colas). Adicionalmente esta información se combina con elementos que permiten su clasificación.  
 
@@ -95,8 +95,7 @@ Este menú muestra el nombre del usuario, el estado de la conexión (online/offl
 
 Es una vista que expresa información sobre los indicadores más relevantes de las llamadas entrantes por día según la fecha o intervalo de fecha seleccionada, brindando estadísticas que permiten conocer el comportamiento global de las llamadas recibidas.  
 
-Esta herramienta proporciona la capacidad de navegar a través de datos 
-históricos, dando a conocer, desde el inicio de la operación del Call Center hasta la fecha actual, los valores solicitados. Este reporte está compuesto por un *menú superior, menú inferior, zona de botones* y la *tabla de contenido*.
+Esta herramienta proporciona la capacidad de navegar a través de datos históricos, dando a conocer, desde el inicio de la operación del Call Center hasta la fecha actual, los valores solicitados. Este reporte está compuesto por un *menú superior, menú inferior, zona de botones* y la *tabla de contenido*.
 
 ### Menú superior 
 Se encuentra ubicado en la parte superior de la ventana y en él podemos divisar: el logo de ProSer, el nombre del módulo, las opciones de las vistas que conforman el módulo, el nombre del usuario, el estado de conexión y la hora actual.
@@ -578,7 +577,7 @@ La barra de búsqueda permite al usuario hacer un filtrado rápido de la informa
 **<center> Figura 8 - Zona de botones(Barra de búsqueda) </center>**
 
 ### Tabla de contenido
-Dentro de la tabla de contenido se despliega la información solicitada porel reporte, esta información varía de acuerdo al reporte. Para el caso del reporte de llamadas salientes manuales por intervalo:
+Dentro de la tabla de contenido se despliega la información solicitada por el reporte, esta información varía de acuerdo al reporte. Para el caso del reporte de llamadas salientes manuales por intervalo:
 
 ![Texto alternativo](/img/04-reports/01-calls/04-manual-outgoing-by-interval/5.jpg) 
 **<center> Figura 9 - Tabla de contenido </center>**
@@ -1049,7 +1048,7 @@ La barra de búsqueda permite al usuario hacer un filtrado rápido de la informa
 **<center> Figura 7 - Zona de botones(Barra de búsqueda) </center>**
 
 ### Tabla de contenido
-Dentro de la tabla de contenido se despliega la información solicitada porel reporte, esta información varía de acuerdo al reporte. Para el caso del reporte de agentes conexión y desconexión muestra la sumarización de los valores por cada agente y se estructura de la siguiente forma:
+Dentro de la tabla de contenido se despliega la información solicitada por el reporte, esta información varía de acuerdo al reporte. Para el caso del reporte de agentes conexión y desconexión muestra la sumarización de los valores por cada agente y se estructura de la siguiente forma:
 
 ![Texto alternativo](/img/04-reports/02-agents/01-connection-disconnection/6.jpg) 
 **<center> Figura 8 - Tabla de contenido </center>**
@@ -1549,7 +1548,7 @@ de la información expuesta en el reporte. La búsqueda se hace a través de los
 **<center> Figura 7 - Zona de botones(Barra de búsqueda) </center>**
 
 ### Tabla de contenido
-Dentro de la tabla de contenido se despliega la información solicitada porel reporte, esta información varía de acuerdo al reporte. Para el caso del reporte operativo consolidado se muestra la sumarización de los valores por cada agente y se estructura de la siguiente forma:
+Dentro de la tabla de contenido se despliega la información solicitada por el reporte, esta información varía de acuerdo al reporte. Para el caso del reporte operativo consolidado se muestra la sumarización de los valores por cada agente y se estructura de la siguiente forma:
 
 ![Texto alternativo](/img/04-reports/03-operation/02-consolidated-operating/5.jpg) 
 **<center> Figura 8 - Tabla de contenido </center>**

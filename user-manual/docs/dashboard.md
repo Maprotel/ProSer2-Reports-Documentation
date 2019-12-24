@@ -16,9 +16,9 @@ Dentro de este módulo se encuentran los dashboard que reflejan el comportamient
 
 ## Dashboard de entrantes en tiempo real
 
-El dashboard de entrantes en tiempo real es una versión interactiva del display de llamadas entrantes. Su estructura es similar, se diferencia principalmente en que el dashboard permite al usuario poseer información detallada, a través de un clic, de cada métrica que se muestra en su pizarra de indicadores.   
+El dashboard de entrantes en tiempo real es una versión interactiva del display de llamadas entrantes. Su estructura es similar, se diferencia principalmente en que el dashboard permite al usuario poseer información detallada, a través de un clic, de cada métrica que se muestra en su *pizarra de indicadores*.   
 
-Esta vista del Módulo Dashboard puntualiza la información del Call Center en modalidad Inbound. Es una herramienta efectiva diseñada para el gerente o supervisor, ya que brinda las estadísticas necesarias para tomar acciones correctivas inmediatas (si el caso lo amerita) y alcanzar o mantener el nivel de servicio ideal.  
+Esta vista del *Módulo Dashboard* puntualiza la información del *Call Center* en modalidad *Inbound*. Es una herramienta efectiva diseñada para el gerente o supervisor, ya que brinda las estadísticas necesarias para tomar acciones correctivas inmediatas (si el caso lo amerita) y alcanzar o mantener el nivel de servicio ideal.  
 
 Este dashboard está compuesto por un *menú superior, menú inferior* y la *pizarra de indicadores*.
 
@@ -78,7 +78,7 @@ Al hacer clic sobre este indicador se desplegará una ventana informativa con la
 **<center> Figura 7 - Destacados(Nivel de Servicio) </center>**
 
 ##### Nivel de atención
-Indica el porcentaje que representa las llamadas atendidas con respecto a la cantidad de llamadas recibidas. Este indicador colorea su contenido de acuerdo a los porcentajes configurados en la escala para cada color.  
+Indica el porcentaje que representa las llamadas atendidas con respecto a la cantidad de llamadas recibidas. Este indicador colorea su contenido de acuerdo a los porcentajes configurados en la *escala* para cada color.  
 
 Al hacer clic sobre este indicador se desplegará una ventana informativa con la leyenda descriptiva correspondiente al valor mostrado.
 
@@ -86,7 +86,7 @@ Al hacer clic sobre este indicador se desplegará una ventana informativa con la
 **<center> Figura 8 - Destacados(Nivel de Atención) </center>**
 
 ##### Llamadas en cola
-Indica la cantidad de llamadas que encuentran esperando,en ese momento, en la cola para ser atendidas.  
+Indica la cantidad de llamadas que encuentran esperando, en ese momento, en la cola para ser atendidas.  
 
 Al hacer clic sobre este indicador se desplegará una ventana informativa con el detalle de cada llamada correspondiente al valor mostrado.
 
@@ -296,12 +296,12 @@ mostrado.
 
 ## Dashboard de entrantes histórico
 
-Es una vista que expresa información de fechas anteriores a la actual y lasrepresenta en formato de dashboard. Para el caso del dashboard de entrantes históricolas estadísticas mostradas corresponden a la modalidad *Inbound* y al igual que el * dashboard de entrantes en tiempo real* permite al usuario poseer información detallada,a través de un clic, de cada métrica que se muestra en su *pizarra de indicadores*.  
+Es una vista que expresa información de fechas anteriores a la actual y las representa en formato de dashboard. Para el caso del dashboard de entrantes históricolas estadísticas mostradas corresponden a la modalidad *Inbound* y al igual que el *dashboard de entrantes en tiempo real* permite al usuario poseer información detallada,a través de un clic, de cada métrica que se muestra en su *pizarra de indicadores*.  
 
 Es una herramienta que proporciona al gerente o supervisor obtener los valores de las métricas de días pasados. Este dashboard está compuesto por un *menú superior, menú inferior* y la *pizarra de indicadores*.
 
 ### Menú superior 
-Se encuentra ubicado en la parte superior de la ventana y en él podemos divisar: el logo de ProSer, el nombre del módulo, las opciones de las vistas queconforman el módulo, el nombre del usuario, el estado de conexión y la hora actual.
+Se encuentra ubicado en la parte superior de la ventana y en él podemos divisar: el logo de ProSer, el nombre del módulo, las opciones de las vistas que conforman el módulo, el nombre del usuario, el estado de conexión y la hora actual.
 
 ![Texto alternativo](/img/03-dashboard/01-incoming/02-historical-incoming/2.jpg)
 **<center> Figura 1 - Menú Superior </center>**
@@ -380,7 +380,7 @@ Al hacer clic sobre este indicador se desplegará una ventana informativa con el
 **<center> Figura 10 - Destacados(Agentes registrados) </center>**
 
 ##### Tiempo medio de operación (TMO)
-Indica el tiempo promedio que duró un agente operando una llamada, dentro del rango de fecha y tiempo seleccionado en el selector, atendiendo una llamada.  
+Indica el tiempo promedio que duró un agente operando una llamada, dentro del rango de fecha y tiempo seleccionado en el *selector*, atendiendo una llamada.  
 
 Al hacer clic sobre este indicador se desplegará una ventana informativa con la leyenda descriptiva correspondiente al valor mostrado.
 
@@ -436,7 +436,7 @@ Al hacer clic sobre este indicador se desplegará una ventana informativa con el
 **<center> Figura 17 - Llamadas(Atendidas en menos de) </center>**
 
 ##### Atendidas en más de
-Indica la cantidad de llamadas atendidas luego de culminar el tiempo ideal de atención (umbral) dentro del rango de fecha y tiempo seleccionado en el selector.  
+Indica la cantidad de llamadas atendidas luego de culminar el tiempo ideal de atención (umbral) dentro del rango de fecha y tiempo seleccionado en el *selector*.  
 
 Al hacer clic sobre este indicador se desplegará una ventana informativa con el detalle de cada llamada correspondiente al valor mostrado.
 
@@ -489,7 +489,7 @@ Al hacer clic sobre este indicador se desplegará una ventana informativa con la
 **<center> Figura 23 - Niveles(Nivel de abandono) </center>**
 
 #### Tiempos
-El grupo tiempos puntualiza todos aquellos indicadores que su cálculo se basa en el tiempo, siempre expresados en segundos. Los indicadores de tiempo son: tiempo medio de operación, tiempo medio de espera, máxima espera en cola, máxima espera.
+El grupo *tiempos* puntualiza todos aquellos indicadores que su cálculo se basa en el tiempo, siempre expresados en segundos. Los indicadores de tiempo son: tiempo medio de operación, tiempo medio de espera, máxima espera en cola, máxima espera.
 
 ![Texto alternativo](/img/03-dashboard/01-incoming/02-historical-incoming/9.jpg)
 **<center> Figura 24 - Tiempos </center>**
@@ -528,7 +528,9 @@ Al hacer clic sobre este indicador se desplegará una ventana informativa con la
 **<center> Figura 28 - Tiempos(Máximo espera) </center>**
 
 #### Resumen de agentes
-Muestra una tabla que expresa estadísticas sobre los agentes, basándose en: cantidad de personas(agentes), sumatoria de la duración de la acción y el promedio de duración de esa acción o concepto.Este indicador fundamenta su información dentro del rango de fecha y tiempo seleccionado en el *selector*.
+Muestra una tabla que expresa estadísticas sobre los agentes, basándose en: cantidad de personas(agentes), sumatoria de la duración de la acción y el promedio de duración de esa acción o concepto.  
+
+Este indicador fundamenta su información dentro del rango de fecha y tiempo seleccionado en el *selector*.
 
 ![Texto alternativo](/img/03-dashboard/01-incoming/02-historical-incoming/10-1.jpg)
 **<center> Figura 29 - Resumen de agentes </center>**
@@ -539,15 +541,16 @@ Este grupo refleja, de manera resumida, toda la información referente a la acti
 ![Texto alternativo](/img/03-dashboard/01-incoming/02-historical-incoming/10-2.jpg)
 **<center> Figura 30 - Agentes en auxiliar/asignación </center>**
 
+
 # Salientes
 Dentro de este módulo se encuentran los dashboard que reflejan el comportamiento de las llamadas salientes del Call Center.
 
 ![Texto alternativo](/img/03-dashboard/dashboard-main/03-dashboard.jpg)
 
 ## Dashboard salientes en tiempo real
-El dashboard de salientes en tiempo real es una versión interactiva del displayde llamadas salientes. Su estructura es similar, se diferencia principalmente en que eldashboard permite al usuario poseer información detallada, a través de un clic, de cada métrica que se muestra en su *pizarra de indicadores*.  
+El dashboard de salientes en tiempo real es una versión interactiva del display de llamadas salientes. Su estructura es similar, se diferencia principalmente en que el dashboard permite al usuario poseer información detallada, a través de un clic, de cada métrica que se muestra en su *pizarra de indicadores*.  
 
-Esta vista del *Módulo Dashboard* puntualiza la información del *Call Center* enmodalidad *Outbound*. Es una herramienta que permite al gerente o supervisor, monitorear de manera detallada el comportamiento y la dinámica de las llamadasrealizadas por los agentes.  
+Esta vista del *Módulo Dashboard* puntualiza la información del *Call Center* en modalidad *Outbound*. Es una herramienta que permite al gerente o supervisor, monitorear de manera detallada el comportamiento y la dinámica de las llamadas realizadas por los agentes.  
 
 Este dashboard está compuesto por un *menú superior,menú inferior*  y la *pizarra de indicadores*.
 
@@ -558,7 +561,7 @@ Se encuentra ubicado en la parte superior de la ventana y en él podemos divisar
 **<center> Figura 1 - Menú Superior </center>**
 
 ### Menú inferior 
-Se ubica debajo del menú superior y está dividido en tres (03) secciones que describen, de manera general, la vista actual. De izquierda a derecha: sección uno, sección dos y sección tres.
+Se ubica debajo del *menú superior* y está dividido en tres (03) secciones que describen, de manera general, la vista actual. De izquierda a derecha: sección uno, sección dos y sección tres.
 
 ![Texto alternativo](/img/03-dashboard/02-outgoing/01-outgoing-in-real-time/3.jpg)
 **<center> Figura 2 - Menú Inferior </center>**
@@ -584,17 +587,16 @@ Así como también, en esta sección se visualizará la(s) opción(es)selecciona
 **<center> Figura 5 - Menú Inferior(Sección tres) </center>**
 
 ### Pizarra de indicadores
-La pizarra de indicadores es la sección más relevante, ya que en ella se plasma toda la información fundamental de la vista. Esta sección, a su vez, seconforma por seis (06) grupos de información: *destacados, llamadas, niveles, tiempos, agentes conectados* y *auxiliares/asignaciones*.
+La pizarra de indicadores es la sección más relevante, ya que en ella se plasma toda la información fundamental de la vista. Esta sección, a su vez, se conforma por seis (06) grupos de información: *destacados, llamadas, niveles, tiempos, agentes conectados* y *auxiliares/asignaciones*.
 
 #### Destacados
-
-Los destacados puntualizan los indicadores de mayorenvergadura para la toma de decisiones por parte del supervisor o gerente. Este grupo se conforma por: nivel de contactabilidad, nivel de efectividad, llamadas en cola, llamadas activas, agentes planificados, agentes conectados, agentes efectivos, tiempo medio de operación(TMO).
+Los destacados puntualizan los indicadores de mayor envergadura para la toma de decisiones por parte del supervisor o gerente. Este grupo se conforma por: nivel de contactabilidad, nivel de efectividad, llamadas en cola, llamadas activas, agentes planificados, agentes conectados, agentes efectivos, tiempo medio de operación(TMO).
 
 ![Texto alternativo](/img/03-dashboard/02-outgoing/01-outgoing-in-real-time/5.jpg)
 **<center> Figura 6 - Destacados </center>**
 
 ##### Nivel de contactabilidad
-Indica el porcentaje que representa la cantidad dellamadas contestadas por el destinatario con respecto a la cantidad de llamadas realizadas. Este indicador colorea sucontenido de acuerdo a los porcentajes configurados en la *escala* para cada color.  
+Indica el porcentaje que representa la cantidad de llamadas contestadas por el destinatario con respecto a la cantidad de llamadas realizadas. Este indicador colorea su contenido de acuerdo a los porcentajes configurados en la *escala* para cada color.  
 
 Al hacer clic sobre este indicador se desplegará una ventana  informativa con la leyenda descriptiva correspondiente al valor mostrado.
 
@@ -604,7 +606,7 @@ Al hacer clic sobre este indicador se desplegará una ventana  informativa con l
 ##### Nivel de efectividad
 Indica el porcentaje que representa las llamadas efectivas con respecto a la cantidad de llamadas realizadas. Este indicador colorea su contenido de acuerdo a los porcentajes configurados en la *escala* para cada color. 
 
-Al hacer clic sobre este indicador se desplegará unaventana informativa con la leyenda descriptiva correspondiente alvalor mostrado.
+Al hacer clic sobre este indicador se desplegará una ventana informativa con la leyenda descriptiva correspondiente al valor mostrado.
 
 ![Texto alternativo](/img/03-dashboard/02-outgoing/01-outgoing-in-real-time/5-2.jpg)
 **<center> Figura 8 - Destacados(Nivel de efectividad) </center>**
@@ -706,7 +708,7 @@ El grupo *niveles* expresa los indicadores de eficiencia del call center: nivel 
 **<center> Figura 20 - Niveles </center>**
 
 ##### Nivel de contactabilidad
-Indica el porcentaje que representa la cantidad dellamadas contestadas por el destinatario con respecto a la cantidad de llamadas realizadas.  
+Indica el porcentaje que representa la cantidad de llamadas contestadas por el destinatario con respecto a la cantidad de llamadas realizadas.  
 
 Al hacer clic sobre este indicador se desplegará una ventana informativa con la leyenda descriptiva correspondiente al valor mostrado.
 
@@ -768,7 +770,7 @@ informativa con el detalle de cada agente correspondiente al valor mostrado.
 **<center> Figura 29 - Agentes en auxiliar/asignación </center>**
 
 ## Dashboard salientes histórico
-Es una vista que expresa información de fechas anteriores a la actual y lasrepresenta en formato de dashboard. Para el caso del *dashboard de salientes histórico* las estadísticas mostradas corresponden a la modalidad *Outbound*   y al igual que el *dashboard de salientes* en *tiempo real*   permite al usuario poseer información detallada, a través de un clic, de cada métrica que se muestra en su *pizarra de indicadores*.  
+Es una vista que expresa información de fechas anteriores a la actual y las representa en formato de dashboard. Para el caso del *dashboard de salientes histórico* las estadísticas mostradas corresponden a la modalidad *Outbound* y al igual que el *dashboard de salientes* en *tiempo real* permite al usuario poseer información detallada, a través de un clic, de cada métrica que se muestra en su *pizarra de indicadores*.  
 
 Es una herramienta que proporciona al gerente o supervisor obtener los valores de las métricas de días pasados. Este dashboard está compuesto por un *menú superior, menú inferior* y la *pizarra de indicadores*.
 
@@ -808,7 +810,7 @@ Así como también, en esta sección se visualizará la(s) opción(es)selecciona
 La pizarra de indicadores es la sección más relevante, ya que en ella se plasma toda la información fundamental de la vista. Esta sección, a su vez, se conforma por seis (06) grupos de información: *destacados, llamadas, niveles,tiempos, resumen de agentes* e *histórico auxiliares/histórico asignaciones*.
 
 #### Destacados
-Los destacados puntualizan los indicadores de mayor envergadura para la toma de decisiones por parte del supervisor ogerente. Este grupo se conforma por: nivel del contactabilidad, nivel deefectividad, llamadas contestadas, agentes planificados, agentes registrados, tiempo medio de operación (TMO).
+Los destacados puntualizan los indicadores de mayor envergadura para la toma de decisiones por parte del supervisor o gerente. Este grupo se conforma por: nivel del contactabilidad, nivel de efectividad, llamadas contestadas, agentes planificados, agentes registrados, tiempo medio de operación (TMO).
 
 ![Texto alternativo](/img/03-dashboard/02-outgoing/02-historical-outgoing/5.jpg)
 **<center> Figura 6 - Destacados </center>**
@@ -822,7 +824,7 @@ Al hacer clic sobre este indicador se desplegará una ventana informativa con la
 **<center> Figura 7 - Destacados(Nivel de contactabilidad) </center>**
 
 ##### Nivel de efectividad
-Indica el porcentaje que representa las llamadas efectivas con respecto a la cantidad de llamadas realizadas dentro del rango de fecha y tiempo seleccionado en el selector. Este indicador colorea su contenido de acuerdo a los porcentajes configurados en la escala para cada color.  
+Indica el porcentaje que representa las llamadas efectivas con respecto a la cantidad de llamadas realizadas dentro del rango de fecha y tiempo seleccionado en el *selector*. Este indicador colorea su contenido de acuerdo a los porcentajes configurados en la escala para cada color.  
 
 Al hacer clic sobre este indicador se desplegará una ventana informativa con la leyenda descriptiva correspondiente al valor mostrado.
 
@@ -857,7 +859,7 @@ Al hacer clic sobre este indicador se desplegará una ventana informativa con la
 **<center> Figura 11 - Destacados(TMO) </center>**
 
 #### Llamadas
-El grupo de llamadas hace referencia a las métricas de todo lo relacionado con la cantidad de llamadas en la operación. Este grupo lo conforman los siguientes indicadores: realizadas, fallidas, contestadas,efectivas y colgadas por agente.
+El grupo de llamadas hace referencia a las métricas de todo lo relacionado con la cantidad de llamadas en la operación. Este grupo lo conforman los siguientes indicadores: realizadas, fallidas, contestadas, efectivas y colgadas por agente.
 
 ![Texto alternativo](/img/03-dashboard/02-outgoing/02-historical-outgoing/7.jpg)
 **<center> Figura 12 - Llamadas </center>**

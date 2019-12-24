@@ -2,7 +2,7 @@
 # Display
 ![Texto alternativo](/img/02-display/00-display-main/01-display.jpg)
 
-La sección de Display está diseñada para mostrar todos los procesos del sistema enuna pantalla de monitor para tener una referencia del estado actual del serviicio en un salónamplio, ya que en esta sección no se pueden manipular dichos valores o información solo sepueden ver. Esta sección cuenta con dos opciones:
+La sección de Display está diseñada para mostrar todos los procesos del sistema en una pantalla de monitor para tener una referencia del estado actual del servicio en un salón amplio, ya que en esta sección no se pueden manipular dichos valores o información solo se pueden ver. Esta sección cuenta con dos opciones:
 
 # Presentaciones
 Esta opción contiene la vista de los procesos de las llamadas entrantes y salientes del sistema.
@@ -10,12 +10,12 @@ Esta opción contiene la vista de los procesos de las llamadas entrantes y salie
 ![Texto alternativo](/img/02-display/00-display-main/02-display.jpg)
 
 ## Display de llamadas entrantes
-El display de llamadas entrantes permite visualizar de manera general y en tiempo real los indicadores más relevantes para un *Call Center* en modalidad Inbound. Es una herramienta diseñada para proyectarse en monitores y se muestre a todo el personal.  
+El display de llamadas entrantes permite visualizar de manera general y en tiempo real los indicadores más relevantes para un *Call Center* en modalidad *Inbound*. Es una herramienta diseñada para proyectarse en monitores y se muestre a todo el personal.  
 
 Este display está compuesto por un *menú superior, menú inferior* y la *pizarra de indicadores*.
 
 ### Menú superior
-Se encuentra ubicado en la parte superior de la ventana y en él podemosdivisar: el logo de ProSer, el nombre del módulo, las opciones de las vistas que conforman el módulo, el nombre del usuario, el estado de conexión y la hora actual.
+Se encuentra ubicado en la parte superior de la ventana y en él podemos divisar: el logo de ProSer, el nombre del módulo, las opciones de las vistas que conforman el módulo, el nombre del usuario, el estado de conexión y la hora actual.
 
 ![Texto alternativo](/img/02-display/01-presentations/01-incoming/01.jpg)
 **<center> Figura 1 - Menú Superior  </center>**
@@ -151,12 +151,12 @@ resumen de: la cantidad de agentes en break, el tipo de break y el tiempo acumul
 
 
 ## Display de llamadas salientes
-El display de llamadas salientes permite visualizar de manera general y en tiempo real los indicadores más relevantes para un *Call Center* en modalidad Inbound. Es una herramienta diseñada para proyectarse en monitores y se muestre a todo el personal.  
+El display de llamadas salientes permite visualizar de manera general y en tiempo real los indicadores más relevantes para un *Call Center* en modalidad *Outbound*. Es una herramienta diseñada para proyectarse en monitores y se muestre a todo el personal.  
 
 Este display está compuesto por un *menú superior, menú inferior* y la *pizarra de indicadores*.
 
 ### Menú superior
-Se encuentra ubicado en la parte superior de la ventana y en él podemosdivisar: el logo de ProSer, el nombre del módulo, las opciones de las vistas que conforman el módulo, el nombre del usuario, el estado de conexión y la hora actual.
+Se encuentra ubicado en la parte superior de la ventana y en él podemos divisar: el logo de ProSer, el nombre del módulo, las opciones de las vistas que conforman el módulo, el nombre del usuario, el estado de conexión y la hora actual.
 
 ![Texto alternativo](/img/02-display/01-presentations/02-outgoing/01.jpg)
 **<center> Figura 1 - Menú Superior  </center>**
@@ -168,7 +168,7 @@ Se ubica debajo del *menú superior* y está dividido en tres (03) secciones que
 **<center> Figura 2 - Menú Inferior </center>**
 
 #### Sección uno
-En esta sección del menú inferior encontramos la leyenda que representa la información expuesta en el módulo. En el orden de arriba hacia abajo se encuentran las siguientes descripciones: Nombre de la vista del módulo, fecha de la información, rango de tiempo de la información.
+En esta sección del *menú inferior* encontramos la leyenda que representa la información expuesta en el módulo. En el orden de arriba hacia abajo se encuentran las siguientes descripciones: Nombre de la vista del módulo, fecha de la información, rango de tiempo de la información.
 
 #### Sección dos
 Dentro de la sección dos se puntualiza el nombre del Call Center del cual hace referencia la información mostrada en la vista.
@@ -189,7 +189,7 @@ Los destacados puntualizan los indicadores de mayor envergadura para la toma de 
 Indica el porcentaje que representa la cantidad de llamadas contestadas por el destinatario con respecto a la cantidad de llamadas realizadas. Este indicador colorea su contenido de acuerdo a los porcentajes configurados en la *escala* para cada color.
 
 ##### Nivel de efectividad
-Indica el porcentaje que representa las llamadas efectivas con respecto a la cantidad de llamadas realizadas. Este indicador colorea su contenido de acuerdo a los porcentajes configurados en la escala para cada color.
+Indica el porcentaje que representa las llamadas efectivas con respecto a la cantidad de llamadas realizadas. Este indicador colorea su contenido de acuerdo a los porcentajes configurados en la *escala* para cada color.
 
 ##### Llamadas en cola
 Indica la cantidad de llamadas que encuentran esperando,en ese momento, en la cola para ser atendidas.
@@ -275,12 +275,12 @@ Esta opción contiene las vistas de los monitores de llamadas, de agentes y de l
 ![Texto alternativo](/img/02-display/00-display-main/03-display.jpg)
 
 ## Monitor de llamadas
-El monitor de llamadas es una herramienta que refleja el comportamiento,entiempo real, de las llamadas entrantes en las colas activas. La información mostrada sebasa en estadísticas que se actualizan cada cinco (05) segundos, ofreciendo alsupervisor del Call Center la  oportunidad de hacer comparaciones rápidas que permitanmantener o cambiar el curso (según sea el caso) del nivel de atención y nivel de serviciopara una mejor respuesta al cliente. Toda la información mostrada en el monitorcorresponde al día actual, no maneja estadísticas históricas.  
+El monitor de llamadas es una herramienta que refleja el comportamiento, en tiempo real, de las llamadas entrantes en las colas activas. La información mostrada se basa en estadísticas que se actualizan cada cinco (05) segundos, ofreciendo al supervisor del Call Center la  oportunidad de hacer comparaciones rápidas que permitan mantener o cambiar el curso (según sea el caso) del nivel de atención y nivel de servicio para una mejor respuesta al cliente. Toda la información mostrada en el monitor corresponde al día actual, no maneja estadísticas históricas.  
 
 Esta vista está conformada por un *menú superior, un menú inferior* y una *tabla de métricas*.
 
 ### Menú superior 
-Se encuentra ubicado en la parte superior de la ventana y en él podemosdivisar: el logo de ProSer, el nombre del módulo, las opciones de las vistas queconforman el módulo, el nombre del usuario, el estado de conexión y la hora actual.
+Se encuentra ubicado en la parte superior de la ventana y en él podemos divisar: el logo de ProSer, el nombre del módulo, las opciones de las vistas que conforman el módulo, el nombre del usuario, el estado de conexión y la hora actual.
 
 ![Texto alternativo](/img/02-display/02-queue-monitor/01-call-monitor/03.jpg)
 **<center> Figura 1 - Menú Superior  </center>**
@@ -292,7 +292,7 @@ Se ubica debajo del *menú superior* y está dividido en tres (03) secciones que
 **<center> Figura 2 - Menú Inferior </center>**
 
 #### Sección uno
-En esta sección del menú inferior encontramos la leyenda que representa la información expuesta en el módulo. En el orden de arriba hacia abajo se encuentran las siguientes descripciones: Nombre de la vista del módulo, fecha de la información.
+En esta sección del *menú inferior* encontramos la leyenda que representa la información expuesta en el módulo. En el orden de arriba hacia abajo se encuentran las siguientes descripciones: Nombre de la vista del módulo, fecha de la información.
 
 #### Sección dos
 Dentro de la sección dos se puntualiza el nombre del Call Center del cual hace referencia la información mostrada en la vista.
@@ -301,7 +301,7 @@ Dentro de la sección dos se puntualiza el nombre del Call Center del cual hace 
 No aplica para esta vista.
 
 ### Tabla de métricas
-Dentro de la tabla de métricas se ubica la información que contiene lasestadísticas, por cada cola activa, que componen al monitor de llamadas y lascuales se actualizan cada cinco (05) segundos. Las métricas son:
+Dentro de la tabla de métricas se ubica la información que contiene lasestadísticas, por cada cola activa, que componen al monitor de llamadas y las cuales se actualizan cada cinco (05) segundos. Las métricas son:
 
 ![Texto alternativo](/img/02-display/02-queue-monitor/01-call-monitor/05.jpg)
 **<center> Figura 3 - Tabla de métricas </center>**
@@ -359,12 +359,12 @@ Indica el porcentaje que representa la cantidad de llamadas no contestadas con r
 
 
 ## Monitor de agentes
-Es una funcionalidad que señala la actividad de los agentes, en tiempo real, porcada cola creada en el Call Center. El comportamiento de los agentes se actualiza cada cinco (05) segundos, permitiendo al supervisor del Call Center hacer una comparación rápida entre la cantidad de llamadas activas y la cantidad de agentes disponibles encada cola.  
+Es una funcionalidad que señala la actividad de los agentes, en tiempo real, por cada cola creada en el Call Center. El comportamiento de los agentes se actualiza cada cinco (05) segundos, permitiendo al supervisor del Call Center hacer una comparación rápida entre la cantidad de llamadas activas y la cantidad de agentes disponibles en cada cola.  
 
 Toda la información mostrada en el monitor corresponde al día actual, nomaneja estadísticas históricas. Esta vista está conformada por un *menú superior, un menú inferior* y una *tabla de agentes*.
 
 ### Menú superior 
-Se encuentra ubicado en la parte superior de la ventana y en él podemosdivisar: el logo de ProSer, el nombre del módulo, las opciones de las vistas que conforman el módulo, el nombre del usuario, el estado de conexión y la hora actual.
+Se encuentra ubicado en la parte superior de la ventana y en él podemos divisar: el logo de ProSer, el nombre del módulo, las opciones de las vistas que conforman el módulo, el nombre del usuario, el estado de conexión y la hora actual.
 
 ![Texto alternativo](/img/02-display/02-queue-monitor/02-agent-monitor/02.jpg)
 **<center> Figura 1 - Menú Superior </center>**
@@ -376,7 +376,7 @@ Se ubica debajo del *menú superior* y está dividido en tres (03) secciones que
 **<center> Figura 2 - Menú Inferior </center>**
 
 #### Sección uno
-En esta sección del menú inferior encontramos la leyenda que representa la información expuesta en el módulo. En el orden de arriba hacia abajo se encuentran las siguientes descripciones: Nombre de la vista del módulo, fecha de la información.
+En esta sección del *menú inferior* encontramos la leyenda que representa la información expuesta en el módulo. En el orden de arriba hacia abajo se encuentran las siguientes descripciones: Nombre de la vista del módulo, fecha de la información.
 
 #### Sección dos
 Dentro de la sección dos se puntualiza el nombre del Call Center del cual hace referencia la información mostrada en la vista.

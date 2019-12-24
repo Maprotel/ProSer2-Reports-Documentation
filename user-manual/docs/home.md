@@ -34,14 +34,14 @@ También es factible, la opción de registrarse usted mismo en la opción regist
 Esta sección es para que el usuario pueda registrarse y tenga acceso a las herramientas que ofrece ProSer. Los datos que se deben llenar para registrarse son los 
 siguientes:
 
-1. Nombres: Campo correspondiente a los nombres del usuario
-2. Apellidos: Campo correspondiente a los apellidos del usuario
-3. Nombre del usuario: Este campo le permite crear un nombre corto para iniciar susesión en la aplicación.
-4. Email: Correo del usuario o el asignado por la empresa, y debe ser válido para que el sistema lo pueda aceptar.
-5. Cédula de identidad: Campo donde solamente se permiten números y debeinsertar su cédula de identidad.
-6. Documento interno: Campo donde inserta el número que le asignaron en la empresa, en caso de que no exista este dato se recomiendo colocar el númerode cédula nuevamente.
-7. Clave: Campo donde crea su clave de usuario para ingresar y utilizar Proser. 
-8. Confirmación de clave: Aquí debe ingresar nuevamente la contraseña creada con anticipación.
+1. *Nombres:* Campo correspondiente a los nombres del usuario.
+2. *Apellidos:* Campo correspondiente a los apellidos del usuario.
+3. *Nombre del usuario:* Este campo le permite crear un nombre corto para iniciar susesión en la aplicación.
+4. *Email:* Correo del usuario o el asignado por la empresa, y debe ser válido para que el sistema lo pueda aceptar.
+5. *Cédula de identidad:* Campo donde solamente se permiten números y debeinsertar su cédula de identidad.
+6. *Documento interno:* Campo donde inserta el número que le asignaron en la empresa, en caso de que no exista este dato se recomiendo colocar el númerode cédula nuevamente.
+7. *Clave:* Campo donde crea su clave de usuario para ingresar y utilizar Proser. 
+8. *Confirmación de clave:* Aquí debe ingresar nuevamente la contraseña creada con anticipación.
 
 **NOTA:** Si esta sección no es visible es debido a los criterios de la institución y será ejecutada por el departamento encargado de la asignación de cuentas para usar Proser.  
 
