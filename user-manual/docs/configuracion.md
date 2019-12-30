@@ -1,3 +1,7 @@
+
+<justify>
+
+
 # Configuración
 Este módulo contiene tres secciones en las cuales el usuario puede realizar diversas configuraciones.  
 
@@ -685,8 +689,8 @@ la data. A continuación se explica cada botón de izquierda a derecha:
 
 Este indicador muestra el nombre de la sección del
 módulo en donde se encuentra el usuario, es decir, para este
-caso usted está en la subsección Colores dentro de la sección
-General perteneciente al módulo de Configuración.
+caso usted está en la subsección *Agentes* dentro de la sección
+*Personas* perteneciente al módulo de *Configuración*.
 
 ###Activos
 
@@ -707,7 +711,7 @@ configurados que no se encuentran disponibles para ser utilizados
 por la herramienta para mostrar información en el display,
 dashboard y/o reportes.
 
-###Todos
+#### Todos
 
 Al ejecutar el botón “Todos” se desplegará en la tabla de
 contenido la totalidad de los colores creados sin importar el
@@ -887,8 +891,8 @@ la data. A continuación se explica cada botón de izquierda a derecha:
 
 Este indicador muestra el nombre de la sección del
 módulo en donde se encuentra el usuario, es decir, para este
-caso usted está en la subsección Colores dentro de la sección
-General perteneciente al módulo de Configuración.
+caso usted está en la subsección *Roles de Agentes* dentro de la
+sección *Personas* perteneciente al módulo de *Configuración*.
 
 ###Activos
 
@@ -909,7 +913,7 @@ configurados que no se encuentran disponibles para ser utilizados
 por la herramienta para mostrar información en el display,
 dashboard y/o reportes.
 
-###Todos
+#### Todos
 
 Al ejecutar el botón “Todos” se desplegará en la tabla de
 contenido la totalidad de los colores creados sin importar el
@@ -1061,8 +1065,8 @@ la data. A continuación se explica cada botón de izquierda a derecha:
 
 Este indicador muestra el nombre de la sección del
 módulo en donde se encuentra el usuario, es decir, para este
-caso usted está en la subsección Colores dentro de la sección
-General perteneciente al módulo de Configuración.
+caso usted está en la subsección *Asignaciones* dentro de la
+sección *Personas* perteneciente al módulo de *Configuración*.
 
 ###Activos
 
@@ -1263,9 +1267,8 @@ la data. A continuación se explica cada botón de izquierda a derecha:
 ###Nombre
 
 Este indicador muestra el nombre de la sección del
-módulo en donde se encuentra el usuario, es decir, para este
-caso usted está en la subsección Colores dentro de la sección
-General perteneciente al módulo de Configuración.
+módulo en donde se encuentra el usuario, es decir, para estecaso usted está en la subsección *Auxiliares* dentro de la sección
+*Personas* perteneciente al módulo de *Configuración*.
 
 ###Activos
 
@@ -1466,8 +1469,8 @@ la data. A continuación se explica cada botón de izquierda a derecha:
 
 Este indicador muestra el nombre de la sección del
 módulo en donde se encuentra el usuario, es decir, para este
-caso usted está en la subsección Colores dentro de la sección
-General perteneciente al módulo de Configuración.
+caso usted está en la subsección *Turnos* dentro de la sección
+*Personas* perteneciente al módulo de *Configuración*.
 
 ###Activos
 
@@ -1657,11 +1660,10 @@ la data. A continuación se explica cada botón de izquierda a derecha:
  **<center> Figura 3 - Zona de botones(Sección Uno) </center>**
 
 ###Nombre
-
 Este indicador muestra el nombre de la sección del
 módulo en donde se encuentra el usuario, es decir, para este
-caso usted está en la subsección Días por turno dentro de la
-sección Personas perteneciente al módulo de Configuración.
+caso usted está en la subsección *Días* por turno dentro de la
+sección *Personas* perteneciente al módulo de *Configuración*.
 
 ###Turnos
 
@@ -1849,8 +1851,8 @@ la data. A continuación se explica cada botón de izquierda a derecha:
 
 Este indicador muestra el nombre de la sección del
 módulo en donde se encuentra el usuario, es decir, para este
-caso usted está en la subsección Colores dentro de la sección
-General perteneciente al módulo de Configuración.
+caso usted está en la subsección *Calendario* dentro de la
+sección *Personas* perteneciente al módulo de *Configuración*.
 
 ###Activos
 
@@ -2233,8 +2235,8 @@ la data. A continuación se explica cada botón de izquierda a derecha:
 
 Este indicador muestra el nombre de la sección del
 módulo en donde se encuentra el usuario, es decir, para este
-caso usted está en la subsección Colores dentro de la sección
-General perteneciente al módulo de Configuración.
+caso usted está en la subsección *Clientes* dentro de la sección
+*Operación* perteneciente al módulo de *Configuración*.
 
 ###Activos
 
@@ -2428,8 +2430,8 @@ la data. A continuación se explica cada botón de izquierda a derecha::
 
 Este indicador muestra el nombre de la sección del
 módulo en donde se encuentra el usuario, es decir, para este
-caso usted está en la subsección Colores dentro de la sección
-General perteneciente al módulo de Configuración.
+caso usted está en la subsección *Campañas* dentro de la
+sección *Operación* perteneciente al módulo de *Configuración*.
 
 ###Activos
 
@@ -2631,11 +2633,10 @@ la data. A continuación se explica cada botón de izquierda a derecha:
  **<center> Figura 3 - Zona de botones(Sección Uno) </center>**
 
 ###Nombre
-
 Este indicador muestra el nombre de la sección del
 módulo en donde se encuentra el usuario, es decir, para este
-caso usted está en la subsección Colores dentro de la sección
-General perteneciente al módulo de Configuración.
+caso usted está en la subsección *Servicios* dentro de la sección
+*Operación* perteneciente al módulo de *Configuración*.
 
 ###Activos
 
@@ -2791,12 +2792,10 @@ la data. A continuación se explica cada botón de izquierda a derecha:
 
 ###Nombre
 
-Este primer botón proporciona los registros que están en
-estado activo y están siendo utilizados por ProSer para generar
-estadísticas y vistas. Al hacer clic sobre el botón “Activos”, estará
-desplegando la lista de campañas configuradas disponibles para
-ser utilizados por la herramienta para mostrar información en el
-display, dashboard y/o reportes.
+Este indicador muestra el nombre de la sección del
+módulo en donde se encuentra el usuario, es decir, para este
+caso usted está en la subsección *Campañas* dentro de la
+sección *Operación* perteneciente al módulo de *Configuración*.
 
 ###Activos
 
@@ -3006,8 +3005,8 @@ la data. A continuación se explica cada botón de izquierda a derecha:
 
 Este indicador muestra el nombre de la sección del
 módulo en donde se encuentra el usuario, es decir, para este
-caso usted está en la subsección Colores dentro de la sección
-General perteneciente al módulo de Configuración.
+caso usted está en la subsección *Escala*s dentro de la sección
+*Operación* perteneciente al módulo de *Configuración*.
 
 ###Activos
 
