@@ -15,13 +15,13 @@ Así pues dentro de las secciones mencionada anteriormentes el usuario puede ini
 
 Presionar el recuadro con el escrito “Filtre la información aquí”. como se muestra en la siguiente imagen
 
-![Texto alternativo](/img/08-selector/01-selector/pulsar-selector.jpg)
+![Texto alternativo](img/08-selector/01-selector/pulsar-selector.jpg)
 
 **<center>Figura 1 - Pulsar Selector </center>**
 
 Al pulsar el recuadro se activa el selector con las múltiples alternativas para filtrar sus datos a conveniencia.
 
-![Texto alternativo](/img/08-selector/01-selector/vista-selector.jpg)
+![Texto alternativo](img/08-selector/01-selector/vista-selector.jpg)
 
 **<center>Figura 2 - Vista Selector </center>**
 

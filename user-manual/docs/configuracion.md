@@ -11,7 +11,7 @@ Es apropiado puntualizar que debe tener presente que dentro de la sección **Per
 
 Del mismo modo es necesario enfatizar que las **Colas** que son también una importación de datos, por tanto esa funcionalidad que se encuentra en la sección de **Operaciones** sólo sirve para modificar y no para crear.
 
-![Texto alternativo](/img/05-configuration/configuration-main/01configuration.jpg)
+![Texto alternativo](img/05-configuration/configuration-main/01configuration.jpg)
 
 ## Configuración Colores 
 Este módulo de configuración permite al usuario establecer colores para identificar las diferentes estados en los que puede estar un agente: *ocupado, disponible, asignado, auxiliar*. Los colores se visualizan en el gráfico del dashboard y display, permitiendo al supervisor reconocer de manera rápida el estado de su personal activo.
@@ -21,7 +21,7 @@ La vista se divide en 3 grandes secciones que son: *menú superior, zona de boto
 ### Menú superior
 El menú superior se encuentra ubicado en la parte superior de la ventana y dentro de él podemos divisar: el logo de ProSer, el nombre del módulo, las opciones de las vistas que conforman el módulo, el nombre del usuario, el estado de conexión y la hora actual.
 
-![Texto alternativo](/img/05-configuration/01-general/02-colors/menu-superior-colores.jpg)
+![Texto alternativo](img/05-configuration/01-general/02-colors/menu-superior-colores.jpg)
 
  **<center> Figura 1 - Menú Superior </center>**
 
@@ -29,7 +29,7 @@ El menú superior se encuentra ubicado en la parte superior de la ventana y dent
 Se ubica debajo del menú superior y contiene dos (2) secciones para
 realizar las actividades inherentes a este módulo.
 
-![Texto alternativo](/img/05-configuration/01-general/02-colors/menu-superior-botones.jpg)
+![Texto alternativo](img/05-configuration/01-general/02-colors/menu-superior-botones.jpg)
 
 
  **<center> Figura 2 - Zona de botones </center>**
@@ -38,7 +38,7 @@ realizar las actividades inherentes a este módulo.
 En esta sección se encuentra un indicador y cuatro (4) botones que
 permiten llevar a cabo acciones características del módulo de configuración. Dichas acciones se relacionan con la vista, edición, creación y/o eliminación de la data. A continuación se explica cada botón de izquierda a derecha:
 
-![Texto alternativo](/img/05-configuration/01-general/02-colors/seccion-uno-colores.jpg)
+![Texto alternativo](img/05-configuration/01-general/02-colors/seccion-uno-colores.jpg)
 
  **<center> Figura 3 - Zona de botones(Sección Uno) </center>**
 
@@ -57,14 +57,14 @@ Al ejecutar el botón *“Todos”* se desplegará en la tabla de contenido la t
 ##### Nuevo
 Este es el último botón de la zona de botones y sirve para generar un nuevo registro. Al hacer clic sobre *“Nuevo”*, la vista cambiará a un formulario que mostrará los campos a rellenar para hacer posible la creación de un nuevo color.
 
-![Texto alternativo](/img/05-configuration/01-general/02-colors/new.jpg)
+![Texto alternativo](img/05-configuration/01-general/02-colors/new.jpg)
 
 **<center> Figura 4 - Menú Inferior(Nuevo) </center>**
 
 ### Sección Dos
 Esta sección está dividida en tres (3) partes que abarca el siguiente contenido:
 
-![Texto alternativo](/img/05-configuration/01-general/02-colors/seccion-dos-colores.jpg)
+![Texto alternativo](img/05-configuration/01-general/02-colors/seccion-dos-colores.jpg)
 
 **<center> Figura 5 - Zona de botones(Sección Dos) </center>**
 
@@ -82,7 +82,7 @@ Dentro de la tabla de contenido se despliega la información
 correspondiente a los datos configurados del módulo. La información expuesta variará de acuerdo a la ejecución, que haga el usuario, de cada botón. Para el caso de la vista general se muestra la información con base en los siguientes campos:
 
 
-![Texto alternativo](/img/05-configuration/01-general/02-colors/tabla-contenido-color.jpg)
+![Texto alternativo](img/05-configuration/01-general/02-colors/tabla-contenido-color.jpg)
 
 **<center> Figura 6 - Tabla de Contenido </center>**
 
@@ -109,27 +109,27 @@ con el nombre, se recomienda buscar en una fuente confiable los códigos para qu
 Al pulsar un registro de la tabla se podrán visualizar dos nuevos
 botones los cuales sirven para ejecutar las siguientes actividades:
 
-![Texto alternativo](/img/05-configuration/01-general/02-colors/pulsar-tabla-contenido.jpg)
+![Texto alternativo](img/05-configuration/01-general/02-colors/pulsar-tabla-contenido.jpg)
 
 **<center> Figura 7 - Pulsar registro en la tabla de contenido </center>**
 
 #### Detalle
 Esta opción le permite al usuario tener una especificación de los colores creados, es decir podrá ver al detalle todos los datos referentes al registro previamente seleccionado.
 
-![Texto alternativo](/img/05-configuration/01-general/02-colors/detail.jpg)
+![Texto alternativo](img/05-configuration/01-general/02-colors/detail.jpg)
 
 **<center> Figura 8 - Detalles </center>**
 
 #### Editar
 Con este botón se desĺegará un formulario que permite editar la mayoría de los campos del registro seleccionado.
 
-![Editar](/img/05-configuration/01-general/02-colors/edit.jpg)
+![Editar](img/05-configuration/01-general/02-colors/edit.jpg)
 
 **<center> Figura 9 - Editar </center>**
 
 A través de este botón, se puede también eliminar el registro. Para ello primero debe desactivarse (si el registro se encuentra activo) utilizando el botón “Desactivar” y luego “Eliminar”.
 
-![Texto alternativo](/img/05-configuration/01-general/02-colors/delete.jpg)
+![Texto alternativo](img/05-configuration/01-general/02-colors/delete.jpg)
 
 **<center> Figura 10 - Eliminar </center>**
 
@@ -146,7 +146,7 @@ La vista se divide en 3 grandes secciones que son: *menú superior, zona de boto
 ### Menú superior
 Se encuentra ubicado en la parte superior de la ventana y en él podemos divisar: el logo de ProSer, el nombre del módulo, las opciones de las vistas que conforman el módulo, el nombre del usuario,el estado de conexión y la hora actual.
 
-![Texto alternativo](/img/05-configuration/01-general/03-hours/menu-superior-horas.jpg)
+![Texto alternativo](img/05-configuration/01-general/03-hours/menu-superior-horas.jpg)
 
 **<center>Figura 1 - Menú Superior</center>**
 
@@ -154,7 +154,7 @@ Se encuentra ubicado en la parte superior de la ventana y en él podemos divisar
 Se ubica debajo del menú superior y contiene dos (2) secciones para
 realizar las actividades inherentes a este módulo.
 
-![Texto alternativo](/img/05-configuration/01-general/03-hours/zona-botones-horas.jpg)
+![Texto alternativo](img/05-configuration/01-general/03-hours/zona-botones-horas.jpg)
 
 **<center>Figura 2 - Zona de botones</center>**
 
@@ -162,7 +162,7 @@ realizar las actividades inherentes a este módulo.
 En esta sección se encuentra un indicador y cuatro (4) botones que
 permiten llevar a cabo acciones características del módulo de configuración. Dichas acciones se relacionan con la vista, edición, creación y/o eliminación de la data. A continuación se explica cada botón de izquierda a derecha:
 
-![Texto alternativo](/img/05-configuration/01-general/03-hours/seccion-uno-horas.jpg)
+![Texto alternativo](img/05-configuration/01-general/03-hours/seccion-uno-horas.jpg)
 
 **<center>Figura 3 - Zona de botones(Sección Uno)</center>**
 
@@ -182,14 +182,14 @@ en el que se encuentren.
 ##### Nuevo
 Este es el último botón de la zona de botones y sirve para generar un nuevo registro. Al hacer clic sobre *“Nuevo”*, la vista cambiará a un formulario que mostrará los campos a rellenar para hacer posible la creación de una nueva *hora*.
 
-![Texto alternativo](/img/05-configuration/01-general/03-hours/new.jpg)
+![Texto alternativo](img/05-configuration/01-general/03-hours/new.jpg)
 
 **<center>Figura 4 - Botón Nuevo</center>**
 
 #### Sección Dos
 Esta sección está dividida en tres (3) partes que abarca el siguiente contenido:
 
-![Texto alternativo](/img/05-configuration/01-general/03-hours/buscador-horas.jpg)
+![Texto alternativo](img/05-configuration/01-general/03-hours/buscador-horas.jpg)
 
 **<center>Figura 5 - Menú Inferior(Sección Dos)</center>**
 
@@ -206,7 +206,7 @@ Para la comodidad del usuario en las vista de los registros, este selector permi
 Dentro de la tabla de contenido se despliega la información
 correspondiente a los datos configurados del módulo. La información expuesta variará de acuerdo a la ejecución, que haga el usuario, de cada botón. Para el caso de la vista general se muestra la información con base en los siguientes campos:
 
-![Texto alternativo](/img/05-configuration/01-general/03-hours/tabla-contenido-horas.jpg)
+![Texto alternativo](img/05-configuration/01-general/03-hours/tabla-contenido-horas.jpg)
 
 **<center>Figura 6 - Tabla de Contenido</center>**
 
@@ -227,7 +227,7 @@ Indica el estado de cada registro. Es oportuno señalar que aquellos con la letr
 Al pulsar un registro de la tabla usted puede ahora hacer visibles dos
 nuevos botones los cuales sirven para ejecutar las siguientes actividades.
 
-![Texto alternativo](/img/05-configuration/01-general/03-hours/pulsar-registro-horas.jpg)
+![Texto alternativo](img/05-configuration/01-general/03-hours/pulsar-registro-horas.jpg)
 
 **<center>Figura 7 - Pulsar registro en la tabla de contenido</center>**
 
@@ -235,20 +235,20 @@ nuevos botones los cuales sirven para ejecutar las siguientes actividades.
 Esta opción le permite al usuario tener una especificación de las horas creadas, es decir podrá ver al detalle todos los datos referentes al registro previamente seleccionado.
 
 
-![Texto alternativo](/img/05-configuration/01-general/03-hours/detail.jpg)
+![Texto alternativo](img/05-configuration/01-general/03-hours/detail.jpg)
 
 **<center>Figura 8 - Detalles</center>**
 
 #### Editar
 Con este botón se desĺegará un formulario que permite editar la mayoría de los campos del registro seleccionado.
 
-![Texto alternativo](/img/05-configuration/01-general/03-hours/edit.jpg)
+![Texto alternativo](img/05-configuration/01-general/03-hours/edit.jpg)
 
 **<center>Figura 9 - Editar</center>**
 
 A través de este botón, se puede también eliminar el registro. Para ello, primero debe desactivarse (si el registro se encuentra activo) utilizando el botón “Desactivar” y luego “Eliminar”.
 
-![Texto alternativo](/img/05-configuration/01-general/03-hours/delete.jpg)
+![Texto alternativo](img/05-configuration/01-general/03-hours/delete.jpg)
 
 **<center>Figura 10 - Eliminar</center>**
 
@@ -262,7 +262,7 @@ La vista se divide en 3 grandes secciones que son: *menú superior, zona de boto
 ### Menú superior
 El menú superior se encuentra ubicado en la parte superior de la ventana y dentro de él podemos divisar: el logo de ProSer, el nombre del módulo, las opciones delas vistas que conforman el módulo, el nombre del usuario, el estado de conexión y la hora actual.
 
-![Texto alternativo](/img/05-configuration/01-general/04-intervals/menu-supperior-intervalo.jpg)
+![Texto alternativo](img/05-configuration/01-general/04-intervals/menu-supperior-intervalo.jpg)
 
  **<center> Figura 1 - Menú Superior </center>**
 
@@ -270,7 +270,7 @@ El menú superior se encuentra ubicado en la parte superior de la ventana y dent
 Se ubica debajo del *menú superior* y contiene dos (2) secciones para
 realizar las actividades inherentes a este módulo.
 
-![Texto alternativo](/img/05-configuration/01-general/04-intervals/zona-botones-intervalo.jpg)
+![Texto alternativo](img/05-configuration/01-general/04-intervals/zona-botones-intervalo.jpg)
 
  **<center> Figura 2 - Zona de botones </center>**
 
@@ -278,7 +278,7 @@ realizar las actividades inherentes a este módulo.
 En esta sección se encuentra un indicador y cuatro (4) botones que
 permiten llevar a cabo acciones características del módulo de configuración. Dichas acciones se relacionan con la vista, edición, creación y/o eliminación de la data. A continuación se explica cada botón de izquierda a derecha:
 
-![Texto alternativo](/img/05-configuration/01-general/04-intervals/seccion-uno-intervalos.jpg)
+![Texto alternativo](img/05-configuration/01-general/04-intervals/seccion-uno-intervalos.jpg)
 
  **<center> Figura 3 - Zona de botones(Sección Uno) </center>**
 
@@ -297,7 +297,7 @@ Al ejecutar el botón *“Todos”* se desplegará en la tabla de contenido la t
 ##### Nuevo
 Este es el último botón de la zona de botones y sirve para generar un nuevo registro. Al hacer clic sobre *“Nuevo”*, la vista cambiará a un formulario que mostrará los campos a rellenar para hacer posible la creación de un nuevo *intervalo*.
 
-![Texto alternativo](/img/05-configuration/01-general/04-intervals/new.jpg)
+![Texto alternativo](img/05-configuration/01-general/04-intervals/new.jpg)
 
 **<center>Figura 4 - Zona de botones(Nuevo)</center>**
 
@@ -305,7 +305,7 @@ Este es el último botón de la zona de botones y sirve para generar un nuevo re
 Esta sección está dividida en tres (3) partes que abarca el
 siguiente contenido:
 
-![Texto alternativo](/img/05-configuration/01-general/04-intervals/seccion-dos-intervalo.jpg)
+![Texto alternativo](img/05-configuration/01-general/04-intervals/seccion-dos-intervalo.jpg)
 
 **<center>Figura 5 - Zona de botones(Sección Dos)</center>**
 
@@ -322,7 +322,7 @@ Para la comodidad del usuario en las vista de los registros, este selector permi
 Dentro de la tabla de contenido se despliega la información correspondiente a los datos configurados del módulo. La información expuesta variará de acuerdo a la ejecución, que haga el usuario, de cada botón. Para el caso de la vista general se muestra la información con base en los siguientes campos:
 
 
-![Texto alternativo](/img/05-configuration/01-general/04-intervals/tabla-contenido-intervalo.jpg)
+![Texto alternativo](img/05-configuration/01-general/04-intervals/tabla-contenido-intervalo.jpg)
 
 **<center>Figura 6 - Tabla de Contenido</center>**
 
@@ -348,7 +348,7 @@ Al pulsar un registro de la tabla usted puede ahora hacer visibles dos
 nuevos botones los cuales sirven para ejecutar las siguientes actividades.
 
 
-![Texto alternativo](/img/05-configuration/01-general/03-hours/pulsar-registro-horas.jpg)
+![Texto alternativo](img/05-configuration/01-general/03-hours/pulsar-registro-horas.jpg)
 
 **<center>Figura 7 - Pulsar registro en la tabla de contenido</center>**
 
@@ -357,7 +357,7 @@ Esta opción le permite al usuario tener una especificación de las horas creada
 referentes al registro previamente seleccionado.
 
 
-![Texto alternativo](/img/05-configuration/01-general/04-intervals/detail.jpg)
+![Texto alternativo](img/05-configuration/01-general/04-intervals/detail.jpg)
 
 **<center>Figura 8 - Detalles</center>**
 
@@ -365,13 +365,13 @@ referentes al registro previamente seleccionado.
 
 Con este botón se desĺegará un formulario que permite editar la mayoría de los campos del registro seleccionado.
 
-![Texto alternativo](/img/05-configuration/01-general/04-intervals/edit.jpg)
+![Texto alternativo](img/05-configuration/01-general/04-intervals/edit.jpg)
 
 **<center>Figura 9 - Editar</center>**
 
 A través de este botón, se puede también eliminar el registro. Para ello, primero debe desactivarse (si el registro se encuentra activo) utilizando el botón “Desactivar” y luego “Eliminar”.
 
-![Texto alternativo](/img/05-configuration/01-general/04-intervals/delete.jpg)
+![Texto alternativo](img/05-configuration/01-general/04-intervals/delete.jpg)
 
 **<center>Figura 10 - Eliminar</center>**
 
@@ -385,7 +385,7 @@ La vista se divide en 3 grandes secciones que son: *menú superior, zona de boto
 ### Menú superior
 El menú superior se encuentra ubicado en la parte superior de la ventana y dentro de él podemos divisar: el logo de ProSer, el nombre del módulo, las opciones de las vistas que conforman el módulo, el nombre del usuario, el estado de conexión y la hora actual.
 
-![Texto alternativo](/img/05-configuration/01-general/05-lines/menu-superior-lineas.jpg)
+![Texto alternativo](img/05-configuration/01-general/05-lines/menu-superior-lineas.jpg)
 
  **<center>Figura 1 - Menú Superior </center>**
 
@@ -393,7 +393,7 @@ El menú superior se encuentra ubicado en la parte superior de la ventana y dent
 Se ubica debajo del *menú superior* y contiene dos (2) secciones para
 realizar las actividades inherentes a este módulo.
 
-![Texto alternativo](/img/05-configuration/01-general/05-lines/zona-botones-lineas.jpg)
+![Texto alternativo](img/05-configuration/01-general/05-lines/zona-botones-lineas.jpg)
 
 
  **<center> Figura 2 - Zona de botones </center>**
@@ -402,7 +402,7 @@ realizar las actividades inherentes a este módulo.
 En esta sección se encuentra un indicador y cuatro (4) botones que
 permiten llevar a cabo acciones características del módulo de configuración. Dichas acciones se relacionan con la vista, edición, creación y/o eliminación de la data. A continuación se explica cada botón de izquierda a derecha:
 
-![Texto alternativo](/img/05-configuration/01-general/05-lines/seccion-uno-lineas.jpg)
+![Texto alternativo](img/05-configuration/01-general/05-lines/seccion-uno-lineas.jpg)
 
  **<center> Figura 3 - Zona de botones(Sección Uno) </center>**
 
@@ -421,7 +421,7 @@ Al ejecutar el botón *“Todos”* se desplegará en la tabla de contenido la t
 ##### Nuevo
 Este es el último botón de la zona de botones y sirve para generar un nuevo registro. Al hacer clic sobre *“Nuevo”*, la vista cambiará a un formulario que mostrará los campos a rellenar para hacer posible la creación de una nueva *línea*.
 
-![Texto alternativo](/img/05-configuration/01-general/05-lines/new.jpg)
+![Texto alternativo](img/05-configuration/01-general/05-lines/new.jpg)
 
 **<center>Figura 4 - Zona de botones(Nuevo)</center>**
 
@@ -430,7 +430,7 @@ Este es el último botón de la zona de botones y sirve para generar un nuevo re
 Esta sección está dividida en tres (3) partes que abarca el
 siguiente contenido:
 
-![Texto alternativo](/img/05-configuration/01-general/05-lines/seccion-dos-lineas.jpg)
+![Texto alternativo](img/05-configuration/01-general/05-lines/seccion-dos-lineas.jpg)
 
 **<center>Figura 5 - Zona de botones(Sección Dos)</center>**
 
@@ -447,7 +447,7 @@ Para la comodidad del usuario en las vista de los registros, este selector permi
 Dentro de la *tabla de contenido* se despliega la información
 correspondiente a los datos configurados del módulo. La información expuesta variará de acuerdo a la ejecución, que haga el usuario, de cada botón. Para el caso de la vista general se muestra la información con base en los siguientes campos:
 
-![Texto alternativo](/img/05-configuration/01-general/05-lines/tabla-contenido-lineas.jpg)
+![Texto alternativo](img/05-configuration/01-general/05-lines/tabla-contenido-lineas.jpg)
 
 **<center>Figura 6 - Tabla de Contenido</center>**
 
@@ -465,7 +465,7 @@ están en un estado inactivo.
 Al pulsar un registro de la tabla usted puede ahora hacer visibles dos
 nuevos botones los cuales sirven para ejecutar las siguientes actividades.
 
-![Texto alternativo](/img/05-configuration/01-general/05-lines/pulsar-registro-horas.jpg)
+![Texto alternativo](img/05-configuration/01-general/05-lines/pulsar-registro-horas.jpg)
 
 **<center>Figura 7 - Pulsar registro en la tabla de contenido</center>**
 
@@ -473,20 +473,20 @@ nuevos botones los cuales sirven para ejecutar las siguientes actividades.
 Esta opción le permite al usuario tener una especificación de las líneas creadas, es decir podrá ver al detalle todos los datos
 referentes al registro previamente seleccionado.
 
-![Texto alternativo](/img/05-configuration/01-general/05-lines/detail.jpg)
+![Texto alternativo](img/05-configuration/01-general/05-lines/detail.jpg)
 
 **<center>Figura 8 - Detalles</center>**
 
 #### Editar
 Con este botón se desĺegará un formulario que permite editar la mayoría de los campos del registro seleccionado.
 
-![Texto alternativo](/img/05-configuration/01-general/05-lines/edit.jpg)
+![Texto alternativo](img/05-configuration/01-general/05-lines/edit.jpg)
 
 **<center>Figura 9 - Editar</center>**
 
 A través de este botón, se puede también eliminar el registro. Para ello, primero debe desactivarse (si el registro se encuentra activo) utilizando el botón “Desactivar” y luego “Eliminar”.
 
-![Texto alternativo](/img/05-configuration/01-general/05-lines/delete.jpg)
+![Texto alternativo](img/05-configuration/01-general/05-lines/delete.jpg)
 
 **<center>Figura 10 - Eliminar</center>**
 
@@ -499,21 +499,21 @@ Si el registro no se encuentra activo, el botón “Eliminar” estará visible 
 ### Menú superior
 El menú superior se encuentra ubicado en la parte superior de la ventana y dentro de él podemos divisar: el logo de ProSer, el nombre del módulo, las opciones de las vistas que conforman el módulo, el nombre del usuario, el estado de conexión y la hora actual.
 
-![Texto alternativo](/img/05-configuration/02-people/01-supervisors/menu-superior-supervisores.jpg)
+![Texto alternativo](img/05-configuration/02-people/01-supervisors/menu-superior-supervisores.jpg)
 **<center>Figura 1 - Menú Superior </center>**
 
 ### Zona de botones 
 Se ubica debajo del *menú superior* y contiene dos (2) secciones para
 realizar las actividades inherentes a este módulo.
 
-![Texto alternativo](/img/05-configuration/02-people/01-supervisors/zona-botones-supervisores.jpg)
+![Texto alternativo](img/05-configuration/02-people/01-supervisors/zona-botones-supervisores.jpg)
  **<center> Figura 2 - Zona de botones </center>**
 
 #### Sección Uno
 En esta sección se encuentra un indicador y cuatro (4) botones que
 permiten llevar a cabo acciones características del módulo de configuración. Dichas acciones se relacionan con la vista, edición, creación y/o eliminación de la data. A continuación se explica cada botón de izquierda a derecha:
 
-![Texto alternativo](/img/05-configuration/02-people/01-supervisors/seccion-uno-suérvisores.jpg)
+![Texto alternativo](img/05-configuration/02-people/01-supervisors/seccion-uno-suérvisores.jpg)
 **<center> Figura 3 - Zona de botones(Sección Uno) </center>**
 
 ##### Nombre
@@ -531,14 +531,14 @@ Al ejecutar el botón *“Todos”* se desplegará en la tabla de contenido la t
 ##### Nuevo
 Este es el último botón de la zona de botones y sirve para generar un nuevo registro. Al hacer clic sobre *“Nuevo”*, la vista cambiará a un formulario que mostrará los campos a rellenar para hacer posible la creación de un nuevo supervisor.
 
-![Texto alternativo](/img/05-configuration/02-people/01-supervisors/new.jpg)
+![Texto alternativo](img/05-configuration/02-people/01-supervisors/new.jpg)
 
 **<center> Figura 4 - Zona de botones(Nuevo)</center>**
 
 #### Sección Dos
 Esta sección está dividida en tres (3) partes que abarca el siguiente contenido:
 
-![Texto alternativo](/img/05-configuration/02-people/01-supervisors/seccion-dos-supervisores.jpg)
+![Texto alternativo](img/05-configuration/02-people/01-supervisors/seccion-dos-supervisores.jpg)
 
 **<center>Figura 5 - Zona de botones(Sección Dos)</center>**
 
@@ -559,7 +559,7 @@ visualizar en la tabla de contenido.
 Dentro de la tabla de contenido se despliega la información
 correspondiente a los datos configurados del módulo. La información expuesta variará de acuerdo a la ejecución, que haga el usuario, de cada botón. Para el caso de la vista general se muestra la información con base en los siguientes campos:
 
-![Texto alternativo](/img/05-configuration/02-people/01-supervisors/tabal-contenido-supervisores.jpg)
+![Texto alternativo](img/05-configuration/02-people/01-supervisors/tabal-contenido-supervisores.jpg)
 
 **<center>Figura 6 - Tabla de Contenido</center>**
 
@@ -602,7 +602,7 @@ nuevos botones los cuales sirven para ejecutar las siguientes actividades.
 
 
 
-![Texto alternativo](/img/05-configuration/02-people/01-supervisors/pulsar-registro-supervisores.jpg)
+![Texto alternativo](img/05-configuration/02-people/01-supervisors/pulsar-registro-supervisores.jpg)
 
 **<center>Figura 7 - Pulsar registro en la tabla de contenido</center>**
 
@@ -613,7 +613,7 @@ de las horas creadas, es decir podrá ver al detalle todos los datos
 referentes al registro previamente seleccionado.
 
 
-![Texto alternativo](/img/05-configuration/02-people/01-supervisors/detail.jpg)
+![Texto alternativo](img/05-configuration/02-people/01-supervisors/detail.jpg)
 
 **<center>Figura 8 - Detalles</center>**
 
@@ -622,7 +622,7 @@ referentes al registro previamente seleccionado.
 Con este botón se desĺegará un formulario que permite
 editar la mayoría de los campos del registro seleccionado.
 
-![Texto alternativo](/img/05-configuration/02-people/01-supervisors/edit.jpg)
+![Texto alternativo](img/05-configuration/02-people/01-supervisors/edit.jpg)
 
 **<center>Figura 9 - Editar</center>**
 
@@ -631,7 +631,7 @@ registro. Para ello, primero debe desactivarse (si el registro se
 encuentra activo) utilizando el botón “Desactivar” y luego
 “Eliminar”.
 
-![Texto alternativo](/img/05-configuration/02-people/01-supervisors/delete.jpg)
+![Texto alternativo](img/05-configuration/02-people/01-supervisors/delete.jpg)
 
 **<center>Figura 10 - Eliminar</center>**
 
@@ -660,7 +660,7 @@ Se encuentra ubicado en la parte superior de la ventana y en él podemos divisar
 el logo de ProSer, el nombre del módulo, las opciones de las vistas que conforman el
 módulo, el nombre del usuario, el estado de conexión y la hora actual.
 
-![Texto alternativo](/img/05-configuration/02-people/02-agents/menu-superior-agentes.jpg)
+![Texto alternativo](img/05-configuration/02-people/02-agents/menu-superior-agentes.jpg)
 
 **<center>Figura 1 - Menú Superior</center>**
 
@@ -670,7 +670,7 @@ módulo, el nombre del usuario, el estado de conexión y la hora actual.
 Se ubica debajo del menú superior y contiene dos (2) secciones para
 realizar las actividades inherentes a este módulo.
 
-![Texto alternativo](/img/05-configuration/02-people/02-agents/zona-botones.jpg)
+![Texto alternativo](img/05-configuration/02-people/02-agents/zona-botones.jpg)
 
 **<center>Figura 2 - Zona de botones</center>**
 
@@ -681,7 +681,7 @@ permiten llevar a cabo acciones características del módulo de configuración.
 Dichas acciones se relacionan con la vista, edición, creación y/o eliminación de
 la data. A continuación se explica cada botón de izquierda a derecha:
 
-![Texto alternativo](/img/05-configuration/02-people/02-agents/seccion-uno.jpg)
+![Texto alternativo](img/05-configuration/02-people/02-agents/seccion-uno.jpg)
 
 **<center>Figura 3 - Zona de botones(Sección Uno)</center>**
 
@@ -722,7 +722,7 @@ estado en el que se encuentren.
 Esta sección está dividida en tres (3) partes que abarca el
 siguiente contenido:
 
-![Texto alternativo](/img/05-configuration/02-people/02-agents/seccion-dos.jpg)
+![Texto alternativo](img/05-configuration/02-people/02-agents/seccion-dos.jpg)
 
 **<center>Figura 4 - Zona de botones(Sección Dos)(Sección Uno)</center>**
 
@@ -753,7 +753,7 @@ variará de acuerdo a la ejecución, que haga el usuario, de cada botón. Para e
 caso de la vista general se muestra la información con base en los siguientes
 campos:
 
-![Texto alternativo](/img/05-configuration/02-people/02-agents/tabla-contenido.jpg)
+![Texto alternativo](img/05-configuration/02-people/02-agents/tabla-contenido.jpg)
 
 **<center>Figura 5 - Tabla de Contenido(Sección Uno)</center>**
 
@@ -802,7 +802,7 @@ Indica el nombre del supervisor asignado al agente.
 Al pulsar un registro de la tabla usted puede ahora hacer visibles dos
 nuevos botones los cuales sirven para ejecutar las siguientes actividades.
 
-![Texto alternativo](/img/05-configuration/02-people/02-agents/pulsar-registro.jpg)
+![Texto alternativo](img/05-configuration/02-people/02-agents/pulsar-registro.jpg)
 
 **<center>Figura 6 - Pulsar registro en la tabla de contenido</center>**
 
@@ -811,7 +811,7 @@ nuevos botones los cuales sirven para ejecutar las siguientes actividades.
 Esta opción le permite al usuario tener una especificación de los agentescreados, es decir podrá ver al detalle todos los datos referentes al registro
 previamente seleccionado.
 
-![Texto alternativo](/img/05-configuration/02-people/02-agents/detail.jpg)
+![Texto alternativo](img/05-configuration/02-people/02-agents/detail.jpg)
 
 **<center>Figura 7 - Detalles</center>**
 
@@ -820,7 +820,7 @@ previamente seleccionado.
 Con este botón se desĺegará un formulario que permite
 editar la mayoría de los campos del registro seleccionado.
 
-![Texto alternativo](/img/05-configuration/02-people/02-agents/detail.jpg)
+![Texto alternativo](img/05-configuration/02-people/02-agents/detail.jpg)
 
 **<center>Figura 8 - Editar</center>**
 
@@ -829,7 +829,7 @@ registro. Para ello, primero debe desactivarse (si el registro se
 encuentra activo) utilizando el botón “Desactivar” y luego
 “Eliminar”.
 
-![Texto alternativo](/img/05-configuration/02-people/02-agents/delete.jpg)
+![Texto alternativo](img/05-configuration/02-people/02-agents/delete.jpg)
 
 **<center>Figura 9 - Eliminar</center>**
 
@@ -862,7 +862,7 @@ dentro de él podemos divisar: el logo de ProSer, el nombre del módulo, las opc
 las vistas que conforman el módulo, el nombre del usuario, el estado de conexión y la
 hora actual.
 
-![Texto alternativo](/img/05-configuration/02-people/03-agent-roles/menu-superior.jpg)
+![Texto alternativo](img/05-configuration/02-people/03-agent-roles/menu-superior.jpg)
 
  **<center>Figura 1 - Menú Superior </center>**
 
@@ -871,7 +871,7 @@ hora actual.
 Se ubica debajo del menú superior y contiene dos (2) secciones para
 realizar las actividades inherentes a este módulo.
 
-![Texto alternativo](/img/05-configuration/02-people/03-agent-roles/zona-botones.jpg)
+![Texto alternativo](img/05-configuration/02-people/03-agent-roles/zona-botones.jpg)
 
 
  **<center> Figura 2 - Zona de botones </center>**
@@ -883,7 +883,7 @@ permiten llevar a cabo acciones características del módulo de configuración.
 Dichas acciones se relacionan con la vista, edición, creación y/o eliminación de
 la data. A continuación se explica cada botón de izquierda a derecha:
 
-![Texto alternativo](/img/05-configuration/02-people/03-agent-roles/seccion-uno.jpg)
+![Texto alternativo](img/05-configuration/02-people/03-agent-roles/seccion-uno.jpg)
 
  **<center> Figura 3 - Zona de botones(Sección Uno) </center>**
 
@@ -926,7 +926,7 @@ generar un nuevo registro. Al hacer clic sobre “Nuevo”, la vista
 cambiará a un formulario que mostrará los campos a rellenar para
 hacer posible la creación de un nuevo rol de agente.
 
-![Texto alternativo](/img/05-configuration/02-people/03-agent-roles/new.jpg)
+![Texto alternativo](img/05-configuration/02-people/03-agent-roles/new.jpg)
 
 **<center> Figura 4 - Zona de botones(Nuevo)</center>**
 
@@ -935,7 +935,7 @@ hacer posible la creación de un nuevo rol de agente.
 Esta sección está dividida en tres (3) partes que abarca el
 siguiente contenido:
 
-![Texto alternativo](/img/05-configuration/02-people/03-agent-roles/seccion-dos.jpg)
+![Texto alternativo](img/05-configuration/02-people/03-agent-roles/seccion-dos.jpg)
 
 **<center>Figura 5 - Zona de botones(Sección Dos)</center>**
 
@@ -964,7 +964,7 @@ variará de acuerdo a la ejecución, que haga el usuario, de cada botón. Para e
 caso de la vista general se muestra la información con base en los siguientes
 campos:
 
-![Texto alternativo](/img/05-configuration/02-people/03-agent-roles/tabla-contenido.jpg)
+![Texto alternativo](img/05-configuration/02-people/03-agent-roles/tabla-contenido.jpg)
 
 **<center>Figura 6 - Tabla de Contenido</center>**
 
@@ -992,7 +992,7 @@ nuevos botones los cuales sirven para ejecutar las siguientes actividades.
 
 
 
-![Texto alternativo](/img/05-configuration/02-people/03-agent-roles/pulsar-registro.jpg)
+![Texto alternativo](img/05-configuration/02-people/03-agent-roles/pulsar-registro.jpg)
 
 **<center>Figura 7 - Pulsar registro en la tabla de contenido</center>**
 
@@ -1002,7 +1002,7 @@ Esta opción le permite al usuario tener una especificación
 de las horas creadas, es decir podrá ver al detalle todos los datos
 referentes al registro previamente seleccionado.
 
-![Texto alternativo](/img/05-configuration/02-people/03-agent-roles/detail.jpg)
+![Texto alternativo](img/05-configuration/02-people/03-agent-roles/detail.jpg)
 
 **<center>Figura 8 - Detalles</center>**
 
@@ -1011,7 +1011,7 @@ referentes al registro previamente seleccionado.
 Con este botón se desĺegará un formulario que permite
 editar la mayoría de los campos del registro seleccionado.
 
-![Texto alternativo](/img/05-configuration/02-people/03-agent-roles/edit.jpg)
+![Texto alternativo](img/05-configuration/02-people/03-agent-roles/edit.jpg)
 
 **<center>Figura 9 - Editar</center>**
 
@@ -1020,7 +1020,7 @@ registro. Para ello, primero debe desactivarse (si el registro se
 encuentra activo) utilizando el botón “Desactivar” y luego
 “Eliminar”.
 
-![Texto alternativo](/img/05-configuration/02-people/03-agent-roles/delete.jpg)
+![Texto alternativo](img/05-configuration/02-people/03-agent-roles/delete.jpg)
 
 **<center>Figura 10 - Eliminar</center>**
 
@@ -1036,7 +1036,7 @@ dentro de él podemos divisar: el logo de ProSer, el nombre del módulo, las opc
 las vistas que conforman el módulo, el nombre del usuario, el estado de conexión y la
 hora actual.
 
-![Texto alternativo](/img/05-configuration/02-people/04-assignments/menu-superior.jpg)
+![Texto alternativo](img/05-configuration/02-people/04-assignments/menu-superior.jpg)
 
  **<center>Figura 1 - Menú Superior </center>**
 
@@ -1045,7 +1045,7 @@ hora actual.
 Se ubica debajo del menú superior y contiene dos (2) secciones para
 realizar las actividades inherentes a este módulo.
 
-![Texto alternativo](/img/05-configuration/02-people/04-assignments/zona-botones.jpg)
+![Texto alternativo](img/05-configuration/02-people/04-assignments/zona-botones.jpg)
 
 
  **<center> Figura 2 - Zona de botones </center>**
@@ -1057,7 +1057,7 @@ permiten llevar a cabo acciones características del módulo de configuración.
 Dichas acciones se relacionan con la vista, edición, creación y/o eliminación de
 la data. A continuación se explica cada botón de izquierda a derecha:
 
-![Texto alternativo](/img/05-configuration/02-people/04-assignments/seccion-uno.jpg)
+![Texto alternativo](img/05-configuration/02-people/04-assignments/seccion-uno.jpg)
 
  **<center> Figura 3 - Zona de botones(Sección Uno) </center>**
 
@@ -1100,7 +1100,7 @@ generar un nuevo registro. Al hacer clic sobre “Nuevo”, la vista
 cambiará a un formulario que mostrará los campos a rellenar para
 hacer posible la creación de una nueva asignación.
 
-![Texto alternativo](/img/05-configuration/02-people/04-assignments/detail.jpg)
+![Texto alternativo](img/05-configuration/02-people/04-assignments/detail.jpg)
 
 **<center> Figura 4 - Zona de botones(Nuevo)</center>**
 
@@ -1109,7 +1109,7 @@ hacer posible la creación de una nueva asignación.
 Esta sección está dividida en tres (3) partes que abarca el
 siguiente contenido:
 
-![Texto alternativo](/img/05-configuration/02-people/04-assignments/seccion-dos.jpg)
+![Texto alternativo](img/05-configuration/02-people/04-assignments/seccion-dos.jpg)
 
 **<center>Figura 5 - Zona de botones(Sección Dos)</center>**
 
@@ -1138,7 +1138,7 @@ variará de acuerdo a la ejecución, que haga el usuario, de cada botón. Para e
 caso de la vista general se muestra la información con base en los siguientes
 campos:
 
-![Texto alternativo](/img/05-configuration/02-people/04-assignments/tabla-contenido.jpg)
+![Texto alternativo](img/05-configuration/02-people/04-assignments/tabla-contenido.jpg)
 
 **<center>Figura 6 - Tabla de Contenido</center>**
 
@@ -1178,7 +1178,7 @@ Al pulsar un registro de la tabla usted puede ahora hacer visibles dos
 nuevos botones los cuales sirven para ejecutar las siguientes actividades.
 
 
-![Texto alternativo](/img/05-configuration/02-people/04-assignments/pulsar-registro.jpg)
+![Texto alternativo](img/05-configuration/02-people/04-assignments/pulsar-registro.jpg)
 
 **<center>Figura 7 - Pulsar registro en la tabla de contenido</center>**
 
@@ -1189,7 +1189,7 @@ de las horas creadas, es decir podrá ver al detalle todos los datos
 referentes al registro previamente seleccionado.
 
 
-![Texto alternativo](/img/05-configuration/02-people/04-assignments/detail.jpg)
+![Texto alternativo](img/05-configuration/02-people/04-assignments/detail.jpg)
 
 **<center>Figura 8 - Detalles</center>**
 
@@ -1198,7 +1198,7 @@ referentes al registro previamente seleccionado.
 Con este botón se desĺegará un formulario que permite
 editar la mayoría de los campos del registro seleccionado.
 
-![Texto alternativo](/img/05-configuration/02-people/04-assignments/edit.jpg)
+![Texto alternativo](img/05-configuration/02-people/04-assignments/edit.jpg)
 
 **<center>Figura 9 - Editar</center>**
 
@@ -1207,7 +1207,7 @@ registro. Para ello, primero debe desactivarse (si el registro se
 encuentra activo) utilizando el botón “Desactivar” y luego
 “Eliminar”.
 
-![Texto alternativo](/img/05-configuration/02-people/04-assignments/delete.jpg)
+![Texto alternativo](img/05-configuration/02-people/04-assignments/delete.jpg)
 
 **<center>Figura 10 - Eliminar</center>**
 
@@ -1239,7 +1239,7 @@ dentro de él podemos divisar: el logo de ProSer, el nombre del módulo, las opc
 las vistas que conforman el módulo, el nombre del usuario, el estado de conexión y la
 hora actual.
 
-![Texto alternativo](/img/05-configuration/02-people/05-auxiliary/menu-superior.jpg)
+![Texto alternativo](img/05-configuration/02-people/05-auxiliary/menu-superior.jpg)
 
  **<center>Figura 1 - Menú Superior </center>**
 
@@ -1248,7 +1248,7 @@ hora actual.
 Se ubica debajo del menú superior y contiene dos (2) secciones para
 realizar las actividades inherentes a este módulo.
 
-![Texto alternativo](/img/05-configuration/02-people/05-auxiliary/zona-botones.jpg)
+![Texto alternativo](img/05-configuration/02-people/05-auxiliary/zona-botones.jpg)
 
 
  **<center> Figura 2 - Zona de botones </center>**
@@ -1260,7 +1260,7 @@ permiten llevar a cabo acciones características del módulo de configuración.
 Dichas acciones se relacionan con la vista, edición, creación y/o eliminación de
 la data. A continuación se explica cada botón de izquierda a derecha:
 
-![Texto alternativo](/img/05-configuration/02-people/05-auxiliary/seccion-uno.jpg)
+![Texto alternativo](img/05-configuration/02-people/05-auxiliary/seccion-uno.jpg)
 
  **<center> Figura 3 - Zona de botones(Sección Uno) </center>**
 
@@ -1302,7 +1302,7 @@ generar un nuevo registro. Al hacer clic sobre “Nuevo”, la vista
 cambiará a un formulario que mostrará los campos a rellenar para
 hacer posible la creación de un nuevo auxiliar.
 
-![Texto alternativo](/img/05-configuration/02-people/05-auxiliary/new.jpg)
+![Texto alternativo](img/05-configuration/02-people/05-auxiliary/new.jpg)
 
 **<center> Figura 4 - Zona de botones(Nuevo)</center>**
 
@@ -1311,7 +1311,7 @@ hacer posible la creación de un nuevo auxiliar.
 Esta sección está dividida en tres (3) partes que abarca el
 siguiente contenido:
 
-![Texto alternativo](/img/05-configuration/02-people/05-auxiliary/seccion-dos.jpg)
+![Texto alternativo](img/05-configuration/02-people/05-auxiliary/seccion-dos.jpg)
 
 **<center>Figura 5 - Zona de botones(Sección Dos)</center>**
 
@@ -1340,7 +1340,7 @@ variará de acuerdo a la ejecución, que haga el usuario, de cada botón. Para e
 caso de la vista general se muestra la información con base en los siguientes
 campos:
 
-![Texto alternativo](/img/05-configuration/02-people/05-auxiliary/tabla-contenido.jpg)
+![Texto alternativo](img/05-configuration/02-people/05-auxiliary/tabla-contenido.jpg)
 
 **<center>Figura 6 - Tabla de Contenido</center>**
 
@@ -1380,7 +1380,7 @@ Al pulsar un registro de la tabla usted puede ahora hacer visibles dos
 nuevos botones los cuales sirven para ejecutar las siguientes actividades.
 
 
-![Texto alternativo](/img/05-configuration/02-people/05-auxiliary/pulsar-registro.jpg)
+![Texto alternativo](img/05-configuration/02-people/05-auxiliary/pulsar-registro.jpg)
 
 **<center>Figura 7 - Pulsar registro en la tabla de contenido</center>**
 
@@ -1391,7 +1391,7 @@ de las horas creadas, es decir podrá ver al detalle todos los datos
 referentes al registro previamente seleccionado.
 
 
-![Texto alternativo](/img/05-configuration/02-people/05-auxiliary/detail.jpg)
+![Texto alternativo](img/05-configuration/02-people/05-auxiliary/detail.jpg)
 
 **<center>Figura 8 - Detalles</center>**
 
@@ -1400,7 +1400,7 @@ referentes al registro previamente seleccionado.
 Con este botón se desĺegará un formulario que permite
 editar la mayoría de los campos del registro seleccionado.
 
-![Texto alternativo](/img/05-configuration/02-people/05-auxiliary/edit.jpg)
+![Texto alternativo](img/05-configuration/02-people/05-auxiliary/edit.jpg)
 
 **<center>Figura 9 - Editar</center>**
 
@@ -1409,7 +1409,7 @@ registro. Para ello, primero debe desactivarse (si el registro se
 encuentra activo) utilizando el botón “Desactivar” y luego
 “Eliminar”.
 
-![Texto alternativo](/img/05-configuration/02-people/05-auxiliary/delete.jpg)
+![Texto alternativo](img/05-configuration/02-people/05-auxiliary/delete.jpg)
 
 **<center>Figura 10 - Eliminar</center>**
 
@@ -1439,7 +1439,7 @@ dentro de él podemos divisar: el logo de ProSer, el nombre del módulo, las opc
 las vistas que conforman el módulo, el nombre del usuario, el estado de conexión y la
 hora actual.
 
-![Texto alternativo](/img/05-configuration/02-people/06-turns/menu-superior.jpg)
+![Texto alternativo](img/05-configuration/02-people/06-turns/menu-superior.jpg)
 
  **<center>Figura 1 - Menú Superior </center>**
 
@@ -1449,7 +1449,7 @@ hora actual.
 Se ubica debajo del menú superior y contiene dos (2) secciones para
 realizar las actividades inherentes a este módulo.
 
-![Texto alternativo](/img/05-configuration/02-people/06-turns/zona-botones.jpg)
+![Texto alternativo](img/05-configuration/02-people/06-turns/zona-botones.jpg)
 
 
  **<center> Figura 2 - Zona de botones </center>**
@@ -1461,7 +1461,7 @@ permiten llevar a cabo acciones características del módulo de configuración.
 Dichas acciones se relacionan con la vista, edición, creación y/o eliminación de
 la data. A continuación se explica cada botón de izquierda a derecha:
 
-![Texto alternativo](/img/05-configuration/02-people/06-turns/seccion-uno.jpg)
+![Texto alternativo](img/05-configuration/02-people/06-turns/seccion-uno.jpg)
 
  **<center> Figura 3 - Zona de botones(Sección Uno) </center>**
 
@@ -1504,7 +1504,7 @@ generar un nuevo registro. Al hacer clic sobre “Nuevo”, la vista
 cambiará a un formulario que mostrará los campos a rellenar para
 hacer posible la creación de un nuevo turno.
 
-![Texto alternativo](/img/05-configuration/02-people/06-turns/new.jpg)
+![Texto alternativo](img/05-configuration/02-people/06-turns/new.jpg)
 
 **<center> Figura 4 - Zona de botones(Nuevo)</center>**
 
@@ -1513,7 +1513,7 @@ hacer posible la creación de un nuevo turno.
 Esta sección está dividida en tres (3) partes que abarca el
 siguiente contenido:
 
-![Texto alternativo](/img/05-configuration/02-people/06-turns/seccion-dos.jpg)
+![Texto alternativo](img/05-configuration/02-people/06-turns/seccion-dos.jpg)
 
 **<center>Figura 5 - Zona de botones(Sección Dos)</center>**
 
@@ -1542,7 +1542,7 @@ variará de acuerdo a la ejecución, que haga el usuario, de cada botón. Para e
 caso de la vista general se muestra la información con base en los siguientes
 campos:
 
-![Texto alternativo](/img/05-configuration/02-people/06-turns/tabla-contenido.jpg)
+![Texto alternativo](img/05-configuration/02-people/06-turns/tabla-contenido.jpg)
 
 **<center>Figura 6 - Tabla de Contenido</center>**
 
@@ -1572,7 +1572,7 @@ Al pulsar un registro de la tabla usted puede ahora hacer visibles dos
 nuevos botones los cuales sirven para ejecutar las siguientes actividades.
 
 
-![Texto alternativo](/img/05-configuration/02-people/06-turns/pulsar-registro.jpg)
+![Texto alternativo](img/05-configuration/02-people/06-turns/pulsar-registro.jpg)
 
 **<center>Figura 7 - Pulsar registro en la tabla de contenido</center>**
 
@@ -1583,7 +1583,7 @@ de las horas creadas, es decir podrá ver al detalle todos los datos
 referentes al registro previamente seleccionado.
 
 
-![Texto alternativo](/img/05-configuration/02-people/06-turns/detail.jpg)
+![Texto alternativo](img/05-configuration/02-people/06-turns/detail.jpg)
 
 **<center>Figura 8 - Detalles</center>**
 
@@ -1592,7 +1592,7 @@ referentes al registro previamente seleccionado.
 Con este botón se desĺegará un formulario que permite
 editar la mayoría de los campos del registro seleccionado.
 
-![Texto alternativo](/img/05-configuration/02-people/06-turns/edit.jpg)
+![Texto alternativo](img/05-configuration/02-people/06-turns/edit.jpg)
 
 **<center>Figura 9 - Editar</center>**
 
@@ -1601,7 +1601,7 @@ registro. Para ello, primero debe desactivarse (si el registro se
 encuentra activo) utilizando el botón “Desactivar” y luego
 “Eliminar”.
 
-![Texto alternativo](/img/05-configuration/02-people/01-supervisors/delete.jpg)
+![Texto alternativo](img/05-configuration/02-people/01-supervisors/delete.jpg)
 
 **<center>Figura 10 - Eliminar</center>**
 
@@ -1633,7 +1633,7 @@ dentro de él podemos divisar: el logo de ProSer, el nombre del módulo, las opc
 las vistas que conforman el módulo, el nombre del usuario, el estado de conexión y la
 hora actual.
 
-![Texto alternativo](/img/05-configuration/02-people/07-turns-days/menu-superior.jpg)
+![Texto alternativo](img/05-configuration/02-people/07-turns-days/menu-superior.jpg)
 
  **<center>Figura 1 - Menú Superior </center>**
 
@@ -1643,7 +1643,7 @@ hora actual.
 Se ubica debajo del menú superior y contiene tres (03) secciones para
 realizar las actividades inherentes a este módulo.
 
-![Texto alternativo](/img/05-configuration/02-people/07-turns-days/zona-botones.jpg)
+![Texto alternativo](img/05-configuration/02-people/07-turns-days/zona-botones.jpg)
 
 
  **<center> Figura 2 - Zona de botones </center>**
@@ -1655,7 +1655,7 @@ permiten llevar a cabo acciones características del módulo de configuración.
 Dichas acciones se relacionan con la vista, edición, creación y/o eliminación de
 la data. A continuación se explica cada botón de izquierda a derecha:
 
-![Texto alternativo](/img/05-configuration/02-people/07-turns-days//seccion-uno.jpg)
+![Texto alternativo](img/05-configuration/02-people/07-turns-days//seccion-uno.jpg)
 
  **<center> Figura 3 - Zona de botones(Sección Uno) </center>**
 
@@ -1685,7 +1685,7 @@ previamente en la sección “Turnos”. Una vez elegido el turno a
 configurar, se desplegará la lista de los días de la semana con la
 configuración por defecto.
 
-![Texto alternativo](/img/05-configuration/02-people/07-turns-days/seccion-dos.jpg)
+![Texto alternativo](img/05-configuration/02-people/07-turns-days/seccion-dos.jpg)
 
  **<center> Figura 4 - Zona de botones(Sección Dos) </center>**
 
@@ -1694,7 +1694,7 @@ configuración por defecto.
 Esta sección está dividida en tres (3) partes que abarca el siguiente
 contenido:
 
-![Texto alternativo](/img/05-configuration/02-people/07-turns-days/seccion-tres.jpg)
+![Texto alternativo](img/05-configuration/02-people/07-turns-days/seccion-tres.jpg)
 
  **<center> Figura 4 - Zona de botones(Sección Tres) </center>**
 
@@ -1725,7 +1725,7 @@ variará de acuerdo a la ejecución, que haga el usuario, de cada botón. Para e
 caso de la vista general se muestra la información con base en los siguientes
 campos:
 
-![Texto alternativo](/img/05-configuration/02-people/07-turns-days/tabla-contenido.jpg)
+![Texto alternativo](img/05-configuration/02-people/07-turns-days/tabla-contenido.jpg)
 
  **<center> Figura 6 - Tabla de Contenido </center>**
 
@@ -1776,7 +1776,7 @@ Al pulsar un registro de la tabla usted puede ahora hacer visibles dos
 nuevos botones los cuales sirven para ejecutar las siguientes actividades.
 
 
-![Texto alternativo](/img/05-configuration/02-people/07-turns-days/pulsar-registro.jpg)
+![Texto alternativo](img/05-configuration/02-people/07-turns-days/pulsar-registro.jpg)
 
 **<center>Figura 7 - Pulsar registro en la tabla de contenido</center>**
 
@@ -1787,7 +1787,7 @@ de las horas creadas, es decir podrá ver al detalle todos los datos
 referentes al registro previamente seleccionado.
 
 
-![Texto alternativo](/img/05-configuration/02-people/07-turns-days/detail.jpg)
+![Texto alternativo](img/05-configuration/02-people/07-turns-days/detail.jpg)
 
 **<center>Figura 8 - Detalles</center>**
 
@@ -1796,7 +1796,7 @@ referentes al registro previamente seleccionado.
 Con este botón se desĺegará un formulario que permite
 editar la mayoría de los campos del registro seleccionado.
 
-![Texto alternativo](/img/05-configuration/02-people/07-turns-days/edit.jpg)
+![Texto alternativo](img/05-configuration/02-people/07-turns-days/edit.jpg)
 
 **<center>Figura 9 - Editar</center>**
 
@@ -1821,7 +1821,7 @@ dentro de él podemos divisar: el logo de ProSer, el nombre del módulo, las opc
 las vistas que conforman el módulo, el nombre del usuario, el estado de conexión y la
 hora actual.
 
-![Texto alternativo](/img/05-configuration/02-people/08-calendar/menu-superior.jpg)
+![Texto alternativo](img/05-configuration/02-people/08-calendar/menu-superior.jpg)
 
  **<center>Figura 1 - Menú Superior </center>**
 
@@ -1831,7 +1831,7 @@ hora actual.
 Se ubica debajo del menú superior y contiene dos (2) secciones para
 realizar las actividades inherentes a este módulo.
 
-![Texto alternativo](/img/05-configuration/02-people/08-calendar/zona-botones.jpg)
+![Texto alternativo](img/05-configuration/02-people/08-calendar/zona-botones.jpg)
 
 
  **<center> Figura 2 - Zona de botones </center>**
@@ -1843,7 +1843,7 @@ permiten llevar a cabo acciones características del módulo de configuración.
 Dichas acciones se relacionan con la vista, edición, creación y/o eliminación de
 la data. A continuación se explica cada botón de izquierda a derecha:
 
-![Texto alternativo](/img/05-configuration/02-people/08-calendar/seccion-uno.jpg)
+![Texto alternativo](img/05-configuration/02-people/08-calendar/seccion-uno.jpg)
 
  **<center> Figura 3 - Zona de botones(Sección Uno) </center>**
 
@@ -1886,7 +1886,7 @@ generar un nuevo registro. Al hacer clic sobre “Nuevo”, la vista
 cambiará a un formulario que mostrará los campos a rellenar para
 hacer posible la creación de un nuevo calendario.
 
-![Texto alternativo](/img/05-configuration/02-people/08-calendar/new.jpg)
+![Texto alternativo](img/05-configuration/02-people/08-calendar/new.jpg)
 
 **<center> Figura 4 - Zona de botones(Nuevo)</center>**
 
@@ -1895,7 +1895,7 @@ hacer posible la creación de un nuevo calendario.
 Esta sección está dividida en tres (3) partes que abarca el
 siguiente contenido:
 
-![Texto alternativo](/img/05-configuration/02-people/08-calendar/seccion-dos.jpg)
+![Texto alternativo](img/05-configuration/02-people/08-calendar/seccion-dos.jpg)
 
 **<center>Figura 5 - Zona de botones(Sección Dos)</center>**
 
@@ -1924,7 +1924,7 @@ variará de acuerdo a la ejecución, que haga el usuario, de cada botón. Para e
 caso de la vista general se muestra la información con base en los siguientes
 campos:
 
-![Texto alternativo](/img/05-configuration/02-people/08-calendar/tabla-contenido.jpg)
+![Texto alternativo](img/05-configuration/02-people/08-calendar/tabla-contenido.jpg)
 
 **<center>Figura 6 - Tabla de Contenido</center>**
 
@@ -1954,7 +1954,7 @@ Al pulsar un registro de la tabla usted puede ahora hacer visibles dos
 nuevos botones los cuales sirven para ejecutar las siguientes actividades.
 
 
-![Texto alternativo](/img/05-configuration/02-people/08-calendar/pulsar-registro.jpg)
+![Texto alternativo](img/05-configuration/02-people/08-calendar/pulsar-registro.jpg)
 
 **<center>Figura 7 - Pulsar registro en la tabla de contenido</center>**
 
@@ -1965,7 +1965,7 @@ de las horas creadas, es decir podrá ver al detalle todos los datos
 referentes al registro previamente seleccionado.
 
 
-![Texto alternativo](/img/05-configuration/02-people/08-calendar/detail.jpg)
+![Texto alternativo](img/05-configuration/02-people/08-calendar/detail.jpg)
 
 **<center>Figura 8 - Detalles</center>**
 
@@ -1974,7 +1974,7 @@ referentes al registro previamente seleccionado.
 Con este botón se desĺegará un formulario que permite
 editar la mayoría de los campos del registro seleccionado.
 
-![Texto alternativo](/img/05-configuration/02-people/08-calendar/edit.jpg)
+![Texto alternativo](img/05-configuration/02-people/08-calendar/edit.jpg)
 
 **<center>Figura 9 - Editar</center>**
 
@@ -1983,7 +1983,7 @@ registro. Para ello, primero debe desactivarse (si el registro se
 encuentra activo) utilizando el botón “Desactivar” y luego
 “Eliminar”.
 
-![Texto alternativo](/img/05-configuration/02-people/08-calendar/delete.jpg)
+![Texto alternativo](img/05-configuration/02-people/08-calendar/delete.jpg)
 
 **<center>Figura 10 - Eliminar</center>**
 
@@ -2005,7 +2005,7 @@ Se encuentra ubicado en la parte superior de la ventana y en él podemos divisar
 el logo de ProSer, el nombre del módulo, las opciones de las vistas que conforman el
 módulo, el nombre del usuario, el estado de conexión y la hora actual.
 
-![Texto alternativo](/img/05-configuration/02-people/09-holidays-days/menu-superior.jpg)
+![Texto alternativo](img/05-configuration/02-people/09-holidays-days/menu-superior.jpg)
 
  **<center>Figura 1 - Menú Superior </center>**
 
@@ -2015,7 +2015,7 @@ módulo, el nombre del usuario, el estado de conexión y la hora actual.
 Se ubica debajo del menú superior y contiene dos (2) secciones para
 realizar las actividades inherentes a este módulo.
 
-![Texto alternativo](/img/05-configuration/02-people/09-holidays-days/zona-botones.jpg)
+![Texto alternativo](img/05-configuration/02-people/09-holidays-days/zona-botones.jpg)
 
 
  **<center> Figura 2 - Zona de botones </center>**
@@ -2027,7 +2027,7 @@ permiten llevar a cabo acciones características del módulo de configuración.
 Dichas acciones se relacionan con la vista, edición, creación y/o eliminación de
 la data. A continuación se explica cada botón de izquierda a derecha:
 
-![Texto alternativo](/img/05-configuration/02-people/09-holidays-days/seccion-uno.jpg)
+![Texto alternativo](img/05-configuration/02-people/09-holidays-days/seccion-uno.jpg)
 
  **<center> Figura 3 - Zona de botones(Sección Uno) </center>**
 
@@ -2072,7 +2072,7 @@ hacer posible la creación de un nuevo feriado.
 *Este botón se muestra únicamente si hay un calendario
 seleccionado en el selector de calendarios.
 
-![Texto alternativo](/img/05-configuration/02-people/09-holidays-days/detail.jpg)
+![Texto alternativo](img/05-configuration/02-people/09-holidays-days/detail.jpg)
 
 **<center> Figura 4 - Zona de botones(Nuevo)</center>**
 
@@ -2081,7 +2081,7 @@ seleccionado en el selector de calendarios.
 Esta sección está dividida en tres (3) partes que abarca el
 siguiente contenido:
 
-![Texto alternativo](/img/05-configuration/02-people/09-holidays-days/seccion-dos.jpg)
+![Texto alternativo](img/05-configuration/02-people/09-holidays-days/seccion-dos.jpg)
 
 **<center>Figura 5 - Zona de botones(Sección Dos)</center>**
 
@@ -2113,7 +2113,7 @@ previamente en la sección “Calendario”. Una vez elegido el calendario a
 configurar, se desplegará la lista de los días de la semana con la
 configuración por defecto..
 
-![Texto alternativo](/img/05-configuration/02-people/09-holidays-days/seccion-dos.jpg)
+![Texto alternativo](img/05-configuration/02-people/09-holidays-days/seccion-dos.jpg)
 
 **<center>Figura 5 - Zona de botones(Sección Dos)</center>**
 
@@ -2126,7 +2126,7 @@ variará de acuerdo a la ejecución, que haga el usuario, de cada botón. Para e
 caso de la vista general se muestra la información con base en los siguientes
 campos:
 
-![Texto alternativo](/img/05-configuration/02-people/09-holidays-days/tabla-contenido.jpg)
+![Texto alternativo](img/05-configuration/02-people/09-holidays-days/tabla-contenido.jpg)
 
 **<center>Figura 6 - Tabla de Contenido</center>**
 
@@ -2162,7 +2162,7 @@ Al pulsar un registro de la tabla usted puede ahora hacer visibles dos
 nuevos botones los cuales sirven para ejecutar las siguientes actividades.
 
 
-![Texto alternativo](/img/05-configuration/02-people/09-holidays-days/pulsar-registro.jpg)
+![Texto alternativo](img/05-configuration/02-people/09-holidays-days/pulsar-registro.jpg)
 
 **<center>Figura 7 - Pulsar registro en la tabla de contenido</center>**
 
@@ -2173,7 +2173,7 @@ de las horas creadas, es decir podrá ver al detalle todos los datos
 referentes al registro previamente seleccionado.
 
 
-![Texto alternativo](/img/05-configuration/02-people/09-holidays-days/detail.jpg)
+![Texto alternativo](img/05-configuration/02-people/09-holidays-days/detail.jpg)
 
 **<center>Figura 8 - Detalles</center>**
 
@@ -2182,7 +2182,7 @@ referentes al registro previamente seleccionado.
 Con este botón se desĺegará un formulario que permite
 editar la mayoría de los campos del registro seleccionado.
 
-![Texto alternativo](/img/05-configuration/02-people/09-holidays-days/edit.jpg)
+![Texto alternativo](img/05-configuration/02-people/09-holidays-days/edit.jpg)
 
 **<center>Figura 9 - Editar</center>**
 
@@ -2205,7 +2205,7 @@ dentro de él podemos divisar: el logo de ProSer, el nombre del módulo, las opc
 las vistas que conforman el módulo, el nombre del usuario, el estado de conexión y la
 hora actual.
 
-![Texto alternativo](/img/05-configuration/03-operation/01-clients/menu-superior.jpg)
+![Texto alternativo](img/05-configuration/03-operation/01-clients/menu-superior.jpg)
 
  **<center>Figura 1 - Menú Superior </center>**
 
@@ -2215,7 +2215,7 @@ hora actual.
 Se ubica debajo del menú superior y contiene dos (2) secciones para
 realizar las actividades inherentes a este módulo.
 
-![Texto alternativo](/img/05-configuration/03-operation/01-clients/zona-botones.jpg)
+![Texto alternativo](img/05-configuration/03-operation/01-clients/zona-botones.jpg)
 
 
  **<center> Figura 2 - Zona de botones </center>**
@@ -2227,7 +2227,7 @@ permiten llevar a cabo acciones características del módulo de configuración.
 Dichas acciones se relacionan con la vista, edición, creación y/o eliminación de
 la data. A continuación se explica cada botón de izquierda a derecha:
 
-![Texto alternativo](/img/05-configuration/03-operation/01-clients/seccion-uno.jpg)
+![Texto alternativo](img/05-configuration/03-operation/01-clients/seccion-uno.jpg)
 
  **<center> Figura 3 - Zona de botones(Sección Uno) </center>**
 
@@ -2272,7 +2272,7 @@ hacer posible la creación de un nuevo cliente.
 
 
 
-![Texto alternativo](/img/05-configuration/03-operation/01-clients/new.jpg)
+![Texto alternativo](img/05-configuration/03-operation/01-clients/new.jpg)
 
 **<center> Figura 4 - Zona de botones(Nuevo)</center>**
 
@@ -2281,7 +2281,7 @@ hacer posible la creación de un nuevo cliente.
 Esta sección está dividida en tres (3) partes que abarca el
 siguiente contenido:
 
-![Texto alternativo](/img/05-configuration/03-operation/01-clients/seccion-dos.jpg)
+![Texto alternativo](img/05-configuration/03-operation/01-clients/seccion-dos.jpg)
 
 **<center>Figura 5 - Zona de botones(Sección Dos)</center>**
 
@@ -2310,7 +2310,7 @@ variará de acuerdo a la ejecución, que haga el usuario, de cada botón. Para e
 caso de la vista general se muestra la información con base en los siguientes
 campos:
 
-![Texto alternativo](/img/05-configuration/03-operation/01-clients/tabla-contenido.jpg)
+![Texto alternativo](img/05-configuration/03-operation/01-clients/tabla-contenido.jpg)
 
 **<center> Figura 6 - Tabla Contenido</center>**
 ###Id
@@ -2345,7 +2345,7 @@ Al pulsar un registro de la tabla usted puede ahora hacer visibles dos
 nuevos botones los cuales sirven para ejecutar las siguientes actividades.
 
 
-![Texto alternativo](/img/05-configuration/03-operation/01-clients/pulsar-registro.jpg)
+![Texto alternativo](img/05-configuration/03-operation/01-clients/pulsar-registro.jpg)
 
 **<center>Figura 7 - Pulsar registro en la tabla de contenido</center>**
 
@@ -2356,7 +2356,7 @@ de las horas creadas, es decir podrá ver al detalle todos los datos
 referentes al registro previamente seleccionado.
 
 
-![Texto alternativo](/img/05-configuration/03-operation/01-clients/detail.jpg)
+![Texto alternativo](img/05-configuration/03-operation/01-clients/detail.jpg)
 
 **<center>Figura 8 - Detalles</center>**
 
@@ -2365,7 +2365,7 @@ referentes al registro previamente seleccionado.
 Con este botón se desĺegará un formulario que permite
 editar la mayoría de los campos del registro seleccionado.
 
-![Texto alternativo](/img/05-configuration/03-operation/01-clients/edit.jpg)
+![Texto alternativo](img/05-configuration/03-operation/01-clients/edit.jpg)
 
 **<center>Figura 9 - Editar</center>**
 
@@ -2374,7 +2374,7 @@ registro. Para ello, primero debe desactivarse (si el registro se
 encuentra activo) utilizando el botón “Desactivar” y luego
 “Eliminar”.
 
-![Texto alternativo](/img/05-configuration/03-operation/01-clients/delete.jpg)
+![Texto alternativo](img/05-configuration/03-operation/01-clients/delete.jpg)
 
 **<center>Figura 10 - Eliminar</center>**
 
@@ -2400,7 +2400,7 @@ dentro de él podemos divisar: el logo de ProSer, el nombre del módulo, las opc
 las vistas que conforman el módulo, el nombre del usuario, el estado de conexión y la
 hora actual.
 
-![Texto alternativo](/img/05-configuration/03-operation/02-queues/menu-superior.jpg)
+![Texto alternativo](img/05-configuration/03-operation/02-queues/menu-superior.jpg)
 
  **<center>Figura 1 - Menú Superior </center>**
 
@@ -2410,7 +2410,7 @@ hora actual.
 Se ubica debajo del menú superior y contiene dos (2) secciones para
 realizar las actividades inherentes a este módulo.
 
-![Texto alternativo](/img/05-configuration/03-operation/02-queues/zona-botones.jpg)
+![Texto alternativo](img/05-configuration/03-operation/02-queues/zona-botones.jpg)
 
 
  **<center> Figura 2 - Zona de botones </center>**
@@ -2422,7 +2422,7 @@ permiten llevar a cabo acciones características del módulo de configuración.
 Dichas acciones se relacionan con la vista, edición, creación y/o eliminación de
 la data. A continuación se explica cada botón de izquierda a derecha::
 
-![Texto alternativo](/img/05-configuration/03-operation/02-queues/seccion-uno.jpg)
+![Texto alternativo](img/05-configuration/03-operation/02-queues/seccion-uno.jpg)
 
  **<center> Figura 3 - Zona de botones(Sección Uno) </center>**
 
@@ -2464,7 +2464,7 @@ estado en el que se encuentren.
 Esta sección está dividida en tres (3) partes que abarca el
 siguiente contenido:
 
-![Texto alternativo](/img/05-configuration/03-operation/02-queues/seccion-dos.jpg)
+![Texto alternativo](img/05-configuration/03-operation/02-queues/seccion-dos.jpg)
 
 **<center>Figura 4- Zona de botones(Sección Dos)</center>**
 
@@ -2493,7 +2493,7 @@ variará de acuerdo a la ejecución, que haga el usuario, de cada botón. Para e
 caso de la vista general se muestra la información con base en los siguientes
 campos:
 
-![Texto alternativo](/img/05-configuration/03-operation/01-clients/tabla-contenido.jpg)
+![Texto alternativo](img/05-configuration/03-operation/01-clients/tabla-contenido.jpg)
 
 **<center>Figura 5- Tabla de Contenido</center>**
 
@@ -2552,7 +2552,7 @@ Al pulsar un registro de la tabla usted puede ahora hacer visibles dos
 nuevos botones los cuales sirven para ejecutar las siguientes actividades.
 
 
-![Texto alternativo](/img/05-configuration/02-people/03-agent-roles/pulsar-registro.jpg)
+![Texto alternativo](img/05-configuration/02-people/03-agent-roles/pulsar-registro.jpg)
 
 **<center>Figura 6 - Pulsar registro en la tabla de contenido</center>**
 
@@ -2563,7 +2563,7 @@ de las horas creadas, es decir podrá ver al detalle todos los datos
 referentes al registro previamente seleccionado.
 
 
-![Texto alternativo](/img/05-configuration/02-people/01-supervisors/detail.jpg)
+![Texto alternativo](img/05-configuration/02-people/01-supervisors/detail.jpg)
 
 **<center>Figura 7 - Detalles</center>**
 
@@ -2572,7 +2572,7 @@ referentes al registro previamente seleccionado.
 Con este botón se desĺegará un formulario que permite
 editar la mayoría de los campos del registro seleccionado.
 
-![Texto alternativo](/img/05-configuration/02-people/01-supervisors/edit.jpg)
+![Texto alternativo](img/05-configuration/02-people/01-supervisors/edit.jpg)
 
 **<center>Figura 8 - Editar</center>**
 
@@ -2581,7 +2581,7 @@ registro. Para ello, primero debe desactivarse (si el registro se
 encuentra activo) utilizando el botón “Desactivar” y luego
 “Eliminar”.
 
-![Texto alternativo](/img/05-configuration/02-people/01-supervisors/delete.jpg)
+![Texto alternativo](img/05-configuration/02-people/01-supervisors/delete.jpg)
 
 **<center>Figura 9 - Eliminar</center>**
 
@@ -2606,7 +2606,7 @@ dentro de él podemos divisar: el logo de ProSer, el nombre del módulo, las opc
 las vistas que conforman el módulo, el nombre del usuario, el estado de conexión y la
 hora actual.
 
-![Texto alternativo](/img/05-configuration/03-operation/03-services/menu-superior.jpg)
+![Texto alternativo](img/05-configuration/03-operation/03-services/menu-superior.jpg)
 
  **<center>Figura 1 - Menú Superior </center>**
 
@@ -2616,7 +2616,7 @@ hora actual.
 Se ubica debajo del menú superior y contiene dos (2) secciones para
 realizar las actividades inherentes a este módulo.
 
-![Texto alternativo](/img/05-configuration/03-operation/03-services/zona-botones.jpg)
+![Texto alternativo](img/05-configuration/03-operation/03-services/zona-botones.jpg)
 
 
  **<center> Figura 2 - Zona de botones </center>**
@@ -2628,7 +2628,7 @@ permiten llevar a cabo acciones características del módulo de configuración.
 Dichas acciones se relacionan con la vista, edición, creación y/o eliminación de
 la data. A continuación se explica cada botón de izquierda a derecha:
 
-![Texto alternativo](/img/05-configuration/03-operation/03-services/seccion-uno.jpg)
+![Texto alternativo](img/05-configuration/03-operation/03-services/seccion-uno.jpg)
 
  **<center> Figura 3 - Zona de botones(Sección Uno) </center>**
 
@@ -2666,7 +2666,7 @@ estado en el que se encuentren.
 ###Nuevo
 
 
-![Texto alternativo](/img/05-configuration/03-operation/03-services/detail.jpg)
+![Texto alternativo](img/05-configuration/03-operation/03-services/detail.jpg)
 
 **<center> Figura 4 - Zona de botones(Nuevo)</center>**
 
@@ -2675,7 +2675,7 @@ estado en el que se encuentren.
 Esta sección está dividida en tres (3) partes que abarca el
 siguiente contenido:
 
-![Texto alternativo](/img/05-configuration/03-operation/03-services/seccion-dos.jpg)
+![Texto alternativo](img/05-configuration/03-operation/03-services/seccion-dos.jpg)
 
 **<center>Figura 5 - Zona de botones(Sección Dos)</center>**
 
@@ -2704,7 +2704,7 @@ variará de acuerdo a la ejecución, que haga el usuario, de cada botón. Para e
 caso de la vista general se muestra la información con base en los siguientes
 campos:
 
-![Texto alternativo](/img/05-configuration/03-operation/03-services/tabla-contenido.jpg)
+![Texto alternativo](img/05-configuration/03-operation/03-services/tabla-contenido.jpg)
 
 **<center>Figura 6 - Tabla de Contenido</center>**
 
@@ -2714,7 +2714,7 @@ Al pulsar un registro de la tabla usted puede ahora hacer visibles dos
 nuevos botones los cuales sirven para ejecutar las siguientes actividades.
 
 
-![Texto alternativo](/img/05-configuration/03-operation/03-services/pulsar-registro.jpg)
+![Texto alternativo](img/05-configuration/03-operation/03-services/pulsar-registro.jpg)
 
 **<center>Figura 7 - Pulsar registro en la tabla de contenido</center>**
 
@@ -2725,7 +2725,7 @@ de las horas creadas, es decir podrá ver al detalle todos los datos
 referentes al registro previamente seleccionado.
 
 
-![Texto alternativo](/img/05-configuration/03-operation/03-services/detail.jpg)
+![Texto alternativo](img/05-configuration/03-operation/03-services/detail.jpg)
 
 **<center>Figura 8 - Detalles</center>**
 
@@ -2734,7 +2734,7 @@ referentes al registro previamente seleccionado.
 Con este botón se desĺegará un formulario que permite
 editar la mayoría de los campos del registro seleccionado.
 
-![Texto alternativo](/img/05-configuration/03-operation/03-services//edit.jpg)
+![Texto alternativo](img/05-configuration/03-operation/03-services//edit.jpg)
 
 **<center>Figura 9 - Editar</center>**
 
@@ -2743,7 +2743,7 @@ registro. Para ello, primero debe desactivarse (si el registro se
 encuentra activo) utilizando el botón “Desactivar” y luego
 “Eliminar”.
 
-![Texto alternativo](/img/05-configuration/03-operation/03-services/delete.jpg)
+![Texto alternativo](img/05-configuration/03-operation/03-services/delete.jpg)
 
 **<center>Figura 10 - Eliminar</center>**
 
@@ -2764,7 +2764,7 @@ editar la información de las campañas, no podrá crear ni eliminar ningún reg
 La vista se divide en 3 grandes secciones que son: menú superior, zona de botones y
 tabla de contenido.
 
-![Texto alternativo](/img/05-configuration/03-operation/04-campaigns/menu-superior.jpg)
+![Texto alternativo](img/05-configuration/03-operation/04-campaigns/menu-superior.jpg)
 
  **<center>Figura 1 - Menú Superior </center>**
 
@@ -2774,7 +2774,7 @@ tabla de contenido.
 Se ubica debajo del menú superior y contiene dos (2) secciones para
 realizar las actividades inherentes a este módulo.
 
-![Texto alternativo](/img/05-configuration/03-operation/04-campaigns/zona-botones.jpg)
+![Texto alternativo](img/05-configuration/03-operation/04-campaigns/zona-botones.jpg)
 
 
  **<center> Figura 2 - Zona de botones </center>**
@@ -2786,7 +2786,7 @@ permiten llevar a cabo acciones características del módulo de configuración.
 Dichas acciones se relacionan con la vista, edición, creación y/o eliminación de
 la data. A continuación se explica cada botón de izquierda a derecha:
 
-![Texto alternativo](/img/05-configuration/03-operation/04-campaigns/seccion-uno.jpg)
+![Texto alternativo](img/05-configuration/03-operation/04-campaigns/seccion-uno.jpg)
 
  **<center> Figura 3 - Zona de botones(Sección Uno) </center>**
 
@@ -2829,7 +2829,7 @@ estado en el que se encuentren.
 Esta sección está dividida en tres (3) partes que abarca el
 siguiente contenido:
 
-![Texto alternativo](/img/05-configuration/03-operation/04-campaigns/seccion-dos.jpg)
+![Texto alternativo](img/05-configuration/03-operation/04-campaigns/seccion-dos.jpg)
 
 **<center>Figura 4 - Zona de botones(Sección Dos)</center>**
 
@@ -2858,7 +2858,7 @@ variará de acuerdo a la ejecución, que haga el usuario, de cada botón. Para e
 caso de la vista general se muestra la información con base en los siguientes
 campos:
 
-![Texto alternativo](/img/05-configuration/03-operation/04-campaigns/tabla-contenido.jpg)
+![Texto alternativo](img/05-configuration/03-operation/04-campaigns/tabla-contenido.jpg)
 
 **<center>Figura 5 - Tabla de Contenido</center>**
 
@@ -2907,7 +2907,7 @@ Al pulsar un registro de la tabla usted puede ahora hacer visibles dos
 nuevos botones los cuales sirven para ejecutar las siguientes actividades.
 
 
-![Texto alternativo](/img/05-configuration/03-operation/04-campaigns/pulsar-registro.jpg)
+![Texto alternativo](img/05-configuration/03-operation/04-campaigns/pulsar-registro.jpg)
 
 **<center>Figura 6 - Pulsar registro en la tabla de contenido</center>**
 
@@ -2918,7 +2918,7 @@ de las horas creadas, es decir podrá ver al detalle todos los datos
 referentes al registro previamente seleccionado.
 
 
-![Texto alternativo](/img/05-configuration/03-operation/04-campaigns/detail.jpg)
+![Texto alternativo](img/05-configuration/03-operation/04-campaigns/detail.jpg)
 
 **<center>Figura 7 - Detalles</center>**
 
@@ -2927,7 +2927,7 @@ referentes al registro previamente seleccionado.
 Con este botón se desĺegará un formulario que permite
 editar la mayoría de los campos del registro seleccionado.
 
-![Texto alternativo](/img/05-configuration/03-operation/04-campaigns/edit.jpg)
+![Texto alternativo](img/05-configuration/03-operation/04-campaigns/edit.jpg)
 
 **<center>Figura 8 - Editar</center>**
 
@@ -2936,7 +2936,7 @@ registro. Para ello, primero debe desactivarse (si el registro se
 encuentra activo) utilizando el botón “Desactivar” y luego
 “Eliminar”.
 
-![Texto alternativo](/img/05-configuration/03-operation/04-campaigns//delete.jpg)
+![Texto alternativo](img/05-configuration/03-operation/04-campaigns//delete.jpg)
 
 **<center>Figura 9 - Eliminar</center>**
 
@@ -2975,7 +2975,7 @@ dentro de él podemos divisar: el logo de ProSer, el nombre del módulo, las opc
 las vistas que conforman el módulo, el nombre del usuario, el estado de conexión y la
 hora actual.
 
-![Texto alternativo](/img/05-configuration/03-operation/05-scales/menu-superior.jpg)
+![Texto alternativo](img/05-configuration/03-operation/05-scales/menu-superior.jpg)
 
  **<center>Figura 1 - Menú Superior </center>**
 
@@ -2985,7 +2985,7 @@ hora actual.
 Se ubica debajo del menú superior y contiene dos (2) secciones para
 realizar las actividades inherentes a este módulo.
 
-![Texto alternativo](/img/05-configuration/03-operation/05-scales/zona-botones.jpg)
+![Texto alternativo](img/05-configuration/03-operation/05-scales/zona-botones.jpg)
 
 
  **<center> Figura 2 - Zona de botones </center>**
@@ -2997,7 +2997,7 @@ permiten llevar a cabo acciones características del módulo de configuración.
 Dichas acciones se relacionan con la vista, edición, creación y/o eliminación de
 la data. A continuación se explica cada botón de izquierda a derecha:
 
-![Texto alternativo](/img/05-configuration/03-operation/05-scales/seccion-uno.jpg)
+![Texto alternativo](img/05-configuration/03-operation/05-scales/seccion-uno.jpg)
 
  **<center> Figura 3 - Zona de botones(Sección Uno) </center>**
 
@@ -3036,7 +3036,7 @@ estado en el que se encuentren.
 ###Nuevo
 
 
-![Texto alternativo](/img/05-configuration/03-operation/05-scales/detail.jpg)
+![Texto alternativo](img/05-configuration/03-operation/05-scales/detail.jpg)
 
 **<center> Figura 4 - Zona de botones(Nuevo)</center>**
 
@@ -3045,7 +3045,7 @@ estado en el que se encuentren.
 Esta sección está dividida en tres (3) partes que abarca el
 siguiente contenido:
 
-![Texto alternativo](/img/05-configuration/03-operation/05-scales/seccion-dos.jpg)
+![Texto alternativo](img/05-configuration/03-operation/05-scales/seccion-dos.jpg)
 
 **<center>Figura 5 - Zona de botones(Sección Dos)</center>**
 
@@ -3074,7 +3074,7 @@ variará de acuerdo a la ejecución, que haga el usuario, de cada botón. Para e
 caso de la vista general se muestra la información con base en los siguientes
 campos:
 
-![Texto alternativo](/img/05-configuration/03-operation/05-scales/tabla-contenido.jpg)
+![Texto alternativo](img/05-configuration/03-operation/05-scales/tabla-contenido.jpg)
 
 **<center>Figura 6 - Tabla de Contenido</center>**
 
@@ -3126,7 +3126,7 @@ Al pulsar un registro de la tabla usted puede ahora hacer visibles dos
 nuevos botones los cuales sirven para ejecutar las siguientes actividades.
 
 
-![Texto alternativo](/img/05-configuration/03-operation/05-scales/pulsar-registro.jpg)
+![Texto alternativo](img/05-configuration/03-operation/05-scales/pulsar-registro.jpg)
 
 **<center>Figura 7 - Pulsar registro en la tabla de contenido</center>**
 
@@ -3137,7 +3137,7 @@ de las horas creadas, es decir podrá ver al detalle todos los datos
 referentes al registro previamente seleccionado.
 
 
-![Texto alternativo](/img/05-configuration/03-operation/05-scales/detail.jpg)
+![Texto alternativo](img/05-configuration/03-operation/05-scales/detail.jpg)
 
 **<center>Figura 8 - Detalles</center>**
 
@@ -3146,7 +3146,7 @@ referentes al registro previamente seleccionado.
 Con este botón se desĺegará un formulario que permite
 editar la mayoría de los campos del registro seleccionado.
 
-![Texto alternativo](/img/05-configuration/03-operation/05-scales/edit.jpg)
+![Texto alternativo](img/05-configuration/03-operation/05-scales/edit.jpg)
 
 **<center>Figura 9 - Editar</center>**
 
@@ -3155,7 +3155,7 @@ registro. Para ello, primero debe desactivarse (si el registro se
 encuentra activo) utilizando el botón “Desactivar” y luego
 “Eliminar”.
 
-![Texto alternativo](/img/05-configuration/03-operation/05-scales/delete.jpg)
+![Texto alternativo](img/05-configuration/03-operation/05-scales/delete.jpg)
 
 **<center>Figura 10 - Eliminar</center>**
 

@@ -11,7 +11,7 @@ Nótese que todas las tablas generadas aquí pueden invocarse directamente con u
 
 # Portada
 
-![Texto alternativo](/img/04-reports/reports-main/01-reports.jpg)
+![Texto alternativo](img/04-reports/reports-main/01-reports.jpg)
 
 Al ingresar en el módulo puede visualizar un portada que contiene una barra de navegación.  
 
@@ -21,46 +21,46 @@ El cuerpo de la portada despliega el logo de la organización, el nombre del rep
 
 Si el usuario no está logueado, el sistema solo permite acceso a la funcionalidad de login para que el usuario escriba un nombre de usuario y una contraseña.
 
-![Texto alternativo](/img/04-reports/reports-main/01-login.jpg) 
+![Texto alternativo](img/04-reports/reports-main/01-login.jpg) 
 
 Una vez logueado podrá tener acceso a las funcionalidades del sistema.
 
 ## Barra de navegación
-![Texto alternativo](/img/04-reports/reports-main/06-main.jpg) 
+![Texto alternativo](img/04-reports/reports-main/06-main.jpg) 
 
 Esta barra de navegación contiene:
 
 ### Logo de ProSer
-![Texto alternativo](/img/04-reports/reports-main/07-logo.jpg) 
+![Texto alternativo](img/04-reports/reports-main/07-logo.jpg) 
 
 Que actúa como un botón para regresar al menú principal.
 
 ### Link de Reportes
-![Texto alternativo](/img/04-reports/reports-main/08-link.jpg) 
+![Texto alternativo](img/04-reports/reports-main/08-link.jpg) 
 
 Que regresa siempre a esta portada.
 
 ### Menú de llamadas
-![Texto alternativo](/img/04-reports/reports-main/09.jpg) 
+![Texto alternativo](img/04-reports/reports-main/09.jpg) 
 
 Que despliega un menú mostrando los reportes asociados a las llamadas:  
 
 Entrantes, salientes, detalle de llamadas, abandonadas y un reporte sobre los tiempos de espera.
 
 ### Menú de agentes
-![Texto alternativo](/img/04-reports/reports-main/10.jpg) 
+![Texto alternativo](img/04-reports/reports-main/10.jpg) 
 
 Aquí observamos links al reporte de conexión, detalle de auxiliares y de asignaciones.
 
 ### Menú de operación
-![Texto alternativo](/img/04-reports/reports-main/11.jpg) 
+![Texto alternativo](img/04-reports/reports-main/11.jpg) 
 
 Este menú presenta dos vistas de la misma data: Operativo detallado y el consolidado.  
 
 La información que presentan es la misma, pero difiere la forma en que es mostrada cuando se trata de un intervalo de fechas ya que el primero agrupa la información por fechas mientras que el segundo la acumula por agente.
 
 ### Menú de data
-![Texto alternativo](/img/04-reports/reports-main/12.jpg) 
+![Texto alternativo](img/04-reports/reports-main/12.jpg) 
 
 El menú de data permite ver, acceder y exportar las tablas principales que registran la información:  
 
@@ -87,7 +87,7 @@ Cada vez que una llamada ingresa a una cola, se crea un registro en esta tabla. 
 La data contiene la información del registro y algunos campos que facilitan la clasificación de la llamada.
 
 ### Menú de usuario
-![Texto alternativo](/img/04-reports/reports-main/13.jpg) 
+![Texto alternativo](img/04-reports/reports-main/13.jpg) 
 
 Este menú muestra el nombre del usuario, el estado de la conexión (online/offline) y la hora. Si se oprime aparece la opción para desloguearse.
 
@@ -100,13 +100,13 @@ Esta herramienta proporciona la capacidad de navegar a través de datos históri
 ### Menú superior 
 Se encuentra ubicado en la parte superior de la ventana y en él podemos divisar: el logo de ProSer, el nombre del módulo, las opciones de las vistas que conforman el módulo, el nombre del usuario, el estado de conexión y la hora actual.
 
-![Texto alternativo](/img/04-reports/01-calls/01-incoming/2.jpg) 
+![Texto alternativo](img/04-reports/01-calls/01-incoming/2.jpg) 
 **<center> Figura 1 - Menú Superior </center>**
 
 ### Menú inferior 
 Se ubica debajo del *menú superior* y está dividido en tres (03) secciones que describen, de manera general, la vista actual. De izquierda a derecha: sección uno, sección dos y sección tres.
 
-![Texto alternativo](/img/04-reports/01-calls/01-incoming/3.jpg) 
+![Texto alternativo](img/04-reports/01-calls/01-incoming/3.jpg) 
 **<center> Figura 2 - Menú Inferior </center>**
 
 #### Sección uno
@@ -121,22 +121,22 @@ En la sección tres, al hacer clic sobre “Filtre la información aquí”,
 encontramos el *selector* de opciones. Esta funcionalidad proporciona la capacidad de filtrar, a través de un abanico de posibilidades, la 
 información que se muestra en la pizarra de indicadores.
 
-![Texto alternativo](/img/04-reports/01-calls/01-incoming/4.jpg) 
+![Texto alternativo](img/04-reports/01-calls/01-incoming/4.jpg) 
 **<center> Figura 3 - Menú Inferior(Sección tres) </center>**
 
 Así como también, en esta sección se visualizará la(s) opción(es) 
 seleccionada(s). El *selector* es explicado en detalle en su sección del Manual de Usuario correspondiente.
 
-![Texto alternativo](/img/04-reports/01-calls/01-incoming/4-1.jpg) 
+![Texto alternativo](img/04-reports/01-calls/01-incoming/4-1.jpg) 
 **<center> Figura 4 - Menú Inferior(Sección tres) </center>**
 
-![Texto alternativo](/img/04-reports/01-calls/01-incoming/4-2.jpg) 
+![Texto alternativo](img/04-reports/01-calls/01-incoming/4-2.jpg) 
 **<center> Figura 5 - Menú Inferior(Sección tres) </center>**
 
 ### Zona de botones
 La zona de botones se caracteriza por brindar opciones al usuario que facilita la transformación, actualización y exportación de la información contenida en el reporte. Esta zona se conforma por tres (03)botones y una barra de búsqueda.
 
-![Texto alternativo](/img/04-reports/01-calls/01-incoming/5.jpg) 
+![Texto alternativo](img/04-reports/01-calls/01-incoming/5.jpg) 
 **<center> Figura 6 - Zona de botones </center>**
 
 #### Gráfico
@@ -144,7 +144,7 @@ Permite visualizar la información de los indicadores principales del reporte en
 
 Dentro de la vista del gráfico aparecen dos (02) botones: Tabla, Recalcular.
 
-![Texto alternativo](/img/04-reports/01-calls/01-incoming/5-1.jpg) 
+![Texto alternativo](img/04-reports/01-calls/01-incoming/5-1.jpg) 
 **<center> Figura 7 - Zona de botones(Gráfico) </center>**
 
 ##### Tabla
@@ -163,13 +163,13 @@ reporte hacia un archivo excel.
 #### Barra de búsqueda
 La barra de búsqueda permite al usuario hacer un filtrado rápido de la información expuesta en el reporte. La búsqueda se hace a través de los valores de los campos.
 
-![Texto alternativo](/img/04-reports/01-calls/01-incoming/5-2.jpg) 
+![Texto alternativo](img/04-reports/01-calls/01-incoming/5-2.jpg) 
 **<center> Figura 8 - Zona de botones(Barra de búsqueda) </center>**
 
 ### Tabla de contenido
 Dentro de la tabla de contenido se despliega la información solicitada por el reporte, esta información varía de acuerdo al reporte. Para el caso del reporte de llamadas entrantes:
 
-![Texto alternativo](/img/04-reports/01-calls/01-incoming/6.jpg) 
+![Texto alternativo](img/04-reports/01-calls/01-incoming/6.jpg) 
 **<center> Figura 9 - Tabla de contenido </center>**
 
 #### Fecha
@@ -209,7 +209,7 @@ tiempo ideal de atención, conocido comúnmente como umbral (normalmente es de 2
 #### Nivel atención
 Indica el porcentaje que representa las llamadas atendidas con respecto a la cantidad de llamadas recibidas. El cálculo de este valor corresponde a la fecha indicada.
 
-![Texto alternativo](/img/04-reports/01-calls/01-incoming/6-1.jpg) 
+![Texto alternativo](img/04-reports/01-calls/01-incoming/6-1.jpg) 
 **<center> Figura 10 - Tabla de contenido </center>**
 
 #### Nivel abandono
@@ -244,13 +244,13 @@ Esta herramienta proporciona la capacidad de navegar a través de datos históri
 ### Menú superior 
 Se encuentra ubicado en la parte superior de la ventana y en él podemos divisar: el logo de ProSer, el nombre del módulo, las opciones de las vistas que conforman el módulo, el nombre del usuario, el estado de conexión y la hora actual.
 
-![Texto alternativo](/img/04-reports/01-calls/02-incoming-by-interval/2.jpg) 
+![Texto alternativo](img/04-reports/01-calls/02-incoming-by-interval/2.jpg) 
 **<center> Figura 1 - Menú Superior </center>**
 
 ### Menú inferior 
 Se ubica debajo del *menú superior* y está dividido en tres (03) secciones que describen, de manera general, la vista actual. De izquierda a derecha: sección uno, sección dos y sección tres.
 
-![Texto alternativo](/img/04-reports/01-calls/02-incoming-by-interval/3.jpg) 
+![Texto alternativo](img/04-reports/01-calls/02-incoming-by-interval/3.jpg) 
 **<center> Figura 2 - Menú Inferior </center>**
 
 #### Sección uno
@@ -265,22 +265,22 @@ En la sección tres, al hacer clic sobre “Filtre la información aquí”,
 encontramos el *selector* de opciones. Esta funcionalidad proporciona la capacidad de filtrar, a través de un abanico de posibilidades, la 
 información que se muestra en la pizarra de indicadores.
 
-![Texto alternativo](/img/04-reports/01-calls/02-incoming-by-interval/4.jpg) 
+![Texto alternativo](img/04-reports/01-calls/02-incoming-by-interval/4.jpg) 
 **<center> Figura 3 - Menú Inferior(Sección tres) </center>**
 
 Así como también, en esta sección se visualizará la(s) opción(es) 
 seleccionada(s). El *selector* es explicado en detalle en su sección del Manual de Usuario correspondiente.
 
-![Texto alternativo](/img/04-reports/01-calls/02-incoming-by-interval/4-1.jpg) 
+![Texto alternativo](img/04-reports/01-calls/02-incoming-by-interval/4-1.jpg) 
 **<center> Figura 4 - Menú Inferior(Sección tres) </center>**
 
-![Texto alternativo](/img/04-reports/01-calls/02-incoming-by-interval/4-2.jpg) 
+![Texto alternativo](img/04-reports/01-calls/02-incoming-by-interval/4-2.jpg) 
 **<center> Figura 5 - Menú Inferior(Sección tres) </center>**
 
 ### Zona de botones
 La zona de botones se caracteriza por brindar opciones al usuario que facilita la transformación, actualización y exportación de la información contenida en el reporte. Esta zona se conforma por tres (03)botones y una barra de búsqueda.
 
-![Texto alternativo](/img/04-reports/01-calls/02-incoming-by-interval/5.jpg) 
+![Texto alternativo](img/04-reports/01-calls/02-incoming-by-interval/5.jpg) 
 **<center> Figura 6 - Zona de botones </center>**
 
 #### Gráfico
@@ -288,7 +288,7 @@ Permite visualizar la información de los indicadores principales del reporte en
 
 Dentro de la vista del gráfico aparecen dos (02) botones: Tabla, Recalcular.
 
-![Texto alternativo](/img/04-reports/01-calls/02-incoming-by-interval/5-1.jpg) 
+![Texto alternativo](img/04-reports/01-calls/02-incoming-by-interval/5-1.jpg) 
 **<center> Figura 7 - Zona de botones(Gráfico) </center>**
 
 ##### Tabla
@@ -307,13 +307,13 @@ reporte hacia un archivo excel.
 #### Barra de búsqueda
 La barra de búsqueda permite al usuario hacer un filtrado rápido de la información expuesta en el reporte. La búsqueda se hace a través de los valores de los campos.
 
-![Texto alternativo](/img/04-reports/01-calls/02-incoming-by-interval/5-2.jpg) 
+![Texto alternativo](img/04-reports/01-calls/02-incoming-by-interval/5-2.jpg) 
 **<center> Figura 8 - Zona de botones(Barra de búsqueda) </center>**
 
 ### Tabla de contenido
 Dentro de la tabla de contenido se despliega la información solicitada por el reporte, esta información varía de acuerdo al reporte. Para el caso del reporte de llamadas entrantes:
 
-![Texto alternativo](/img/04-reports/01-calls/02-incoming-by-interval/6.jpg) 
+![Texto alternativo](img/04-reports/01-calls/02-incoming-by-interval/6.jpg) 
 **<center> Figura 9 - Tabla de contenido </center>**
 
 #### Fecha
@@ -340,7 +340,7 @@ Indica la cantidad de llamadas atendidas después de cumplirse el umbral de tiem
 #### Abandonadas
 Indica la cantidad de llamadas abandonadas en la fecha indicada.
 
-![Texto alternativo](/img/04-reports/01-calls/02-incoming-by-interval/6-1.jpg) 
+![Texto alternativo](img/04-reports/01-calls/02-incoming-by-interval/6-1.jpg) 
 **<center> Figura 10 - Tabla de contenido </center>**
 
 #### Cortas
@@ -386,13 +386,13 @@ Es una herramienta que proporciona al gerente o supervisor obtener los valores d
 ### Menú superior 
 Se encuentra ubicado en la parte superior de la ventana y en él podemos divisar: el logo de ProSer, el nombre del módulo, las opciones de las vistas que conforman el módulo, el nombre del usuario, el estado de conexión y la hora actual.
 
-![Texto alternativo](/img/04-reports/01-calls/03-manual-outgoing/2.jpg) 
+![Texto alternativo](img/04-reports/01-calls/03-manual-outgoing/2.jpg) 
 **<center> Figura 1 - Menú Superior </center>**
 
 ### Menú inferior 
 Se ubica debajo del *menú superior* y está dividido en tres (03) secciones que describen, de manera general, la vista actual. De izquierda a derecha: sección uno, sección dos y sección tres.
 
-![Texto alternativo](/img/04-reports/01-calls/03-manual-outgoing/3.jpg) 
+![Texto alternativo](img/04-reports/01-calls/03-manual-outgoing/3.jpg) 
 **<center> Figura 2 - Menú Inferior </center>**
 
 #### Sección uno
@@ -407,22 +407,22 @@ En la sección tres, al hacer clic sobre “Filtre la información aquí”,
 encontramos el *selector* de opciones. Esta funcionalidad proporciona la capacidad de filtrar, a través de un abanico de posibilidades, la 
 información que se muestra en la pizarra de indicadores.
 
-![Texto alternativo](/img/04-reports/01-calls/03-manual-outgoing/4.jpg) 
+![Texto alternativo](img/04-reports/01-calls/03-manual-outgoing/4.jpg) 
 **<center> Figura 3 - Menú Inferior(Sección tres) </center>**
 
 Así como también, en esta sección se visualizará la(s) opción(es) 
 seleccionada(s). El *selector* es explicado en detalle en su sección del Manual de Usuario correspondiente.
 
-![Texto alternativo](/img/04-reports/01-calls/03-manual-outgoing/4-1.jpg) 
+![Texto alternativo](img/04-reports/01-calls/03-manual-outgoing/4-1.jpg) 
 **<center> Figura 4 - Menú Inferior(Sección tres) </center>**
 
-![Texto alternativo](/img/04-reports/01-calls/03-manual-outgoing/4-2.jpg) 
+![Texto alternativo](img/04-reports/01-calls/03-manual-outgoing/4-2.jpg) 
 **<center> Figura 5 - Menú Inferior(Sección tres) </center>**
 
 ### Zona de botones
 La zona de botones se caracteriza por brindar opciones al usuario que facilita la transformación, actualización y exportación de la información contenida en el reporte. Esta zona se conforma por tres (03)botones y una barra de búsqueda.
 
-![Texto alternativo](/img/04-reports/01-calls/03-manual-outgoing/5.jpg) 
+![Texto alternativo](img/04-reports/01-calls/03-manual-outgoing/5.jpg) 
 **<center> Figura 6 - Zona de botones </center>**
 
 #### Gráfico
@@ -430,7 +430,7 @@ Permite visualizar la información de los indicadores principales del reporte en
 
 Dentro de la vista del gráfico aparecen dos (02) botones: Tabla, Recalcular.
 
-![Texto alternativo](/img/04-reports/01-calls/03-manual-outgoing/5-1.jpg) 
+![Texto alternativo](img/04-reports/01-calls/03-manual-outgoing/5-1.jpg) 
 **<center> Figura 7 - Zona de botones(Gráfico) </center>**
 
 ##### Tabla
@@ -449,13 +449,13 @@ reporte hacia un archivo excel.
 #### Barra de búsqueda
 La barra de búsqueda permite al usuario hacer un filtrado rápido de la información expuesta en el reporte. La búsqueda se hace a través de los valores de los campos.
 
-![Texto alternativo](/img/04-reports/01-calls/03-manual-outgoing/5-2.jpg) 
+![Texto alternativo](img/04-reports/01-calls/03-manual-outgoing/5-2.jpg) 
 **<center> Figura 8 - Zona de botones(Barra de búsqueda) </center>**
 
 ### Tabla de contenido
 Dentro de la tabla de contenido se despliega la información solicitada por el reporte, esta información varía de acuerdo al reporte. Para el caso del reporte de llamadas salientes manuales:
 
-![Texto alternativo](/img/04-reports/01-calls/03-manual-outgoing/6.jpg) 
+![Texto alternativo](img/04-reports/01-calls/03-manual-outgoing/6.jpg) 
 **<center> Figura 9 - Tabla de contenido </center>**
 
 #### Fecha
@@ -488,7 +488,7 @@ Indica el porcentaje que representa la cantidad de llamadas contestadas por el d
 #### Nivel de efectividad
 Indica el porcentaje que representa las llamadas efectivas con respecto a la cantidad de llamadas realizadas. El cálculo de este valor corresponde a la fecha indicada. 
 
-![Texto alternativo](/img/04-reports/01-calls/03-manual-outgoing/6-1.jpg) 
+![Texto alternativo](img/04-reports/01-calls/03-manual-outgoing/6-1.jpg) 
 **<center> Figura 10 - Tabla de contenido </center>**
 
 #### Segundos de operación 
@@ -510,13 +510,13 @@ Es una herramienta que proporciona al gerente o supervisor obtener los valores d
 ### Menú superior 
 Se encuentra ubicado en la parte superior de la ventana y en él podemos divisar: el logo de ProSer, el nombre del módulo, las opciones de las vistas que conforman el módulo, el nombre del usuario, el estado de conexión y la hora actual.
 
-![Texto alternativo](/img/04-reports/01-calls/04-manual-outgoing-by-interval/2.jpg) 
+![Texto alternativo](img/04-reports/01-calls/04-manual-outgoing-by-interval/2.jpg) 
 **<center> Figura 1 - Menú Superior </center>**
 
 ### Menú inferior 
 Se ubica debajo del *menú superior* y está dividido en tres (03) secciones que describen, de manera general, la vista actual. De izquierda a derecha: sección uno, sección dos y sección tres.
 
-![Texto alternativo](/img/04-reports/01-calls/04-manual-outgoing-by-interval/3.jpg) 
+![Texto alternativo](img/04-reports/01-calls/04-manual-outgoing-by-interval/3.jpg) 
 **<center> Figura 2 - Menú Inferior </center>**
 
 #### Sección uno
@@ -531,22 +531,22 @@ En la sección tres, al hacer clic sobre “Filtre la información aquí”,
 encontramos el *selector* de opciones. Esta funcionalidad proporciona la capacidad de filtrar, a través de un abanico de posibilidades, la 
 información que se muestra en la pizarra de indicadores.
 
-![Texto alternativo](/img/04-reports/01-calls/04-manual-outgoing-by-interval/3-1.jpg) 
+![Texto alternativo](img/04-reports/01-calls/04-manual-outgoing-by-interval/3-1.jpg) 
 **<center> Figura 3 - Menú Inferior(Sección tres) </center>**
 
 Así como también, en esta sección se visualizará la(s) opción(es) 
 seleccionada(s). El *selector* es explicado en detalle en su sección del Manual de Usuario correspondiente.
 
-![Texto alternativo](/img/04-reports/01-calls/04-manual-outgoing-by-interval/3-2.jpg) 
+![Texto alternativo](img/04-reports/01-calls/04-manual-outgoing-by-interval/3-2.jpg) 
 **<center> Figura 4 - Menú Inferior(Sección tres) </center>**
 
-![Texto alternativo](/img/04-reports/01-calls/04-manual-outgoing-by-interval/3-3.jpg) 
+![Texto alternativo](img/04-reports/01-calls/04-manual-outgoing-by-interval/3-3.jpg) 
 **<center> Figura 5 - Menú Inferior(Sección tres) </center>**
 
 ### Zona de botones
 La zona de botones se caracteriza por brindar opciones al usuario que facilita la transformación, actualización y exportación de la información contenida en el reporte. Esta zona se conforma por tres (03)botones y una barra de búsqueda.
 
-![Texto alternativo](/img/04-reports/01-calls/04-manual-outgoing-by-interval/4.jpg) 
+![Texto alternativo](img/04-reports/01-calls/04-manual-outgoing-by-interval/4.jpg) 
 **<center> Figura 6 - Zona de botones </center>**
 
 #### Gráfico
@@ -554,7 +554,7 @@ Permite visualizar la información de los indicadores principales del reporte en
 
 Dentro de la vista del gráfico aparecen dos (02) botones: Tabla, Recalcular.
 
-![Texto alternativo](/img/04-reports/01-calls/04-manual-outgoing-by-interval/4-1.jpg) 
+![Texto alternativo](img/04-reports/01-calls/04-manual-outgoing-by-interval/4-1.jpg) 
 **<center> Figura 7 - Zona de botones(Gráfico) </center>**
 
 ##### Tabla
@@ -573,13 +573,13 @@ reporte hacia un archivo excel.
 #### Barra de búsqueda
 La barra de búsqueda permite al usuario hacer un filtrado rápido de la información expuesta en el reporte. La búsqueda se hace a través de los valores de los campos.
 
-![Texto alternativo](/img/04-reports/01-calls/04-manual-outgoing-by-interval/4-2.jpg) 
+![Texto alternativo](img/04-reports/01-calls/04-manual-outgoing-by-interval/4-2.jpg) 
 **<center> Figura 8 - Zona de botones(Barra de búsqueda) </center>**
 
 ### Tabla de contenido
 Dentro de la tabla de contenido se despliega la información solicitada por el reporte, esta información varía de acuerdo al reporte. Para el caso del reporte de llamadas salientes manuales por intervalo:
 
-![Texto alternativo](/img/04-reports/01-calls/04-manual-outgoing-by-interval/5.jpg) 
+![Texto alternativo](img/04-reports/01-calls/04-manual-outgoing-by-interval/5.jpg) 
 **<center> Figura 9 - Tabla de contenido </center>**
 
 #### Fecha
@@ -606,7 +606,7 @@ Indica la cantidad de llamadas realizadas por los agentes que fueron efectivas e
 #### Llamadas colgadas
 Indica la cantidad de llamadas realizadas por los agentes que fueron colgadas en la fecha indicada.
 
-![Texto alternativo](/img/04-reports/01-calls/04-manual-outgoing-by-interval/5-1.jpg) 
+![Texto alternativo](img/04-reports/01-calls/04-manual-outgoing-by-interval/5-1.jpg) 
 **<center> Figura 10 - Tabla de contenido </center>**
 
 #### Nivel de contactabilidad
@@ -633,13 +633,13 @@ Es una herramienta que proporciona al gerente o supervisor obtener los valores d
 ### Menú superior 
 Se encuentra ubicado en la parte superior de la ventana y en él podemos divisar: el logo de ProSer, el nombre del módulo, las opciones de las vistas que conforman el módulo, el nombre del usuario, el estado de conexión y la hora actual.
 
-![Texto alternativo](/img/04-reports/01-calls/05-calls-detail/2.jpg) 
+![Texto alternativo](img/04-reports/01-calls/05-calls-detail/2.jpg) 
 **<center> Figura 1 - Menú Superior </center>**
 
 ### Menú inferior 
 Se ubica debajo del *menú superior* y está dividido en tres (03) secciones que describen, de manera general, la vista actual. De izquierda a derecha: sección uno, sección dos y sección tres.
 
-![Texto alternativo](/img/04-reports/01-calls/05-calls-detail/3.jpg) 
+![Texto alternativo](img/04-reports/01-calls/05-calls-detail/3.jpg) 
 **<center> Figura 2 - Menú Inferior </center>**
 
 #### Sección uno
@@ -654,22 +654,22 @@ En la sección tres, al hacer clic sobre “Filtre la información aquí”,
 encontramos el *selector* de opciones. Esta funcionalidad proporciona la capacidad de filtrar, a través de un abanico de posibilidades, la 
 información que se muestra en la pizarra de indicadores.
 
-![Texto alternativo](/img/04-reports/01-calls/05-calls-detail/3-1.jpg) 
+![Texto alternativo](img/04-reports/01-calls/05-calls-detail/3-1.jpg) 
 **<center> Figura 3 - Menú Inferior(Sección tres) </center>**
 
 Así como también, en esta sección se visualizará la(s) opción(es) 
 seleccionada(s). El *selector* es explicado en detalle en su sección del Manual de Usuario correspondiente.
 
-![Texto alternativo](/img/04-reports/01-calls/05-calls-detail/3-2.jpg) 
+![Texto alternativo](img/04-reports/01-calls/05-calls-detail/3-2.jpg) 
 **<center> Figura 4 - Menú Inferior(Sección tres) </center>**
 
-![Texto alternativo](/img/04-reports/01-calls/05-calls-detail/3-3.jpg) 
+![Texto alternativo](img/04-reports/01-calls/05-calls-detail/3-3.jpg) 
 **<center> Figura 5 - Menú Inferior(Sección tres) </center>**
 
 ### Zona de botones
 La zona de botones se caracteriza por brindar opciones al usuario que facilita la transformación, actualización y exportación de la información contenida en el reporte. Esta zona se conforma por tres (03)botones y una barra de búsqueda.
 
-![Texto alternativo](/img/04-reports/01-calls/05-calls-detail/4.jpg) 
+![Texto alternativo](img/04-reports/01-calls/05-calls-detail/4.jpg) 
 **<center> Figura 6 - Zona de botones </center>**
 
 #### Exportar excel
@@ -682,7 +682,7 @@ Ejecuta nuevamente la consulta a la base de datos para actualizar la informació
 #### Barra de búsqueda
 La barra de búsqueda permite al usuario hacer un filtrado rápido de la información expuesta en el reporte. La búsqueda se hace a través de los valores de los campos.
 
-![Texto alternativo](/img/04-reports/01-calls/05-calls-detail/4-1.jpg) 
+![Texto alternativo](img/04-reports/01-calls/05-calls-detail/4-1.jpg) 
 **<center> Figura 7 - Zona de botones(Barra de búsqueda) </center>**
 
 ### Tabla de contenido
@@ -690,13 +690,13 @@ Dentro de la tabla de contenido se despliega la información solicitada por el r
 
 Dentro de la tabla de contenido se despliega la información solicitada, esta información varía de acuerdo al reporte. Para el caso del reporte de detalles de llamadas, muestra los datos que identifica una llamada en el Call Center. Esta tabla se estructura de la siguiente forma:
 
-![Texto alternativo](/img/04-reports/01-calls/05-calls-detail/5.jpg) 
+![Texto alternativo](img/04-reports/01-calls/05-calls-detail/5.jpg) 
 **<center> Figura 8 - Tabla de contenido </center>**
 
 #### Grabación
 Indica la grabación de la llamada específica asociada a ese registro.
 
-![Texto alternativo](/img/04-reports/01-calls/05-calls-detail/6.jpg) 
+![Texto alternativo](img/04-reports/01-calls/05-calls-detail/6.jpg) 
 **<center> Figura 9 - Tabla de contenido(Grabación) </center>**
 
 #### Tipo de llamada
@@ -729,7 +729,7 @@ Indica la hora en la que la llamada asociada a ese registro fue atendida o reali
 #### Hora fin
 Indica la hora en la que la llamada asociada a ese registro fue finalizada o salió de la cola sin ser atendida.
 
-![Texto alternativo](/img/04-reports/01-calls/05-calls-detail/5-1.jpg) 
+![Texto alternativo](img/04-reports/01-calls/05-calls-detail/5-1.jpg) 
 **<center> Figura 10 - Tabla de contenido </center>**
 
 #### Duración
@@ -740,7 +740,7 @@ Indica la duración, de la llamada asociada a ese registro.
 #### Colgado cliente
 Indica la hora en la que la llamada fue colgada por el cliente.
 
-![Texto alternativo](/img/04-reports/01-calls/05-calls-detail/5-2.jpg) 
+![Texto alternativo](img/04-reports/01-calls/05-calls-detail/5-2.jpg) 
 **<center> Figura 11 - Tabla de contenido </center>**
 
 #### Colgado agente
@@ -767,13 +767,13 @@ Es una herramienta que proporciona al gerente o supervisor obtener los valores d
 ### Menú superior 
 Se encuentra ubicado en la parte superior de la ventana y en él podemos divisar: el logo de ProSer, el nombre del módulo, las opciones de las vistas que conforman el módulo, el nombre del usuario, el estado de conexión y la hora actual.
 
-![Texto alternativo](/img/04-reports/01-calls/06-abandoned-calls/2.jpg) 
+![Texto alternativo](img/04-reports/01-calls/06-abandoned-calls/2.jpg) 
 **<center> Figura 1 - Menú Superior </center>**
 
 ### Menú inferior 
 Se ubica debajo del *menú superior* y está dividido en tres (03) secciones que describen, de manera general, la vista actual. De izquierda a derecha: sección uno, sección dos y sección tres.
 
-![Texto alternativo](/img/04-reports/01-calls/06-abandoned-calls/3.jpg) 
+![Texto alternativo](img/04-reports/01-calls/06-abandoned-calls/3.jpg) 
 **<center> Figura 2 - Menú Inferior </center>**
 
 #### Sección uno
@@ -788,22 +788,22 @@ En la sección tres, al hacer clic sobre “Filtre la información aquí”,
 encontramos el *selector* de opciones. Esta funcionalidad proporciona la capacidad de filtrar, a través de un abanico de posibilidades, la 
 información que se muestra en la pizarra de indicadores.
 
-![Texto alternativo](/img/04-reports/01-calls/06-abandoned-calls/3-1.jpg) 
+![Texto alternativo](img/04-reports/01-calls/06-abandoned-calls/3-1.jpg) 
 **<center> Figura 3 - Menú Inferior(Sección tres) </center>**
 
 Así como también, en esta sección se visualizará la(s) opción(es) 
 seleccionada(s). El *selector* es explicado en detalle en su sección del Manual de Usuario correspondiente.
 
-![Texto alternativo](/img/04-reports/01-calls/06-abandoned-calls/3-2.jpg) 
+![Texto alternativo](img/04-reports/01-calls/06-abandoned-calls/3-2.jpg) 
 **<center> Figura 4 - Menú Inferior(Sección tres) </center>**
 
-![Texto alternativo](/img/04-reports/01-calls/06-abandoned-calls/3-3.jpg) 
+![Texto alternativo](img/04-reports/01-calls/06-abandoned-calls/3-3.jpg) 
 **<center> Figura 5 - Menú Inferior(Sección tres) </center>**
 
 ### Zona de botones
 La zona de botones se caracteriza por brindar opciones al usuario que facilita la transformación, actualización y exportación de la información contenida en el reporte. Esta zona se conforma por tres (03)botones y una barra de búsqueda.
 
-![Texto alternativo](/img/04-reports/01-calls/06-abandoned-calls/4.jpg) 
+![Texto alternativo](img/04-reports/01-calls/06-abandoned-calls/4.jpg) 
 **<center> Figura 6 - Zona de botones </center>**
 
 #### Exportar excel
@@ -816,14 +816,14 @@ Ejecuta nuevamente la consulta a la base de datos para actualizar la informació
 #### Barra de búsqueda
 La barra de búsqueda permite al usuario hacer un filtrado rápido de la información expuesta en el reporte. La búsqueda se hace a través de los valores de los campos.
 
-![Texto alternativo](/img/04-reports/01-calls/06-abandoned-calls/4-1.jpg) 
+![Texto alternativo](img/04-reports/01-calls/06-abandoned-calls/4-1.jpg) 
 **<center> Figura 7 - Zona de botones(Barra de búsqueda) </center>**
 
 ### Tabla de contenido
 Dentro de la tabla de contenido se despliega la información solicitada, 
 esta información varía de acuerdo al reporte. Para el caso del registro de llamadas abandonadas, muestra los datos que identifica una llamada que no fue atendida al ingresar al Call Center. Esta tabla se estructura de la siguiente forma:
 
-![Texto alternativo](/img/04-reports/01-calls/06-abandoned-calls/5.jpg) 
+![Texto alternativo](img/04-reports/01-calls/06-abandoned-calls/5.jpg) 
 **<center> Figura 8 - Tabla de contenido </center>**
 
 #### Origen
@@ -867,13 +867,13 @@ Es una herramienta que proporciona al gerente o supervisor obtener los valores d
 ### Menú superior 
 Se encuentra ubicado en la parte superior de la ventana y en él podemos divisar: el logo de ProSer, el nombre del módulo, las opciones de las vistas que conforman el módulo, el nombre del usuario, el estado de conexión y la hora actual.
 
-![Texto alternativo](/img/04-reports/01-calls/07-wait-time/2.jpg) 
+![Texto alternativo](img/04-reports/01-calls/07-wait-time/2.jpg) 
 **<center> Figura 1 - Menú Superior </center>**
 
 ### Menú inferior 
 Se ubica debajo del *menú superior* y está dividido en tres (03) secciones que describen, de manera general, la vista actual. De izquierda a derecha: sección uno, sección dos y sección tres.
 
-![Texto alternativo](/img/04-reports/01-calls/07-wait-time/3.jpg) 
+![Texto alternativo](img/04-reports/01-calls/07-wait-time/3.jpg) 
 **<center> Figura 2 - Menú Inferior </center>**
 
 #### Sección uno
@@ -888,22 +888,22 @@ En la sección tres, al hacer clic sobre “Filtre la información aquí”,
 encontramos el *selector* de opciones. Esta funcionalidad proporciona la capacidad de filtrar, a través de un abanico de posibilidades, la 
 información que se muestra en la pizarra de indicadores.
 
-![Texto alternativo](/img/04-reports/01-calls/07-wait-time/3-1.jpg) 
+![Texto alternativo](img/04-reports/01-calls/07-wait-time/3-1.jpg) 
 **<center> Figura 3 - Menú Inferior(Sección tres) </center>**
 
 Así como también, en esta sección se visualizará la(s) opción(es) 
 seleccionada(s). El *selector* es explicado en detalle en su sección del Manual de Usuario correspondiente.
 
-![Texto alternativo](/img/04-reports/01-calls/07-wait-time/3-2.jpg) 
+![Texto alternativo](img/04-reports/01-calls/07-wait-time/3-2.jpg) 
 **<center> Figura 4 - Menú Inferior(Sección tres) </center>**
 
-![Texto alternativo](/img/04-reports/01-calls/07-wait-time/3-3.jpg) 
+![Texto alternativo](img/04-reports/01-calls/07-wait-time/3-3.jpg) 
 **<center> Figura 5 - Menú Inferior(Sección tres) </center>**
 
 ### Zona de botones
 La zona de botones se caracteriza por brindar opciones al usuario que facilita la transformación, actualización y exportación de la información contenida en el reporte. Esta zona se conforma por tres (03)botones y una barra de búsqueda.
 
-![Texto alternativo](/img/04-reports/01-calls/07-wait-time/4.jpg) 
+![Texto alternativo](img/04-reports/01-calls/07-wait-time/4.jpg) 
 **<center> Figura 6 - Zona de botones </center>**
 
 #### Gráfico
@@ -911,7 +911,7 @@ Permite visualizar la información de los indicadores principales del reporte en
 
 Dentro de la vista del gráfico aparecen dos (02) botones: Tabla, Recalcular.
 
-![Texto alternativo](/img/04-reports/01-calls/07-wait-time/4-1.jpg) 
+![Texto alternativo](img/04-reports/01-calls/07-wait-time/4-1.jpg) 
 **<center> Figura 7 - Zona de botones(Gráfico) </center>**
 
 ##### Tabla
@@ -930,13 +930,13 @@ reporte hacia un archivo excel.
 #### Barra de búsqueda
 La barra de búsqueda permite al usuario hacer un filtrado rápido de la información expuesta en el reporte. La búsqueda se hace a través de los valores de los campos.
 
-![Texto alternativo](/img/04-reports/01-calls/07-wait-time/4-2.jpg) 
+![Texto alternativo](img/04-reports/01-calls/07-wait-time/4-2.jpg) 
 **<center> Figura 8 - Zona de botones(Barra de búsqueda) </center>**
 
 ### Tabla de contenido
 Dentro de la tabla de contenido se despliega la información solicitada por el reporte, esta información varía de acuerdo al reporte. Para el caso del reporte de tiempos de espera: 
 
-![Texto alternativo](/img/04-reports/01-calls/07-wait-time/5.jpg) 
+![Texto alternativo](img/04-reports/01-calls/07-wait-time/5.jpg) 
 **<center> Figura 9 - Tabla de contenido </center>**
 
 #### Fecha
@@ -993,13 +993,13 @@ Es una herramienta que proporciona al gerente o supervisor obtener los valores d
 ### Menú superior 
 Se encuentra ubicado en la parte superior de la ventana y en él podemos divisar: el logo de ProSer, el nombre del módulo, las opciones de las vistas que conforman el módulo, el nombre del usuario, el estado de conexión y la hora actual.
 
-![Texto alternativo](/img/04-reports/02-agents/01-connection-disconnection/2.jpg) 
+![Texto alternativo](img/04-reports/02-agents/01-connection-disconnection/2.jpg) 
 **<center> Figura 1 - Menú Superior </center>**
 
 ### Menú inferior 
 Se ubica debajo del *menú superior* y está dividido en tres (03) secciones que describen, de manera general, la vista actual. De izquierda a derecha: sección uno, sección dos y sección tres.
 
-![Texto alternativo](/img/04-reports/02-agents/01-connection-disconnection/3.jpg) 
+![Texto alternativo](img/04-reports/02-agents/01-connection-disconnection/3.jpg) 
 **<center> Figura 2 - Menú Inferior </center>**
 
 #### Sección uno
@@ -1014,22 +1014,22 @@ En la sección tres, al hacer clic sobre “Filtre la información aquí”,
 encontramos el *selector* de opciones. Esta funcionalidad proporciona la capacidad de filtrar, a través de un abanico de posibilidades, la 
 información que se muestra en la pizarra de indicadores.
 
-![Texto alternativo](/img/04-reports/02-agents/01-connection-disconnection/3-1.jpg) 
+![Texto alternativo](img/04-reports/02-agents/01-connection-disconnection/3-1.jpg) 
 **<center> Figura 3 - Menú Inferior(Sección tres) </center>**
 
 Así como también, en esta sección se visualizará la(s) opción(es) 
 seleccionada(s). El *selector* es explicado en detalle en su sección del Manual de Usuario correspondiente.
 
-![Texto alternativo](/img/04-reports/02-agents/01-connection-disconnection/3-2.jpg) 
+![Texto alternativo](img/04-reports/02-agents/01-connection-disconnection/3-2.jpg) 
 **<center> Figura 4 - Menú Inferior(Sección tres) </center>**
 
-![Texto alternativo](/img/04-reports/02-agents/01-connection-disconnection/3-3.jpg) 
+![Texto alternativo](img/04-reports/02-agents/01-connection-disconnection/3-3.jpg) 
 **<center> Figura 5 - Menú Inferior(Sección tres) </center>**
 
 ### Zona de botones
 La zona de botones se caracteriza por brindar opciones al usuario que facilita la transformación, actualización y exportación de la información contenida en el reporte. Esta zona se conforma por tres (03)botones y una barra de búsqueda.
 
-![Texto alternativo](/img/04-reports/02-agents/01-connection-disconnection/4.jpg) 
+![Texto alternativo](img/04-reports/02-agents/01-connection-disconnection/4.jpg) 
 **<center> Figura 6 - Zona de botones </center>**
 
 #### Recalcular
@@ -1044,13 +1044,13 @@ Inicia el proceso de exportación de la información mostrada de manera detallad
 #### Barra de búsqueda
 La barra de búsqueda permite al usuario hacer un filtrado rápido de la información expuesta en el reporte. La búsqueda se hace a través de los valores de los campos.
 
-![Texto alternativo](/img/04-reports/02-agents/01-connection-disconnection/4-1.jpg) 
+![Texto alternativo](img/04-reports/02-agents/01-connection-disconnection/4-1.jpg) 
 **<center> Figura 7 - Zona de botones(Barra de búsqueda) </center>**
 
 ### Tabla de contenido
 Dentro de la tabla de contenido se despliega la información solicitada por el reporte, esta información varía de acuerdo al reporte. Para el caso del reporte de agentes conexión y desconexión muestra la sumarización de los valores por cada agente y se estructura de la siguiente forma:
 
-![Texto alternativo](/img/04-reports/02-agents/01-connection-disconnection/6.jpg) 
+![Texto alternativo](img/04-reports/02-agents/01-connection-disconnection/6.jpg) 
 **<center> Figura 8 - Tabla de contenido </center>**
 
 #### Conectado
@@ -1058,10 +1058,10 @@ Muestra un ícono que varía su color de acuerdo al estado de conexión del agen
 
 También el ícono es un botón que, al hacer clic sobre él, despliega una ventana informativa con el detalle de conexión y desconexión del agente seleccionado.
 
-![Texto alternativo](/img/04-reports/02-agents/01-connection-disconnection/5.jpg) 
+![Texto alternativo](img/04-reports/02-agents/01-connection-disconnection/5.jpg) 
 **<center> Figura 9 - Tabla de contenido(Conectado) </center>**
 
-![Texto alternativo](/img/04-reports/02-agents/01-connection-disconnection/5-1.jpg) 
+![Texto alternativo](img/04-reports/02-agents/01-connection-disconnection/5-1.jpg) 
 **<center> Figura 10 - Tabla de contenido(Conectado) </center>**
 
 #### Previo
@@ -1111,13 +1111,13 @@ Es una herramienta que proporciona al gerente o supervisor obtener los valores d
 ### Menú superior 
 Se encuentra ubicado en la parte superior de la ventana y en él podemos divisar: el logo de ProSer, el nombre del módulo, las opciones de las vistas que conforman el módulo, el nombre del usuario, el estado de conexión y la hora actual.
 
-![Texto alternativo](/img/04-reports/02-agents/02-auxiliary-details/2.jpg) 
+![Texto alternativo](img/04-reports/02-agents/02-auxiliary-details/2.jpg) 
 **<center> Figura 1 - Menú Superior </center>**
 
 ### Menú inferior 
 Se ubica debajo del *menú superior* y está dividido en tres (03) secciones que describen, de manera general, la vista actual. De izquierda a derecha: sección uno, sección dos y sección tres.
 
-![Texto alternativo](/img/04-reports/02-agents/02-auxiliary-details/3.jpg) 
+![Texto alternativo](img/04-reports/02-agents/02-auxiliary-details/3.jpg) 
 **<center> Figura 2 - Menú Inferior </center>**
 
 #### Sección uno
@@ -1132,22 +1132,22 @@ En la sección tres, al hacer clic sobre “Filtre la información aquí”,
 encontramos el *selector* de opciones. Esta funcionalidad proporciona la capacidad de filtrar, a través de un abanico de posibilidades, la 
 información que se muestra en la pizarra de indicadores.
 
-![Texto alternativo](/img/04-reports/02-agents/02-auxiliary-details/3-1.jpg) 
+![Texto alternativo](img/04-reports/02-agents/02-auxiliary-details/3-1.jpg) 
 **<center> Figura 3 - Menú Inferior(Sección tres) </center>**
 
 Así como también, en esta sección se visualizará la(s) opción(es) 
 seleccionada(s). El *selector* es explicado en detalle en su sección del Manual de Usuario correspondiente.
 
-![Texto alternativo](/img/04-reports/02-agents/02-auxiliary-details/3-2.jpg) 
+![Texto alternativo](img/04-reports/02-agents/02-auxiliary-details/3-2.jpg) 
 **<center> Figura 4 - Menú Inferior(Sección tres) </center>**
 
-![Texto alternativo](/img/04-reports/02-agents/02-auxiliary-details/3-3.jpg) 
+![Texto alternativo](img/04-reports/02-agents/02-auxiliary-details/3-3.jpg) 
 **<center> Figura 5 - Menú Inferior(Sección tres) </center>**
 
 ### Zona de botones
 La zona de botones se caracteriza por brindar opciones al usuario que facilita la transformación, actualización y exportación de la información contenida en el reporte. Esta zona se conforma por tres (03)botones y una barra de búsqueda.
 
-![Texto alternativo](/img/04-reports/02-agents/02-auxiliary-details/4.jpg) 
+![Texto alternativo](img/04-reports/02-agents/02-auxiliary-details/4.jpg) 
 **<center> Figura 6 - Zona de botones </center>**
 
 #### Recalcular
@@ -1162,13 +1162,13 @@ Inicia el proceso de exportación de la información mostrada de manera detallad
 #### Barra de búsqueda
 La barra de búsqueda permite al usuario hacer un filtrado rápido de la información expuesta en el reporte. La búsqueda se hace a través de los valores de los campos.
 
-![Texto alternativo](/img/04-reports/02-agents/02-auxiliary-details/4-1.jpg) 
+![Texto alternativo](img/04-reports/02-agents/02-auxiliary-details/4-1.jpg) 
 **<center> Figura 7 - Zona de botones(Barra de búsqueda) </center>**
 
 ### Tabla de contenido
 Dentro de la tabla de contenido se despliega la información solicitada por el reporte, esta información varía de acuerdo al reporte. Para el caso del reporte detallado de auxiliares muestra la sumarización de los valores por cada agente y se estructura de la siguiente forma: 
 
-![Texto alternativo](/img/04-reports/02-agents/02-auxiliary-details/5.jpg) 
+![Texto alternativo](img/04-reports/02-agents/02-auxiliary-details/5.jpg) 
 **<center> Figura 8 - Tabla de contenido </center>**
 
 #### Conectado
@@ -1176,10 +1176,10 @@ Muestra un ícono que varía su color de acuerdo al estado de conexión del agen
 
 También el ícono es un botón que, al hacer clic sobre él, despliega una ventana informativa con el detalle de los auxiliares del agente seleccionado.
 
-![Texto alternativo](/img/04-reports/02-agents/02-auxiliary-details/6.jpg) 
+![Texto alternativo](img/04-reports/02-agents/02-auxiliary-details/6.jpg) 
 **<center> Figura 9 - Tabla de contenido(Conectado) </center>**
 
-![Texto alternativo](/img/04-reports/02-agents/02-auxiliary-details/6-1.jpg) 
+![Texto alternativo](img/04-reports/02-agents/02-auxiliary-details/6-1.jpg) 
 **<center> Figura 10 - Tabla de contenido(Conectado) </center>**
 
 #### Previo
@@ -1226,13 +1226,13 @@ Es una herramienta que proporciona al gerente o supervisor obtener los valores d
 ### Menú superior 
 Se encuentra ubicado en la parte superior de la ventana y en él podemos divisar: el logo de ProSer, el nombre del módulo, las opciones de las vistas que conforman el módulo, el nombre del usuario, el estado de conexión y la hora actual.
 
-![Texto alternativo](/img/04-reports/02-agents/03-assignments-detail/2.jpg) 
+![Texto alternativo](img/04-reports/02-agents/03-assignments-detail/2.jpg) 
 **<center> Figura 1 - Menú Superior </center>**
 
 ### Menú inferior 
 Se ubica debajo del *menú superior* y está dividido en tres (03) secciones que describen, de manera general, la vista actual. De izquierda a derecha: sección uno, sección dos y sección tres.
 
-![Texto alternativo](/img/04-reports/02-agents/03-assignments-detail/3.jpg) 
+![Texto alternativo](img/04-reports/02-agents/03-assignments-detail/3.jpg) 
 **<center> Figura 2 - Menú Inferior </center>**
 
 #### Sección uno
@@ -1247,19 +1247,19 @@ En la sección tres, al hacer clic sobre “Filtre la información aquí”,
 encontramos el *selector* de opciones. Esta funcionalidad proporciona la capacidad de filtrar, a través de un abanico de posibilidades, la 
 información que se muestra en la pizarra de indicadores.
 
-![Texto alternativo](/img/04-reports/02-agents/03-assignments-detail/3-1.jpg) 
+![Texto alternativo](img/04-reports/02-agents/03-assignments-detail/3-1.jpg) 
 **<center> Figura 3 - Menú Inferior(Sección tres) </center>**
 
 Así como también, en esta sección se visualizará la(s) opción(es) 
 seleccionada(s). El *selector* es explicado en detalle en su sección del Manual de Usuario correspondiente.
 
-![Texto alternativo](/img/04-reports/02-agents/03-assignments-detail/3-2.jpg) 
+![Texto alternativo](img/04-reports/02-agents/03-assignments-detail/3-2.jpg) 
 **<center> Figura 4 - Menú Inferior(Sección tres) </center>**
 
 ### Zona de botones
 La zona de botones se caracteriza por brindar opciones al usuario que facilita la transformación, actualización y exportación de la información contenida en el reporte. Esta zona se conforma por tres (03)botones y una barra de búsqueda.
 
-![Texto alternativo](/img/04-reports/02-agents/03-assignments-detail/4.jpg) 
+![Texto alternativo](img/04-reports/02-agents/03-assignments-detail/4.jpg) 
 **<center> Figura 5 - Zona de botones </center>**
 
 #### Recalcular
@@ -1274,13 +1274,13 @@ Inicia el proceso de exportación de la información mostrada de manera detallad
 #### Barra de búsqueda
 La barra de búsqueda permite al usuario hacer un filtrado rápido de la información expuesta en el reporte. La búsqueda se hace a través de los valores de los campos.
 
-![Texto alternativo](/img/04-reports/02-agents/03-assignments-detail/4-1.jpg) 
+![Texto alternativo](img/04-reports/02-agents/03-assignments-detail/4-1.jpg) 
 **<center> Figura 6 - Zona de botones(Barra de búsqueda) </center>**
 
 ### Tabla de contenido
 Dentro de la tabla de contenido se despliega la informaciónsolicitada por el reporte, esta información varía de acuerdo al reporte. Para el caso del reporte detallado de asignaciones, se muestra lasumarización de los valores por cada agente y se estructura de la siguiente forma:
 
-![Texto alternativo](/img/04-reports/02-agents/03-assignments-detail/5.jpg) 
+![Texto alternativo](img/04-reports/02-agents/03-assignments-detail/5.jpg) 
 **<center> Figura 7 - Tabla de contenido </center>**
 
 #### Conectado
@@ -1288,7 +1288,7 @@ Muestra un ícono que varía su color de acuerdo al estado de conexión del agen
 
 También el ícono es un botón que, al hacer clic sobre él, despliega una ventana informativa con el detalle de las asignaciones del agente seleccionado.
 
-![Texto alternativo](/img/04-reports/02-agents/03-assignments-detail/6.jpg) 
+![Texto alternativo](img/04-reports/02-agents/03-assignments-detail/6.jpg) 
 **<center> Figura 8 - Tabla de contenido(Conectado) </center>**
 
 #### Previo
@@ -1331,13 +1331,13 @@ Es una herramienta que proporciona al gerente o supervisor obtener los valores d
 ### Menú superior 
 Se encuentra ubicado en la parte superior de la ventana y en él podemos divisar: el logo de ProSer, el nombre del módulo, las opciones de las vistas que conforman el módulo, el nombre del usuario, el estado de conexión y la hora actual.
 
-![Texto alternativo](/img/04-reports/03-operation/01-detailed-operating/2.jpg) 
+![Texto alternativo](img/04-reports/03-operation/01-detailed-operating/2.jpg) 
 **<center> Figura 1 - Menú Superior </center>**
 
 ### Menú inferior 
 Se ubica debajo del *menú superior* y está dividido en tres (03) secciones que describen, de manera general, la vista actual. De izquierda a derecha: sección uno, sección dos y sección tres.
 
-![Texto alternativo](/img/04-reports/03-operation/01-detailed-operating/3.jpg) 
+![Texto alternativo](img/04-reports/03-operation/01-detailed-operating/3.jpg) 
 **<center> Figura 2 - Menú Inferior </center>**
 
 #### Sección uno
@@ -1352,23 +1352,23 @@ En la sección tres, al hacer clic sobre “Filtre la información aquí”,
 encontramos el *selector* de opciones. Esta funcionalidad proporciona la capacidad de filtrar, a través de un abanico de posibilidades, la 
 información que se muestra en la pizarra de indicadores.
 
-![Texto alternativo](/img/04-reports/03-operation/01-detailed-operating/3-1.jpg) 
+![Texto alternativo](img/04-reports/03-operation/01-detailed-operating/3-1.jpg) 
 **<center> Figura 3 - Menú Inferior(Sección tres) </center>**
 
 Así como también, en esta sección se visualizará la(s) opción(es) 
 seleccionada(s). El *selector* es explicado en detalle en su sección del Manual de Usuario correspondiente.
 
-![Texto alternativo](/img/04-reports/03-operation/01-detailed-operating/3-2.jpg) 
+![Texto alternativo](img/04-reports/03-operation/01-detailed-operating/3-2.jpg) 
 **<center> Figura 4 - Menú Inferior(Sección tres) </center>**
 
-![Texto alternativo](/img/04-reports/03-operation/01-detailed-operating/3-3.jpg) 
+![Texto alternativo](img/04-reports/03-operation/01-detailed-operating/3-3.jpg) 
 **<center> Figura 5 - Menú Inferior(Sección tres) </center>**
 
 ### Zona de botones
 La zona de botones se caracteriza por brindar opciones al usuario que 
 facilita la transformación, actualización y exportación de la información contenida en el reporte. Esta zona se conforma por dos (02) botones y una barra de búsqueda.
 
-![Texto alternativo](/img/04-reports/03-operation/01-detailed-operating/4.jpg) 
+![Texto alternativo](img/04-reports/03-operation/01-detailed-operating/4.jpg) 
 **<center> Figura 6 - Zona de botones </center>**
 
 #### Exportar excel
@@ -1381,13 +1381,13 @@ Ejecuta nuevamente la consulta a la base de datos para actualizar la informació
 La barra de búsqueda permite al usuario hacer un filtrado rápido 
 de la información expuesta en el reporte. La búsqueda se hace a través de los valores de los campos.
 
-![Texto alternativo](/img/04-reports/03-operation/01-detailed-operating/4-1.jpg) 
+![Texto alternativo](img/04-reports/03-operation/01-detailed-operating/4-1.jpg) 
 **<center> Figura 7 - Zona de botones(Barra de búsqueda) </center>**
 
 ### Tabla de contenido
 Dentro de la tabla de contenido se despliega la información solicitada por el reporte, esta información varía de acuerdo al reporte. Para el caso del reporte de detalles de operaciones se muestra el detalle de los valores por cada agente y por cada día. Este reporte se estructura de la siguiente forma:
 
-![Texto alternativo](/img/04-reports/03-operation/01-detailed-operating/5.jpg) 
+![Texto alternativo](img/04-reports/03-operation/01-detailed-operating/5.jpg) 
 **<center> Figura 8 - Tabla de contenido </center>**
 
 #### Id agente
@@ -1417,7 +1417,7 @@ Indica la cantidad de tiempo empleado por el agente en auxiliares,expresado en f
 #### Duración seg asignaciones
 Indica la cantidad de tiempo empleado por el agente en asignaciones, expresado en formato de segundos.
 
-![Texto alternativo](/img/04-reports/03-operation/01-detailed-operating/5-1.jpg) 
+![Texto alternativo](img/04-reports/03-operation/01-detailed-operating/5-1.jpg) 
 **<center> Figura 9 - Tabla de contenido </center>**
 
 #### Duración seg disponible
@@ -1446,7 +1446,7 @@ Indica la cantidad de tiempo empleado por el agente en auxiliares,minutos y segu
 #### Duración hms asignaciones
 Indica la cantidad de tiempo empleado por el agente en asignaciones, expresado en formato de hora, minutos y segundos.
 
-![Texto alternativo](/img/04-reports/03-operation/01-detailed-operating/5-2.jpg) 
+![Texto alternativo](img/04-reports/03-operation/01-detailed-operating/5-2.jpg) 
 **<center> Figura 10 - Tabla de contenido </center>**
 
 #### Duración hms disponible
@@ -1473,7 +1473,7 @@ llamadas salientes manuales.
 Indica el porcentaje de tiempo empleado por el agente realizando 
 llamadas internas.
 
-![Texto alternativo](/img/04-reports/03-operation/01-detailed-operating/5-3.jpg) 
+![Texto alternativo](img/04-reports/03-operation/01-detailed-operating/5-3.jpg) 
 **<center> Figura 11 - Tabla de contenido </center>**
 
 #### Porcentaje auxiliares
@@ -1494,13 +1494,13 @@ Es una herramienta que proporciona al gerente o supervisor obtener los valores d
 ### Menú superior 
 Se encuentra ubicado en la parte superior de la ventana y en él podemos divisar: el logo de ProSer, el nombre del módulo, las opciones de las vistas que conforman el módulo, el nombre del usuario, el estado de conexión y la hora actual.
 
-![Texto alternativo](/img/04-reports/03-operation/02-consolidated-operating/2.jpg) 
+![Texto alternativo](img/04-reports/03-operation/02-consolidated-operating/2.jpg) 
 **<center> Figura 1 - Menú Superior </center>**
 
 ### Menú inferior 
 Se ubica debajo del *menú superior* y está dividido en tres (03) secciones que describen, de manera general, la vista actual. De izquierda a derecha: sección uno, sección dos y sección tres.
 
-![Texto alternativo](/img/04-reports/03-operation/02-consolidated-operating/3.jpg) 
+![Texto alternativo](img/04-reports/03-operation/02-consolidated-operating/3.jpg) 
 **<center> Figura 2 - Menú Inferior </center>**
 
 #### Sección uno
@@ -1515,23 +1515,23 @@ En la sección tres, al hacer clic sobre “Filtre la información aquí”,
 encontramos el *selector* de opciones. Esta funcionalidad proporciona la capacidad de filtrar, a través de un abanico de posibilidades, la 
 información que se muestra en la pizarra de indicadores.
 
-![Texto alternativo](/img/04-reports/03-operation/02-consolidated-operating/3-1.jpg) 
+![Texto alternativo](img/04-reports/03-operation/02-consolidated-operating/3-1.jpg) 
 **<center> Figura 3 - Menú Inferior(Sección tres) </center>**
 
 Así como también, en esta sección se visualizará la(s) opción(es) 
 seleccionada(s). El *selector* es explicado en detalle en su sección del Manual de Usuario correspondiente.
 
-![Texto alternativo](/img/04-reports/03-operation/02-consolidated-operating/3-2.jpg) 
+![Texto alternativo](img/04-reports/03-operation/02-consolidated-operating/3-2.jpg) 
 **<center> Figura 4 - Menú Inferior(Sección tres) </center>**
 
-![Texto alternativo](/img/04-reports/03-operation/02-consolidated-operating/3-3.jpg) 
+![Texto alternativo](img/04-reports/03-operation/02-consolidated-operating/3-3.jpg) 
 **<center> Figura 5 - Menú Inferior(Sección tres) </center>**
 
 ### Zona de botones
 La zona de botones se caracteriza por brindar opciones al usuario que 
 facilita la transformación, actualización y exportación de la información contenida en el reporte. Esta zona se conforma por dos (02) botones y una barra de búsqueda.
 
-![Texto alternativo](/img/04-reports/03-operation/02-consolidated-operating/4.jpg) 
+![Texto alternativo](img/04-reports/03-operation/02-consolidated-operating/4.jpg) 
 **<center> Figura 6 - Zona de botones </center>**
 
 #### Exportar excel
@@ -1544,13 +1544,13 @@ Ejecuta nuevamente la consulta a la base de datos para actualizar la informació
 La barra de búsqueda permite al usuario hacer un filtrado rápido 
 de la información expuesta en el reporte. La búsqueda se hace a través de los valores de los campos.
 
-![Texto alternativo](/img/04-reports/03-operation/02-consolidated-operating/4-1.jpg) 
+![Texto alternativo](img/04-reports/03-operation/02-consolidated-operating/4-1.jpg) 
 **<center> Figura 7 - Zona de botones(Barra de búsqueda) </center>**
 
 ### Tabla de contenido
 Dentro de la tabla de contenido se despliega la información solicitada por el reporte, esta información varía de acuerdo al reporte. Para el caso del reporte operativo consolidado se muestra la sumarización de los valores por cada agente y se estructura de la siguiente forma:
 
-![Texto alternativo](/img/04-reports/03-operation/02-consolidated-operating/5.jpg) 
+![Texto alternativo](img/04-reports/03-operation/02-consolidated-operating/5.jpg) 
 **<center> Figura 8 - Tabla de contenido </center>**
 
 #### Id agente
@@ -1582,7 +1582,7 @@ llamadas internas, expresado en formato de segundos.
 #### Duración seg auxiliares
 Indica la cantidad de tiempo empleado por el agente en auxiliares,expresado en formato de segundos.
 
-![Texto alternativo](/img/04-reports/03-operation/02-consolidated-operating/5-1.jpg) 
+![Texto alternativo](img/04-reports/03-operation/02-consolidated-operating/5-1.jpg) 
 **<center> Figura 9 - Tabla de contenido </center>**
 
 #### Duración seg asignaciones
@@ -1612,7 +1612,7 @@ llamadas internas, expresado en formato de hora, minutos y segundos.
 #### Duración hms auxiliares
 Indica la cantidad de tiempo empleado por el agente en auxiliares,minutos y segundos.
 
-![Texto alternativo](/img/04-reports/03-operation/02-consolidated-operating/5-2.jpg) 
+![Texto alternativo](img/04-reports/03-operation/02-consolidated-operating/5-2.jpg) 
 **<center> Figura 10 - Tabla de contenido </center>**
 
 #### Duración hms asignaciones
@@ -1638,7 +1638,7 @@ Indica el porcentaje de tiempo empleado por el agente atendiendollamadas entrant
 Indica el porcentaje de tiempo empleado por el agente realizando 
 llamadas salientes manuales.
 
-![Texto alternativo](/img/04-reports/03-operation/02-consolidated-operating/5-3.jpg) 
+![Texto alternativo](img/04-reports/03-operation/02-consolidated-operating/5-3.jpg) 
 **<center> Figura 11 - Tabla de contenido </center>**
 
 #### Porcentaje duración internas
@@ -1664,13 +1664,13 @@ Es una herramienta que proporciona al gerente o supervisor obtener los valores d
 ### Menú superior 
 Se encuentra ubicado en la parte superior de la ventana y en él podemos divisar: el logo de ProSer, el nombre del módulo, las opciones de las vistas que conforman el módulo, el nombre del usuario, el estado de conexión y la hora actual.
 
-![Texto alternativo](/img/04-reports/04-data/01-audit/2.jpg) 
+![Texto alternativo](img/04-reports/04-data/01-audit/2.jpg) 
 **<center> Figura 1 - Menú Superior </center>**
 
 ### Menú inferior 
 Se ubica debajo del *menú superior* y está dividido en tres (03) secciones que describen, de manera general, la vista actual. De izquierda a derecha: sección uno, sección dos y sección tres.
 
-![Texto alternativo](/img/04-reports/04-data/01-audit/3.jpg) 
+![Texto alternativo](img/04-reports/04-data/01-audit/3.jpg) 
 **<center> Figura 2 - Menú Inferior </center>**
 
 #### Sección uno
@@ -1685,23 +1685,23 @@ En la sección tres, al hacer clic sobre “Filtre la información aquí”,
 encontramos el *selector* de opciones. Esta funcionalidad proporciona la capacidad de filtrar, a través de un abanico de posibilidades, la 
 información que se muestra en la pizarra de indicadores.
 
-![Texto alternativo](/img/04-reports/04-data/01-audit/3-1.jpg) 
+![Texto alternativo](img/04-reports/04-data/01-audit/3-1.jpg) 
 **<center> Figura 3 - Menú Inferior(Sección tres) </center>**
 
 Así como también, en esta sección se visualizará la(s) opción(es) 
 seleccionada(s). El *selector* es explicado en detalle en su sección del Manual de Usuario correspondiente.
 
-![Texto alternativo](/img/04-reports/04-data/01-audit/3-2.jpg) 
+![Texto alternativo](img/04-reports/04-data/01-audit/3-2.jpg) 
 **<center> Figura 4 - Menú Inferior(Sección tres) </center>**
 
-![Texto alternativo](/img/04-reports/04-data/01-audit/3-3.jpg) 
+![Texto alternativo](img/04-reports/04-data/01-audit/3-3.jpg) 
 **<center> Figura 5 - Menú Inferior(Sección tres) </center>**
 
 ### Zona de botones
 La zona de botones se caracteriza por brindar opciones al usuario que 
 facilita la transformación, actualización y exportación de la información contenida en el reporte. Esta zona se conforma por dos (02) botones y una barra de búsqueda.
 
-![Texto alternativo](/img/04-reports/04-data/01-audit/4.jpg) 
+![Texto alternativo](img/04-reports/04-data/01-audit/4.jpg) 
 **<center> Figura 6 - Zona de botones </center>**
 
 #### Exportar excel
@@ -1714,19 +1714,19 @@ Ejecuta nuevamente la consulta a la base de datos para actualizar la informació
 La barra de búsqueda permite al usuario hacer un filtrado rápido 
 de la información expuesta en el reporte. La búsqueda se hace a través de los valores de los campos.
 
-![Texto alternativo](/img/04-reports/04-data/01-audit/4-1.jpg) 
+![Texto alternativo](img/04-reports/04-data/01-audit/4-1.jpg) 
 **<center> Figura 7 - Zona de botones(Barra de búsqueda) </center>**
 
 ### Tabla de contenido
 Dentro de la tabla de contenido se despliega la información solicitada, esta información varía de acuerdo al reporte. Para el caso del reporte de Audit, muestra los datos que registran la jornada de los agentes. Esta tabla se estructura de la siguiente forma:
 
-![Texto alternativo](/img/04-reports/04-data/01-audit/5.jpg) 
+![Texto alternativo](img/04-reports/04-data/01-audit/5.jpg) 
 **<center> Figura 8 - Tabla de contenido </center>**
 
-![Texto alternativo](/img/04-reports/04-data/01-audit/6.jpg) 
+![Texto alternativo](img/04-reports/04-data/01-audit/6.jpg) 
 **<center> Figura 9 - Tabla de contenido(Botón azul) </center>**
 
-![Texto alternativo](/img/04-reports/04-data/01-audit/7.jpg) 
+![Texto alternativo](img/04-reports/04-data/01-audit/7.jpg) 
 **<center> Figura 10 - Tabla de contenido(Botón azul) </center>**
 
 #### Id
@@ -1753,7 +1753,7 @@ Indica la duración de la actividad del agente asociada a ese registro. Este val
 #### Duración sec.
 Indica la duración, en segundos, de la actividad del agente asociada a ese registro.
 
-![Texto alternativo](/img/04-reports/04-data/01-audit/5-1.jpg) 
+![Texto alternativo](img/04-reports/04-data/01-audit/5-1.jpg) 
 **<center> Figura 11 - Tabla de contenido </center>**
 
 #### Id Agente
@@ -1771,7 +1771,7 @@ efectuó la actividad asociada a ese registro. Este campo aplica para las empres
 Indica el nombre del supervisor que dirige al agente que efectuó 
 la actividad relacionada a ese registro.
 
-![Texto alternativo](/img/04-reports/04-data/01-audit/5-2.jpg) 
+![Texto alternativo](img/04-reports/04-data/01-audit/5-2.jpg) 
 **<center> Figura 12 - Tabla de contenido </center>**
 
 #### Turno
@@ -1788,7 +1788,7 @@ efectuó la actividad relacionada a ese registro.
 #### Cola
 Indica el nombre de la cola a la que fue asignado el agente que efectuó la actividad relacionada a ese registro.
 
-![Texto alternativo](/img/04-reports/04-data/01-audit/5-2.jpg) 
+![Texto alternativo](img/04-reports/04-data/01-audit/5-2.jpg) 
 **<center> Figura 13 - Tabla de contenido </center>**
 
 #### Servicio
@@ -1803,13 +1803,13 @@ Es una herramienta que proporciona al gerente o supervisor obtener los valores d
 ### Menú superior 
 Se encuentra ubicado en la parte superior de la ventana y en él podemos divisar: el logo de ProSer, el nombre del módulo, las opciones de las vistas que conforman el módulo, el nombre del usuario, el estado de conexión y la hora actual.
 
-![Texto alternativo](/img/04-reports/04-data/02-cdr/2.jpg) 
+![Texto alternativo](img/04-reports/04-data/02-cdr/2.jpg) 
 **<center> Figura 1 - Menú Superior </center>**
 
 ### Menú inferior 
 Se ubica debajo del *menú superior* y está dividido en tres (03) secciones que describen, de manera general, la vista actual. De izquierda a derecha: sección uno, sección dos y sección tres.
 
-![Texto alternativo](/img/04-reports/04-data/02-cdr/3.jpg) 
+![Texto alternativo](img/04-reports/04-data/02-cdr/3.jpg) 
 **<center> Figura 2 - Menú Inferior </center>**
 
 #### Sección uno
@@ -1824,23 +1824,23 @@ En la sección tres, al hacer clic sobre “Filtre la información aquí”,
 encontramos el *selector* de opciones. Esta funcionalidad proporciona la capacidad de filtrar, a través de un abanico de posibilidades, la 
 información que se muestra en la pizarra de indicadores.
 
-![Texto alternativo](/img/04-reports/04-data/02-cdr/3-1.jpg) 
+![Texto alternativo](img/04-reports/04-data/02-cdr/3-1.jpg) 
 **<center> Figura 3 - Menú Inferior(Sección tres) </center>**
 
 Así como también, en esta sección se visualizará la(s) opción(es) 
 seleccionada(s). El *selector* es explicado en detalle en su sección del Manual de Usuario correspondiente.
 
-![Texto alternativo](/img/04-reports/04-data/02-cdr/3-2.jpg) 
+![Texto alternativo](img/04-reports/04-data/02-cdr/3-2.jpg) 
 **<center> Figura 4 - Menú Inferior(Sección tres) </center>**
 
-![Texto alternativo](/img/04-reports/04-data/02-cdr/3-3.jpg) 
+![Texto alternativo](img/04-reports/04-data/02-cdr/3-3.jpg) 
 **<center> Figura 5 - Menú Inferior(Sección tres) </center>**
 
 ### Zona de botones
 La zona de botones se caracteriza por brindar opciones al usuario que 
 facilita la transformación, actualización y exportación de la información contenida en el reporte. Esta zona se conforma por dos (02) botones y una barra de búsqueda.
 
-![Texto alternativo](/img/04-reports/04-data/02-cdr/4.jpg) 
+![Texto alternativo](img/04-reports/04-data/02-cdr/4.jpg) 
 **<center> Figura 6 - Zona de botones </center>**
 
 #### Exportar excel
@@ -1853,13 +1853,13 @@ Ejecuta nuevamente la consulta a la base de datos para actualizar la informació
 La barra de búsqueda permite al usuario hacer un filtrado rápido 
 de la información expuesta en el reporte. La búsqueda se hace a través de los valores de los campos.
 
-![Texto alternativo](/img/04-reports/04-data/02-cdr/4-1.jpg) 
+![Texto alternativo](img/04-reports/04-data/02-cdr/4-1.jpg) 
 **<center> Figura 7 - Zona de botones(Barra de búsqueda) </center>**
 
 ### Tabla de contenido
 Dentro de la tabla de contenido se despliega la información solicitada, esta información varía de acuerdo al reporte. Para el caso del registro de detalle de las llamadas, muestra los datos que identifica una llamada en todos sus procesos a través del Call Center. Esta tabla se estructura de la siguiente forma:
 
-![Texto alternativo](/img/04-reports/04-data/02-cdr/5.jpg) 
+![Texto alternativo](img/04-reports/04-data/02-cdr/5.jpg) 
 **<center> Figura 8 - Tabla de contenido </center>**
 
 #### Id
@@ -1895,7 +1895,7 @@ ese registro.
 Indica la última aplicación que ejecutó el canal de la llamada 
 asociada a ese registro.    
 
-![Texto alternativo](/img/04-reports/04-data/02-cdr/5-1.jpg) 
+![Texto alternativo](img/04-reports/04-data/02-cdr/5-1.jpg) 
 **<center> Figura 9 - Tabla de contenido </center>**
 
 #### lastdata
@@ -1937,13 +1937,13 @@ Está compuesto por un *menú superior, menú inferior, zona de botones* y la *t
 ### Menú superior 
 Se encuentra ubicado en la parte superior de la ventana y en él podemos divisar: el logo de ProSer, el nombre del módulo, las opciones de las vistas que conforman el módulo, el nombre del usuario, el estado de conexión y la hora actual.
 
-![Texto alternativo](/img/04-reports/04-data/03-callEntry/2.jpg) 
+![Texto alternativo](img/04-reports/04-data/03-callEntry/2.jpg) 
 **<center> Figura 1 - Menú Superior </center>**
 
 ### Menú inferior 
 Se ubica debajo del *menú superior* y está dividido en tres (03) secciones que describen, de manera general, la vista actual. De izquierda a derecha: sección uno, sección dos y sección tres.
 
-![Texto alternativo](/img/04-reports/04-data/03-callEntry/3.jpg) 
+![Texto alternativo](img/04-reports/04-data/03-callEntry/3.jpg) 
 **<center> Figura 2 - Menú Inferior </center>**
 
 #### Sección uno
@@ -1958,23 +1958,23 @@ En la sección tres, al hacer clic sobre “Filtre la información aquí”,
 encontramos el *selector* de opciones. Esta funcionalidad proporciona la capacidad de filtrar, a través de un abanico de posibilidades, la 
 información que se muestra en la pizarra de indicadores.
 
-![Texto alternativo](/img/04-reports/04-data/03-callEntry/3-1.jpg) 
+![Texto alternativo](img/04-reports/04-data/03-callEntry/3-1.jpg) 
 **<center> Figura 3 - Menú Inferior(Sección tres) </center>**
 
 Así como también, en esta sección se visualizará la(s) opción(es) 
 seleccionada(s). El *selector* es explicado en detalle en su sección del Manual de Usuario correspondiente.
 
-![Texto alternativo](/img/04-reports/04-data/03-callEntry/3-2.jpg) 
+![Texto alternativo](img/04-reports/04-data/03-callEntry/3-2.jpg) 
 **<center> Figura 4 - Menú Inferior(Sección tres) </center>**
 
-![Texto alternativo](/img/04-reports/04-data/03-callEntry/3-3.jpg) 
+![Texto alternativo](img/04-reports/04-data/03-callEntry/3-3.jpg) 
 **<center> Figura 5 - Menú Inferior(Sección tres) </center>**
 
 ### Zona de botones
 La zona de botones se caracteriza por brindar opciones al usuario que 
 facilita la transformación, actualización y exportación de la información contenida en el reporte. Esta zona se conforma por dos (02) botones y una barra de búsqueda.
 
-![Texto alternativo](/img/04-reports/04-data/03-callEntry/4.jpg) 
+![Texto alternativo](img/04-reports/04-data/03-callEntry/4.jpg) 
 **<center> Figura 6 - Zona de botones </center>**
 
 #### Exportar excel
@@ -1987,22 +1987,22 @@ Ejecuta nuevamente la consulta a la base de datos para actualizar la informació
 La barra de búsqueda permite al usuario hacer un filtrado rápido 
 de la información expuesta en el reporte. La búsqueda se hace a través de los valores de los campos.
 
-![Texto alternativo](/img/04-reports/04-data/03-callEntry/4-1.jpg) 
+![Texto alternativo](img/04-reports/04-data/03-callEntry/4-1.jpg) 
 **<center> Figura 7 - Zona de botones(Barra de búsqueda) </center>**
 
 ### Tabla de contenido
 Dentro de la tabla de contenido se despliega la información solicitada, esta información varía de acuerdo al reporte. Para el caso del registro de entrada de llamadas, muestra los datos que identifica una llamada al ingresar al Call Center. Esta tabla se estructura de la siguiente forma:
 
-![Texto alternativo](/img/04-reports/04-data/03-callEntry/5.jpg) 
+![Texto alternativo](img/04-reports/04-data/03-callEntry/5.jpg) 
 **<center> Figura 8 - Tabla de contenido </center>**
 
 #### Id
 Indica la identificación del registro dentro de la base de datos.
 
-![Texto alternativo](/img/04-reports/04-data/03-callEntry/6.jpg) 
+![Texto alternativo](img/04-reports/04-data/03-callEntry/6.jpg) 
 **<center> Figura 9 - Tabla de contenido(Id) </center>**    
 
-![Texto alternativo](/img/04-reports/04-data/03-callEntry/6-1.jpg) 
+![Texto alternativo](img/04-reports/04-data/03-callEntry/6-1.jpg) 
 **<center> Figura 10 - Tabla de contenido(Id) </center>**    
 
 #### Agente
@@ -2034,7 +2034,7 @@ registro.
 Indica el estado de la llamada: “terminada” para las llamadas 
 atendidas y “abandonada” para las llamadas abandonadas.
 
-![Texto alternativo](/img/04-reports/04-data/03-callEntry/5-1.jpg) 
+![Texto alternativo](img/04-reports/04-data/03-callEntry/5-1.jpg) 
 **<center> Figura 11 - Tabla de contenido </center>**  
 
 #### Espera seg
@@ -2054,7 +2054,7 @@ Indica la fecha de la llamada asociada a ese registro.
 
 #### Tiempo expirado
 
-![Texto alternativo](/img/04-reports/04-data/03-callEntry/5-2.jpg) 
+![Texto alternativo](img/04-reports/04-data/03-callEntry/5-2.jpg) 
 **<center> Figura 12 - Tabla de contenido </center>**  
 
 #### Tipo
@@ -2076,7 +2076,7 @@ Indica con el valor “1” si la llamada fue colgada por el llamante o cliente.
 
 #### Id llamante
 
-![Texto alternativo](/img/04-reports/04-data/03-callEntry/5-3.jpg) 
+![Texto alternativo](img/04-reports/04-data/03-callEntry/5-3.jpg) 
 **<center> Figura 13 - Tabla de contenido </center>**  
 
 #### Llamante

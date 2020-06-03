@@ -1,13 +1,13 @@
 
 # Display
-![Texto alternativo](/img/02-display/00-display-main/01-display.jpg)
+![Texto alternativo](img/02-display/00-display-main/01-display.jpg)
 
 La sección de Display está diseñada para mostrar todos los procesos del sistema en una pantalla de monitor para tener una referencia del estado actual del servicio en un salón amplio, ya que en esta sección no se pueden manipular dichos valores o información solo se pueden ver. Esta sección cuenta con dos opciones:
 
 # Presentaciones
 Esta opción contiene la vista de los procesos de las llamadas entrantes y salientes del sistema.
 
-![Texto alternativo](/img/02-display/00-display-main/02-display.jpg)
+![Texto alternativo](img/02-display/00-display-main/02-display.jpg)
 
 ## Display de llamadas entrantes
 El display de llamadas entrantes permite visualizar de manera general y en tiempo real los indicadores más relevantes para un *Call Center* en modalidad *Inbound*. Es una herramienta diseñada para proyectarse en monitores y se muestre a todo el personal.  
@@ -17,13 +17,13 @@ Este display está compuesto por un *menú superior, menú inferior* y la *pizar
 ### Menú superior
 Se encuentra ubicado en la parte superior de la ventana y en él podemos divisar: el logo de ProSer, el nombre del módulo, las opciones de las vistas que conforman el módulo, el nombre del usuario, el estado de conexión y la hora actual.
 
-![Texto alternativo](/img/02-display/01-presentations/01-incoming/01.jpg)
+![Texto alternativo](img/02-display/01-presentations/01-incoming/01.jpg)
 **<center> Figura 1 - Menú Superior  </center>**
 
 ### Menú inferior
 Se ubica debajo del *menú superior* y está dividido en tres (03) secciones que describen, de manera general, la vista actual. De izquierda a derecha: sección uno, sección dos y sección tres.
 
-![Texto alternativo](/img/02-display/01-presentations/01-incoming/02.jpg)
+![Texto alternativo](img/02-display/01-presentations/01-incoming/02.jpg)
 **<center> Figura 2 - Menú Inferior </center>**
 
 #### Sección uno
@@ -42,7 +42,7 @@ La pizarra de indicadores es la sección más relevante, ya que en ella se plasm
 #### Destacados
 Los destacados puntualizan los indicadores de mayor envergadura para la toma de decisiones por parte del supervisor o gerente. Este grupo se conforma por: nivel del servicio, nivel de atención,llamadas en cola,llamadas activas, agentes planificados, agentes conectados, agentes efectivos, tiempo medio de operación (TMO).
 
-![Texto alternativo](/img/02-display/01-presentations/01-incoming/03.jpg)
+![Texto alternativo](img/02-display/01-presentations/01-incoming/03.jpg)
 **<center> Figura 3 - Pizarra de Indicadores (Destacados) </center>**
 
 #### Nivel de servicio
@@ -76,7 +76,7 @@ Indica el tiempo promedio que dura un agente atendienduna llamada.
 El grupo de llamadas hace referencia a las métricas de todo lo 
 relacionado con la cantidad de llamadas en la operación. Este grupo lo conforman los siguientes indicadores: recibidas, atendidas, abandonadas,cortas, atendidas en menos de, atendidas en más de, colgadas por agente y pérdidas.
 
-![Texto alternativo](/img/02-display/01-presentations/01-incoming/04.jpg)
+![Texto alternativo](img/02-display/01-presentations/01-incoming/04.jpg)
 **<center> Figura 4 - Pizarra de Indicadores (Llamadas) </center>**
 
 ##### Recibidas
@@ -106,7 +106,7 @@ Indica la cantidad de llamadas que no son atendidas por un agente SIP y se pierd
 #### Niveles
 El grupo *niveles* expresa los indicadores de eficiencia del call center: nivel de servicio, nivel de atención y nivel de abandono.
 
-![Texto alternativo](/img/02-display/01-presentations/01-incoming/05.jpg)
+![Texto alternativo](img/02-display/01-presentations/01-incoming/05.jpg)
 **<center> Figura 5 - Pizarra de Indicadores (Niveles) </center>**
 
 ##### Nivel de servicio
@@ -121,7 +121,7 @@ Indica el porcentaje que representa la cantidad de llamadas no contestadas con r
 #### Tiempos
 El grupo *tiempos* puntualiza todos aquellos indicadores que su cálculo se basa en el tiempo, siempre expresados en segundos. Los indicadores de tiempo son: tiempo medio de operación, tiempo medio de espera, máxima espera en cola, máxima espera.
 
-![Texto alternativo](/img/02-display/01-presentations/01-incoming/06.jpg)
+![Texto alternativo](img/02-display/01-presentations/01-incoming/06.jpg)
 **<center> Figura 6 - Pizarra de Indicadores (Tiempos) </center>**
 
 ##### Tiempo medio de operación (TMO)
@@ -139,14 +139,14 @@ Indica el valor total del tiempo de espera de las llamadas que han sido recibida
 #### Agentes conectados
 Muestra un gráfico que expresa el estado actual de los agentes en ese instante.
 
-![Texto alternativo](/img/02-display/01-presentations/01-incoming/07.jpg)
+![Texto alternativo](img/02-display/01-presentations/01-incoming/07.jpg)
 **<center> Figura 7 - Pizarra de Indicadores (Agentes Conectados) </center>**
 
 #### Agentes en auxiliar/asignación
 Cuando hay agentes en break, se divisa dentro de este grupo un 
 resumen de: la cantidad de agentes en break, el tipo de break y el tiempo acumulado en ese break.
 
-![Texto alternativo](/img/02-display/01-presentations/01-incoming/08.jpg)
+![Texto alternativo](img/02-display/01-presentations/01-incoming/08.jpg)
 **<center> Figura 8 - Pizarra de Indicadores (Agentes en auxiliar/asignación) </center>**
 
 
@@ -158,13 +158,13 @@ Este display está compuesto por un *menú superior, menú inferior* y la *pizar
 ### Menú superior
 Se encuentra ubicado en la parte superior de la ventana y en él podemos divisar: el logo de ProSer, el nombre del módulo, las opciones de las vistas que conforman el módulo, el nombre del usuario, el estado de conexión y la hora actual.
 
-![Texto alternativo](/img/02-display/01-presentations/02-outgoing/01.jpg)
+![Texto alternativo](img/02-display/01-presentations/02-outgoing/01.jpg)
 **<center> Figura 1 - Menú Superior  </center>**
 
 ### Menú inferior
 Se ubica debajo del *menú superior* y está dividido en tres (03) secciones que describen, de manera general, la vista actual. De izquierda a derecha: sección uno, sección dos y sección tres.
 
-![Texto alternativo](/img/02-display/01-presentations/02-outgoing/02.jpg)
+![Texto alternativo](img/02-display/01-presentations/02-outgoing/02.jpg)
 **<center> Figura 2 - Menú Inferior </center>**
 
 #### Sección uno
@@ -182,7 +182,7 @@ La pizarra de indicadores es la sección más relevante, ya que en ella se plasm
 #### Destacados
 Los destacados puntualizan los indicadores de mayor envergadura para la toma de decisiones por parte del supervisor o gerente. Este grupo se conforma por: nivel del servicio, nivel de atención,llamadas en cola,llamadas activas, agentes planificados, agentes conectados, agentes efectivos, tiempo medio de operación (TMO).
 
-![Texto alternativo](/img/02-display/01-presentations/02-outgoing/03.jpg)
+![Texto alternativo](img/02-display/01-presentations/02-outgoing/03.jpg)
 **<center> Figura 3 - Pizarra de Indicadores (Destacados) </center>**
 
 ##### Nivel de contactabilidad
@@ -212,7 +212,7 @@ Indica el tiempo promedio que dura un agente realizando una llamada.
 #### Llamadas
 El grupo de llamadas hace referencia a las métricas de todo lo relacionado con la cantidad de llamadas en la operación. Este grupo lo conforman los siguientes indicadores: realizadas, fallidas, contestadas,efectivas y colgadas por agente.
 
-![Texto alternativo](/img/02-display/01-presentations/02-outgoing/04.jpg)
+![Texto alternativo](img/02-display/01-presentations/02-outgoing/04.jpg)
 **<center> Figura 4 - Pizarra de Indicadores (Llamadas) </center>**
 
 ##### Realizadas
@@ -234,7 +234,7 @@ Indica la cantidad de llamadas culminadas por los agentes,es decir, cuando la ll
 El grupo *niveles* expresa los indicadores de eficiencia del call center: nivel de contactabilidad y nivel de efectividad.
 
 
-![Texto alternativo](/img/02-display/01-presentations/02-outgoing/05.jpg)
+![Texto alternativo](img/02-display/01-presentations/02-outgoing/05.jpg)
 **<center> Figura 5 - Pizarra de Indicadores (Niveles) </center>**
 
 
@@ -248,7 +248,7 @@ Indica el porcentaje que representa las llamadas efectivas con respecto a la can
 El grupo *tiempos* puntualiza todos aquellos indicadores que su cálculo se basa en el tiempo, siempre expresados en segundos. Los indicadores de tiempo son: tiempo medio de operación, tiempo de operación.
 
 
-![Texto alternativo](/img/02-display/01-presentations/02-outgoing/06.jpg)
+![Texto alternativo](img/02-display/01-presentations/02-outgoing/06.jpg)
 **<center> Figura 6 - Pizarra de Indicadores (Tiempos) </center>**
 
 ##### Tiempo medio de operación (TMO)
@@ -260,19 +260,19 @@ Indica el tiempo de operación acumulado hasta ese instante.
 #### Agentes conectados
 Muestra un gráfico que expresa el estado actual de los agentes en ese instante.
 
-![Texto alternativo](/img/02-display/01-presentations/02-outgoing/07.jpg)
+![Texto alternativo](img/02-display/01-presentations/02-outgoing/07.jpg)
 **<center> Figura 7 - Pizarra de Indicadores (Agentes Conectados) </center>**
 
 #### Agentes en auxiliar/asignación
 Cuando hay agentes en break, se divisa dentro de este grupo un resumen de: la cantidad de agentes en break, el tipo de break y el tiempo acumulado en ese break.
 
-![Texto alternativo](/img/02-display/01-presentations/02-outgoing/08.jpg)
+![Texto alternativo](img/02-display/01-presentations/02-outgoing/08.jpg)
 **<center> Figura 8 - Pizarra de Indicadores (Agentes en auxiliar/asignación) </center>**
 
 # Monitor de colas
 Esta opción contiene las vistas de los monitores de llamadas, de agentes y de los indicadores.
 
-![Texto alternativo](/img/02-display/00-display-main/03-display.jpg)
+![Texto alternativo](img/02-display/00-display-main/03-display.jpg)
 
 ## Monitor de llamadas
 El monitor de llamadas es una herramienta que refleja el comportamiento, en tiempo real, de las llamadas entrantes en las colas activas. La información mostrada se basa en estadísticas que se actualizan cada cinco (05) segundos, ofreciendo al supervisor del Call Center la  oportunidad de hacer comparaciones rápidas que permitan mantener o cambiar el curso (según sea el caso) del nivel de atención y nivel de servicio para una mejor respuesta al cliente. Toda la información mostrada en el monitor corresponde al día actual, no maneja estadísticas históricas.  
@@ -282,13 +282,13 @@ Esta vista está conformada por un *menú superior, un menú inferior* y una *ta
 ### Menú superior 
 Se encuentra ubicado en la parte superior de la ventana y en él podemos divisar: el logo de ProSer, el nombre del módulo, las opciones de las vistas que conforman el módulo, el nombre del usuario, el estado de conexión y la hora actual.
 
-![Texto alternativo](/img/02-display/02-queue-monitor/01-call-monitor/03.jpg)
+![Texto alternativo](img/02-display/02-queue-monitor/01-call-monitor/03.jpg)
 **<center> Figura 1 - Menú Superior  </center>**
 
 ### Menú inferior
 Se ubica debajo del *menú superior* y está dividido en tres (03) secciones que describen, de manera general, la vista actual. De izquierda a derecha: sección uno, sección dos y sección tres.
 
-![Texto alternativo](/img/02-display/02-queue-monitor/01-call-monitor/04.jpg)
+![Texto alternativo](img/02-display/02-queue-monitor/01-call-monitor/04.jpg)
 **<center> Figura 2 - Menú Inferior </center>**
 
 #### Sección uno
@@ -303,7 +303,7 @@ No aplica para esta vista.
 ### Tabla de métricas
 Dentro de la tabla de métricas se ubica la información que contiene lasestadísticas, por cada cola activa, que componen al monitor de llamadas y las cuales se actualizan cada cinco (05) segundos. Las métricas son:
 
-![Texto alternativo](/img/02-display/02-queue-monitor/01-call-monitor/05.jpg)
+![Texto alternativo](img/02-display/02-queue-monitor/01-call-monitor/05.jpg)
 **<center> Figura 3 - Tabla de métricas </center>**
 
 #### Nombre Cola
@@ -366,13 +366,13 @@ Toda la información mostrada en el monitor corresponde al día actual, nomaneja
 ### Menú superior 
 Se encuentra ubicado en la parte superior de la ventana y en él podemos divisar: el logo de ProSer, el nombre del módulo, las opciones de las vistas que conforman el módulo, el nombre del usuario, el estado de conexión y la hora actual.
 
-![Texto alternativo](/img/02-display/02-queue-monitor/02-agent-monitor/02.jpg)
+![Texto alternativo](img/02-display/02-queue-monitor/02-agent-monitor/02.jpg)
 **<center> Figura 1 - Menú Superior </center>**
 
 ### Menú inferior
 Se ubica debajo del *menú superior* y está dividido en tres (03) secciones que describen, de manera general, la vista actual. De izquierda a derecha: sección uno, sección dos y sección tres.
 
-![Texto alternativo](/img/02-display/02-queue-monitor/02-agent-monitor/03.jpg)
+![Texto alternativo](img/02-display/02-queue-monitor/02-agent-monitor/03.jpg)
 **<center> Figura 2 - Menú Inferior </center>**
 
 #### Sección uno
@@ -387,7 +387,7 @@ No aplica para esta vista.
 ### Tabla de agentes
 Dentro de la tabla de agentes se ubica la información que contiene las estadísticas, por cada cola activa, que componen al monitor de agentes y las cuales se actualizan cada cinco (05)segundos.
 
-![Texto alternativo](/img/02-display/02-queue-monitor/02-agent-monitor/04.jpg)
+![Texto alternativo](img/02-display/02-queue-monitor/02-agent-monitor/04.jpg)
 **<center> Figura 3 - Tabla de agentes </center>**
 
 #### Nombre Cola
@@ -420,13 +420,13 @@ Esta vista está conformada por un *menú superior, un menú inferior* y una *ta
 ### Menú superior 
 Se encuentra ubicado en la parte superior de la ventana y en él podemos divisar: el logo de ProSer, el nombre del módulo, las opciones de las vistas que conforman el módulo, el nombre del usuario, el estado de conexión y la hora actual.
 
-![Texto alternativo](/img/02-display/02-queue-monitor/03-indicator-monitor/03.jpg)
+![Texto alternativo](img/02-display/02-queue-monitor/03-indicator-monitor/03.jpg)
 **<center> Figura 1 - Menú Superior </center>**
 
 ### Menú inferior
 Se ubica debajo del *menú superior* y está dividido en tres (03) secciones que describen, de manera general, la vista actual. De izquierda a derecha: sección uno, sección dos y sección tres.
 
-![Texto alternativo](/img/02-display/02-queue-monitor/03-indicator-monitor/04.jpg)
+![Texto alternativo](img/02-display/02-queue-monitor/03-indicator-monitor/04.jpg)
 **<center> Figura 2 - Menú Inferior </center>**
 
 #### Sección uno
@@ -441,7 +441,7 @@ No aplica para esta vista.
 ### Tabla de métricas
 Dentro de la tabla de métricas se ubica la información que contiene las estadísticas, por cada cola activa, que componen al monitor de llamadas y las cuales se actualizan cada cinco (05) segundos. Las métricas son:
 
-![Texto alternativo](/img/02-display/02-queue-monitor/03-indicator-monitor/05.jpg)
+![Texto alternativo](img/02-display/02-queue-monitor/03-indicator-monitor/05.jpg)
 **<center> Figura 3 - Tabla de métricas </center>**
 
 

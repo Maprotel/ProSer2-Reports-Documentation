@@ -4,7 +4,7 @@ En este módulo el usuario al cual se le determinó internamente hacer las modif
 
 Es oportuno destacar que si no puede visualizar este módulo es debido a su perfil de usuario, por lo tanto no puede procesar ninguna actividad dentro del mismo.
 
-![Texto alternativo](/img/06-system/03-system-main/system-main.jpg)
+![Texto alternativo](img/06-system/03-system-main/system-main.jpg)
 **<center> Vista Módulo Sistema </center>**
 
 ## Comandos para Reiniciar
@@ -17,7 +17,7 @@ La vista se compone de 2 partes: menú superior y zona de acción.
 Se encuentra ubicado en la parte superior de la ventana y en él podemos
 divisar: el logo de ProSer, el nombre del módulo, las opciones de las vistas que conforman el módulo, el nombre del usuario, el estado de conexión y la hora actual.
 
-![Texto alternativo](/img/06-system/01-comands/menu-superior.jpg)
+![Texto alternativo](img/06-system/01-comands/menu-superior.jpg)
 **<center> Figura 1 - Menú Superior </center>**
 
 ### Zona de acción
@@ -32,7 +32,7 @@ leyenda que señala las tareas que ejecutan dichos botones. El usuario dispone d
 sistema. 
 
 
-![Texto alternativo](/img/06-system/01-comands/zona-accion.jpg)
+![Texto alternativo](img/06-system/01-comands/zona-accion.jpg)
 **<center> Figura 2 - Zona de acción </center>**
 
 ## Configuración usuario
@@ -43,7 +43,7 @@ La vista de esta funcionalidad se divide en 3 grandes secciones que son: *menú 
 ### Menú superior
 El menú superior se encuentra ubicado en la parte superior de la ventana y dentro de él podemos divisar: el logo de ProSer, el nombre del módulo, las opciones de las vistas que conforman el módulo, el nombre del usuario, el estado de conexión y la hora actual.
 
-![Texto alternativo](/img/06-system/02-user/menu-superior.jpg)
+![Texto alternativo](img/06-system/02-user/menu-superior.jpg)
 
 **<center> Figura 1 - Menú Superior </center>**
 
@@ -51,7 +51,7 @@ El menú superior se encuentra ubicado en la parte superior de la ventana y dent
 Se ubica debajo del *menú superior* y contiene dos (2) secciones para
 realizar las actividades inherentes a este módulo.
 
-![Texto alternativo](/img/06-system/02-user/zona-botones.jpg)
+![Texto alternativo](img/06-system/02-user/zona-botones.jpg)
 
 **<center> Figura 2 - Zona de botones </center>**
 
@@ -59,7 +59,7 @@ realizar las actividades inherentes a este módulo.
 En esta sección se encuentra un indicador y tres (03) botones que
 permiten llevar a cabo acciones características del módulo de configuración. Dichas acciones se relacionan con la vista, edición, creación y/o eliminación de la data. A continuación se explica cada botón de izquierda a derecha:
 
-![Texto alternativo](/img/06-system/02-user/seccion-uno.jpg)
+![Texto alternativo](img/06-system/02-user/seccion-uno.jpg)
 
 **<center> Figura 3 - Zona de botones(Sección Uno) </center>**
 
@@ -74,7 +74,7 @@ estado en el que se encuentren.
 ##### Nuevo
 Sirve para generar un nuevo registro. Al hacer clic sobre *“Nuevo”*, la vista cambiará a un formulario que mostrará los campos a rellenar para hacer posible la creación de un nuevo usuario.
 
-![Texto alternativo](/img/06-system/02-user/new.jpg)
+![Texto alternativo](img/06-system/02-user/new.jpg)
 
 **<center> Figura 4 - Zona de botones(Nuevo) </center>**
 
@@ -85,7 +85,7 @@ Al hacer clic sobre el botón exportar, automáticamente se iniciará la descarg
 Esta sección está dividida en tres (3) partes que abarca el
 siguiente contenido:
 
-![Texto alternativo](/img/06-system/02-user/seccion-dos.jpg)
+![Texto alternativo](img/06-system/02-user/seccion-dos.jpg)
 
 **<center> Figura 5 - Zona de botones(Sección Dos) </center>**
 
@@ -103,7 +103,7 @@ Para la comodidad del usuario en las vista de los registros, este selector permi
 Dentro de la *tabla de contenido* se despliega la información
 correspondiente a los datos configurados del módulo. La información expuesta variará de acuerdo a la ejecución, que haga el usuario, de cada botón. Para el caso de la vista general se muestra la información con base en los siguientes campos:
 
-![Texto alternativo](/img/06-system/02-user/tabla-contenido.jpg)
+![Texto alternativo](img/06-system/02-user/tabla-contenido.jpg)
 
 **<center> Figura 6 - Tabla de Contenido </center>**
 
@@ -149,7 +149,7 @@ Al pulsar un registro de la tabla usted puede ahora hacer visibles dos
 nuevos botones los cuales sirven para ejecutar las siguientes actividades:
 
 
-![Texto alternativo](/img/06-system/02-user/pulsar-registro.jpg)
+![Texto alternativo](img/06-system/02-user/pulsar-registro.jpg)
 
 **<center> Figura 7 - Pulsar registro en la tabla de contenido </center>**
 
@@ -159,14 +159,14 @@ de las horas creadas, es decir podrá ver al detalle todos los datos
 referentes al registro previamente seleccionado.
 
 
-![Texto alternativo](/img/06-system/02-user/detail.jpg)
+![Texto alternativo](img/06-system/02-user/detail.jpg)
 
 **<center> Figura 8 - Detalles </center>**
 
 #### Editar
 Con este botón se desĺegará un formulario que permite editar la mayoría de los campos del registro seleccionado.
 
-![Texto alternativo](/img/06-system/02-user/edit.jpg)
+![Texto alternativo](img/06-system/02-user/edit.jpg)
 
 **<center> Figura 9 - Editar </center>**
 
